@@ -1,28 +1,24 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Black-Winged Oriole
 
 ## Species Type
+Oriole
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
-
-- 
-
----
-
-## Known Individuals
 
 - 
 

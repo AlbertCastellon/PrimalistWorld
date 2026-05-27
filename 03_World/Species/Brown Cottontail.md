@@ -1,28 +1,24 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Brown Cottontail
 
 ## Species Type
+Rabbit
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
-
-- 
-
----
-
-## Known Individuals
 
 - 
 

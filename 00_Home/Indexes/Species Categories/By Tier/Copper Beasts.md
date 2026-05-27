@@ -1,0 +1,13 @@
+# Copper Beasts
+- [[White Fox]]
+- [[Black-Winged Oriole]]
+- [[Brown Cottontail]]
+- [[Green Robber]]
+- [[Lesser Black Cerberus]]
+- [[Silver Wildcat]]
+- [[Two-Tailed Badger]]
+- [[Ghoul]]
+- [[Undead Boreal Wolf]]
+- [[Grassland Antelope]]
+- [[Plain Lion]]
+- [[Saber-Toothed Hare]]

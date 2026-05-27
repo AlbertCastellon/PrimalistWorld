@@ -14,6 +14,7 @@
 ## Non-Combat Classes
 
 - [[Blacksmith]]
+- [[Merchant]]
 - [[Artificer]]
 - [[Enchanter]]
 - [[Scholar]]

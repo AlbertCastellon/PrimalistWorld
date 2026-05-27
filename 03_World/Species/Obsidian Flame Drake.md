@@ -1,23 +1,22 @@
 ---
 type: species
 species_category: beast
-base_potential: "[[Gold Tier]]"
+base_potential: "[[Silver Tier]]"
 affinities:
+  - "[[Fire|Fire]]"
   - "[[Earth|Earth]]"
 ---
 
-# Three-Tailed Giant Scorpion
+# Galestrike Stalker
 
 ## Species Type
-Scorpion
+Drake
 
 ## Natural Affinity
-[[Earth|Earth]]
+- [[Earth]]
+- [[Fire]]
 
 ## Base Potential
-[[Gold Tier]]
+[[Silver Tier]]
 
 ## Characteristics
-- High defense
-- High Well Capacity
-- Low mobility

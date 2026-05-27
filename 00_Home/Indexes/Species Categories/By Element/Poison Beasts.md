@@ -1,0 +1,2 @@
+# Poison Beasts
+- [[Night Beetle]]

@@ -1,30 +1,27 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
-  -
+  - "[[Wind]]"
 ---
 
-# <% tp.file.title %>
+# Gale Hawk
 
 ## Species Type
 
+Hawk
+ 
 ---
 
 ## Base Potential
 
+- [[Iron Tier]]
 ---
 
 ## Natural Affinities
 
-- 
-
----
-
-## Known Individuals
-
-- 
+- [[Wind]]
 
 ---
 

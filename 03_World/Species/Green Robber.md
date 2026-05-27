@@ -6,25 +6,21 @@ affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Green Robber
 
 ## Species Type
+Snake
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
-
----
-
-## Known Individuals
-
-- 
+- [[Earth]]
 
 ---
 

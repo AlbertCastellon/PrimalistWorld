@@ -1,18 +1,20 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Thorn-Legged Mantis
 
 ## Species Type
+Mantis
 
 ---
 
 ## Base Potential
+[[Iron Tier]]
 
 ---
 
@@ -20,11 +22,6 @@ affinities:
 
 - 
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

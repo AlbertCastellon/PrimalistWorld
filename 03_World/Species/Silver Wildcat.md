@@ -1,28 +1,25 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Silver Wildcat
 
 ## Species Type
+
+Cat
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
-
-- 
-
----
-
-## Known Individuals
 
 - 
 

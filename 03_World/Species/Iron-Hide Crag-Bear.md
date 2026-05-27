@@ -1,30 +1,27 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Silver Tier]]"
 affinities:
-  -
+  - "[[Earth|Earth]]"
 ---
 
-# <% tp.file.title %>
+# Iron-Hide Crag-Bear
 
 ## Species Type
+Bear
 
 ---
 
 ## Base Potential
+[[Silver Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
+- [[Earth]]
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

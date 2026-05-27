@@ -4,20 +4,26 @@ species_category: beast
 base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Darkness|Darkness]]"
+  - "[[Fire|Fire]]"
 ---
 
-# Tenebrous Direwolf
+# One-Horned Imp
 
 ## Species Type
-Direwolf
+Demon
 
-## Natural Affinity
-[[Darkness|Darkness]]
+---
 
 ## Base Potential
 [[Silver Tier]]
 
-## Characteristics
-- Shadow manipulation
-- Enhanced agility
-- High nocturnal perception
+---
+
+## Natural Affinities
+
+- [[Darkness]]
+- [[Fire]]
+
+---
+
+## Notes

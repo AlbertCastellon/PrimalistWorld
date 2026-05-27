@@ -1,18 +1,20 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
 
-# <% tp.file.title %>
+# Saber-Toothed Hare
 
 ## Species Type
+Hare
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
@@ -20,11 +22,6 @@ affinities:
 
 - 
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

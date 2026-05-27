@@ -1,30 +1,29 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
-  -
+  - "[[Water]]"
 ---
 
-# <% tp.file.title %>
+# White Fox
 
 ## Species Type
+
+Fox
 
 ---
 
 ## Base Potential
 
+[[Copper Tier]]
+
 ---
 
 ## Natural Affinities
 
-- 
+- [[Water]]
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

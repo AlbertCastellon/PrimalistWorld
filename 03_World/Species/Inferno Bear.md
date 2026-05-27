@@ -1,28 +1,21 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
-  -
+  - "[[Fire|Fire]]"
 ---
 
-# Oracle Snake
+# Inferno Bear
 
 ## Species Type
-Snake
+Bear
 
 ## Natural Affinity
-
+- [[Fire]]
 
 ## Base Potential
-
+[[Iron Tier]]
 
 ## Characteristics
 
-- Can read superficial thoughts
-
----
-## Related Concepts
-
-- [[Oracle]]
-- [[Oracle Guild]]

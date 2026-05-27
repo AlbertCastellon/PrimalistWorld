@@ -1,24 +1,28 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
-  -
+  - "[[Lightning|Lightning]]"
+  - "[[Poison|Poison]]"
 ---
 
-# <% tp.file.title %>
+# Night Beetle
 
 ## Species Type
+Beetle
 
 ---
 
 ## Base Potential
+[[Iron Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
+- [[Lightning]]
+- [[Poison]]
 
 ---
 

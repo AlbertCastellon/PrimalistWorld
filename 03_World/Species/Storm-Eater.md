@@ -1,30 +1,27 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
-  -
+  - "[[Lightning|Lightning]]"
 ---
 
-# <% tp.file.title %>
+# Untitled
 
 ## Species Type
+Tiger
 
 ---
 
 ## Base Potential
+[[Iron Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
+- [[Lightning]]
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

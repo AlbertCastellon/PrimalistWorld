@@ -1,30 +1,27 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
-  -
+  - "[[03_World/Elements/Undead]]"
 ---
 
-# <% tp.file.title %>
+# Undead Boreal Wolf
 
 ## Species Type
+Wolf
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
+- [[03_World/Elements/Undead]]
 
----
-
-## Known Individuals
-
-- 
 
 ---
 

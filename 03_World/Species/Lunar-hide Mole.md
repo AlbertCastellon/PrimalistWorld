@@ -1,30 +1,26 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Iron Tier]]"
 affinities:
-  -
+  - "[[Light|Light]]"
 ---
 
-# <% tp.file.title %>
+# Untitled
 
 ## Species Type
+Mole
 
 ---
 
 ## Base Potential
+[[Iron Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
-
----
-
-## Known Individuals
-
-- 
+- [[Light]]
 
 ---
 

@@ -1,24 +1,26 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: "[[Copper Tier]]"
 affinities:
-  -
+  - "[[Wind]]"
 ---
 
-# <% tp.file.title %>
+# Grassland Antelope
 
 ## Species Type
+Antelope 
 
 ---
 
 ## Base Potential
+[[Copper Tier]]
 
 ---
 
 ## Natural Affinities
 
-- 
+- [[Wind]]
 
 ---
 

@@ -1,53 +1,31 @@
 # Species
 
-## Mammals
-
-### Canines
-
-- [[Tenebrous Direwolf]]
-
-### Felines
-
-- [[Galestrike Stalker]]
-
-
-## Arthropods
-
-- [[Three-Tailed Giant Scorpion]]
-
-
-## Reptiles
-
-- [[Oracle Snake]]
+## Creature Types
+- [[Mammals]]
+- [[Arthropods]]
+- [[Birds]]
+- [[Reptiles]]
+- [[Undeads]]
+- [[Demons]]
 
 ---
 
 # By Affinity
+- [[Earth Beasts]]
+- [[Water Beasts]]
+- [[Fire Beasts]]
+- [[Wind Beasts]]
+- [[Lightning Beasts]]
+- [[Light Beasts]]
+- [[Darkness Beasts]]
+- [[Poison Beasts]]
+- [[Undead Beasts]]
 
-## Darkness
-
-- [[Tenebrous Direwolf]]
-
-## Earth
-
-- [[Three-Tailed Giant Scorpion]]
-## Wind
-
-- [[Galestrike Stalker]]
 
 ---
 
 # By Potential Tier
-
-## Copper
-
-## Iron 
-
-## Silver 
-
-- [[Tenebrous Direwolf]]
-- [[Galestrike Stalker]]
-
-## Gold 
-
-- [[Three-Tailed Giant Scorpion]]
+- [[Copper Beasts]]
+- [[Iron Beasts]]
+- [[Silver Beasts]]
+- [[Gold Beasts]]
