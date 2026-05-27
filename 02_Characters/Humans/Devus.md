@@ -1,0 +1,32 @@
+---
+type: character
+class: "[[Guardian|Guardian]]"
+subclass:
+rank: Mid-Iron
+affinities:
+  - "[[Light|Light]]"
+companion:
+---
+# DEVUS
+
+## Overview
+
+**Class:** [[Guardian|Guardian]] | **Subclass:**  | **Rank:** 38 (Mid-Iron)
+## 🧬 Essence Development
+
+##  ✨ Elemental Affinities
+
+- [[Light|Light]]
+## 🌱 Seeds
+
+## 📊 Stats
+
+## 📜 Spells
+
+## 🤝 Relationships
+
+- [[Seth|Seth]]
+- [[Jenna|Jenna]]
+- [[Elena]]
+
+## 📝 Notes

@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2922dd4f182b2475",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f488a9f846ce3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec519cbbf5237236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Home/Indexes/Species.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Species"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93238ed2cadd389f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee3500c1e3854d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0313468cfcb288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1f98bc37c6cf9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f87d60707dc22069",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87fd7968437254c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14a7f00be0f821b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c0c7c1b4d6410a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tenebrous Direwolf.md"
+            }
+          },
+          {
+            "id": "fdd9444ae6840183",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Tenebrous Direwolf.md"
+            }
+          },
+          {
+            "id": "33528667621727a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0fc7b44ff4917293",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "de236e49d49d4248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tenebrous Direwolf.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ec519cbbf5237236",
+  "lastOpenFiles": [
+    "00_Home/Home.md.md",
+    "04_System/Classes/Primalist.md",
+    "02_Characters/Humans/Seth.md",
+    "03_World/Organizations/Branches/Champions of Chaos.md",
+    "04_System/Classes/Priest.md",
+    "03_World/Organizations/Noble Houses/Surani House.md",
+    "02_Characters/Humans/Elena.md",
+    "02_Characters/Humans/Selena.md",
+    "03_World/Organizations/Guilds/Class Organizations/Guardian Fortress.md",
+    "03_World/Organizations/Guilds/Class Organizations/Elementalist Scriptorium.md",
+    "03_World/Organizations/Guilds/Class Organizations/Priest Temple.md",
+    "03_World/Organizations/Guilds/Class Organizations/Rogue's Hideout.md",
+    "03_World/Organizations/Guilds/Class Organizations/Warrior Arena.md",
+    "03_World/Organizations/Guilds/Class Organizations/Primalist Den.md",
+    "03_World/Elements/Water.md",
+    "03_World/Elements/Earth.md",
+    "03_World/Elements/Darkness.md",
+    "03_World/Elements/Null.md",
+    "03_World/Elements/Lightning.md",
+    "03_World/Elements/Undead.md",
+    "03_World/Elements/Wind.md",
+    "03_World/Elements/Poison.md",
+    "03_World/Elements/Light.md",
+    "03_World/Elements/Fire.md",
+    "03_World/Elements/Ice.md",
+    "03_World/Essences/Heart Brown-peak Mountain.md",
+    "04_System/Tiers",
+    "00_Home/Indexes",
+    "03_World/Organizations/Branches",
+    "03_World/Organizations/Guilds/Class Organizations",
+    "03_World/Organizations/Guilds",
+    "03_World/Organizations/Noble Houses",
+    "03_World/Organizations/Nations/Sin nombre",
+    "03_World/Organizations/Nations",
+    "03_World/Organizations",
+    "04_System/Spells"
+  ]
+}
