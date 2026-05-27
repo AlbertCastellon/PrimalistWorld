@@ -25,6 +25,8 @@ companion:
 
 ## 📜 Spells
 
+- [[Cold Channel]]
+
 ## 🤝 Relationships
 
 - Member of [[Surani House]] 

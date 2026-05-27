@@ -5,7 +5,7 @@ subclass:
 rank: Mid-Iron
 affinities:
   - "[[Light|Light]]"
-companion:
+companion: "[[Cub 1]]"
 ---
 # DEVUS
 

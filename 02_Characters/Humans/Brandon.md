@@ -1,14 +1,13 @@
 ---
 type: character
-class: "[[Rogue]]"
+class: "[[Guardian|Guardian]]"
 subclass:
 rank: Mid-Iron
 affinities:
-  - "[[Wind]]"
-companion: "[[Cub 3]]"
+companion:
 ---
 
-# Untitled
+# Brandon Surani
 
 ## Overview
 
@@ -22,6 +21,7 @@ companion: "[[Cub 3]]"
 
 ## 📜 Spells
 
+- [[Lightning Tribulation]]
 ## 🤝 Relationships
 
 ## 📝 Notes

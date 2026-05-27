@@ -26,4 +26,4 @@ Unknown
 
 ## Notes
 
-- Nature-oriented Primalist subclass.
+- Nature warrior enhancing their body through primal magic.

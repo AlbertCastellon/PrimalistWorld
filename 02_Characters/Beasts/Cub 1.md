@@ -8,19 +8,22 @@ affinities:
 contractor: "[[Devus]]"
 ---
 
-# Pup 1
+# Cub 1
 
-## Species
+**Species:** [[Galestrike Stalker]]
+**Current Stage:** Cub
 
-[[Galestrike Stalker]]
+**Base Species Potential:** [[Silver Tier]]
+**Current Potential:** [[Silver Tier]]
+**Rank:** 3 Low-Copper
 
-## Potential Tier
-
-[[Silver Tier]]
+**Contractor:** [[Devus]]
 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities
+
+[[Wind]]
 
 ## 🌱 Seeds
 

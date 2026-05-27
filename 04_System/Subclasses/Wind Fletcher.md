@@ -20,7 +20,7 @@ parent_class: "[[Rogue|Rogue.md]]"
 
 ## Known Users
 
-- 
+- [[Marine]]
 
 ---
 

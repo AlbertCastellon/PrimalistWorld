@@ -5,7 +5,7 @@ subclass:
 rank: Mid-Iron
 affinities:
   - "[[Lightning|Lightning]]"
-companion:
+companion: "[[Cub 2]]"
 ---
 
 # Untitled

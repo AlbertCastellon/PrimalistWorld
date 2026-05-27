@@ -32,9 +32,9 @@ companions:
   
 ## ✨ Elemental Affinities  
   
-| Element                                              | Rank       | Notes                                                |
-| :--------------------------------------------------- | :--------- | :--------------------------------------------------- |
-| ⚪ [[Null\|Null]]          | Low-Iron   | Innate                                               |
+| Element                   | Rank       | Notes                                   |
+| :------------------------ | :--------- | :-------------------------------------- |
+| ⚪ [[Null\|Null]]          | Low-Iron   | Innate                                  |
 | 🌑 [[Darkness\|Darkness]] | Peak-Iron  | Synchrony with [[Nightmare\|Nightmare]] |
 | ⛰️ [[Earth\|Earth]]       | High-Iron  | Synchrony with [[Colossus\|Colossus]]   |
 | 🧪 [[Poison\|Poison]]     | Mid-Copper | Synchrony with [[Colossus\|Colossus]]   |

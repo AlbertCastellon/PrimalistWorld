@@ -25,5 +25,5 @@ Unknown
 
 ## Notes
 
-- Beast-oriented Primalist subclass.
-- Exact nature currently unclear.
+- Beast companion specialist fighting alongside arcane creatures.
+- Allows for 3 contracted beasts instead of 1

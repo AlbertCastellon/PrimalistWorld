@@ -8,19 +8,22 @@ affinities:
 contractor: "[[Selena]]"
 ---
 
-# Pup 1
+# Cub 3
 
-## Species
+**Species:** [[Galestrike Stalker]]
+**Current Stage:** Cub
 
-[[Galestrike Stalker]]
+**Base Species Potential:** [[Silver Tier]]
+**Current Potential:** [[Silver Tier]]
+**Rank:** 3 Low-Copper
 
-## Potential Tier
-
-[[Silver Tier]]
+**Contractor:** [[Selena]]
 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities
+
+[[Wind]]
 
 ## 🌱 Seeds
 

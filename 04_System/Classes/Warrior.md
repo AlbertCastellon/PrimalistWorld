@@ -16,7 +16,7 @@ Combat-focused class specializing in physical strength, weapon mastery, and fron
 
 - [[Jenna|Jenna]]
 - [[Orwen]]
-
+- [[Henry]]
 
 ---
 

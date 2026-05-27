@@ -16,6 +16,7 @@ Beast-aligned combat class that draws power from nature, instincts, and contract
 
 - [[Seth|Seth]]
 - [[Ulric]]
+- [[Hector]]
 
 ---
 

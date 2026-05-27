@@ -1,23 +1,23 @@
 ---
 type: character
 class: "[[Rogue]]"
-subclass: "[[Dark Assassin]]"
+subclass: "[[Wind Fletcher]]"
 rank: Peak-Iron
 affinities:
-  - "[[Darkness|Darkness]]"
+  - "[[Wind]]"
 companion:
 ---
 
-# Kaelen
+# Marine Vancaws
 
 ## Overview
 
-**Class:** [[Rogue]] | **Subclass:** [[Dark Assassin]] | **Rank:** 60 (Peak-Iron)
+**Class:** [[Rogue]] | **Subclass:** [[Wind Fletcher]] | **Rank:** 60 (Peak-Iron)
 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities
-[[Darkness]]
+[[Wind]]
 
 ## 🌱Seeds
 
@@ -26,6 +26,5 @@ companion:
 ## 📜 Spells
 
 ## 🤝 Relationships
-- [[Floria]]
 
 ## 📝 Notes

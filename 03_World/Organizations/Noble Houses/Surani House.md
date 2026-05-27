@@ -43,6 +43,7 @@ One of the Twenty Great Houses of [[Kastal Kingdom|Kastal Kingdom]], renowned fo
 
 - [[Crusader|Crusader]]  
 - [[Guardian|Guardian]]
+- [[Lightning Tribulation]]
 
 ---
 

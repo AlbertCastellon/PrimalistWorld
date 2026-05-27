@@ -25,5 +25,4 @@ Unknown
 
 ## Notes
 
-- Beast-oriented Primalist subclass.
-- Exact nature currently unclear.
+- Long-range caster wielding destructive nature-based spells

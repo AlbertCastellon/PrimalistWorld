@@ -1,74 +1,58 @@
 ---
-type: species
-affinity:
-rank_scale:
-species_category: beast
-base_potential:
+type: spell
+
+spell_category: passive
+spell_tags:
+  - scalable
+  - legacy
+  - affinity-enhancing
+
+grade: Epic
+
 affinities:
-  -
+  - Ice
+
+tier_range:
+  start: Copper
+  end: Mid-Diamond
+
+legacy: "[[Friora Milleria]]"
+
+restrictions:
+  - "[[Elementalist]]"
+
+evolution_path: false
+
 ---
 
 # <% tp.file.title %>
 
-## Affinity
-
----
-
-## Rank Scale
-
----
-
 ## Description
+
+---
+
+## Scaling Effects
+
+| Tier | Effects |
+|---|---|
+| Copper | |
+| Iron | |
+| Silver | |
+| Gold | |
+| Platinum | |
+| Diamond | |
+
+---
+
+## Restrictions
+
+---
+
+## Legacy
 
 ---
 
 ## Known Users
-
-- 
-
----
-
-## Notes
-# Spell Template.md
-
-## Description
-
----
-
-## Base Potential
-
----
-
-## Natural Affinities
-
-- 
-
----
-
-## Known Individuals
-
-- 
-
----
-
-## Notes
-# Spell Template.md
-
-## Description
-
----
-
-## Base Potential
-
----
-
-## Natural Affinities
-
-- 
-
----
-
-## Known Individuals
 
 - 
 

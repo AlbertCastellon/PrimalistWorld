@@ -20,7 +20,7 @@ parent_class: "[[Warrior|Warrior]]"
 
 ## Known Users
 
-- 
+- [[Ronard]]
 
 ---
 
