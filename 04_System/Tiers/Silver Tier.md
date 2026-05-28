@@ -9,6 +9,7 @@ The third major progression tier, comes after Iron. In [[Kastal Kingdom]] is see
 ## Known Characteristics
 
 - Gets a boost of 300 stat points by reaching it.
+- Next [[Gold Tier]]
 
 ---
 

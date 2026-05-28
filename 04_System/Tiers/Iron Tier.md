@@ -9,6 +9,7 @@ The second major progression tier, comes after Copper. Commonly known as the com
 ## Known Characteristics
 
 - Gets a boost of 100 stat points by reaching it.
+- Next [[Silver Tier]]
 
 ---
 

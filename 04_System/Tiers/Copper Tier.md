@@ -10,6 +10,7 @@ First true combat tier after awakening.
 
 - Common among novice adventurers.
 - Needs the use of aether to reach it.
+- Next [[Iron Tier]]
 
 ---
 

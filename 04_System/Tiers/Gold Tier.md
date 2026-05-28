@@ -9,6 +9,7 @@ The fourth major progression tier, comes after Silver. In [[Kastal Kingdom]] is 
 ## Known Characteristics
 
 - Gets a boost of x stat points by reaching it.
+- Next [[Platinum Tier]]
 
 ---
 

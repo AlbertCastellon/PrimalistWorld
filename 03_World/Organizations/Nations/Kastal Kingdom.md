@@ -1,6 +1,6 @@
 ---
 type: organization
-organization_type: kingdom
+organization_type: nation
 capital: "[[Oskon]]"
 leader: "[[King Theron]]"
 ---
