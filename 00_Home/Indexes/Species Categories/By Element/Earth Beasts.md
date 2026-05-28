@@ -5,3 +5,7 @@
 - [[Green Robber]]
 - [[Plain Lion]]
 - [[Iron-Hide Crag-Bear]]
+- [[Desert Snake]]
+- [[Thick-Scaled Desert Snake]]
+- [[Mountain Howler]]
+- [[Ironhide Warthog]]

@@ -7,3 +7,7 @@
 - [[Storm-Eater]]
 - [[Lunar-hide Mole]]
 - [[Thorn-Legged Mantis]]
+- [[Desert Snake]]
+- [[Thick-Scaled Desert Snake]]
+- [[Mountain Howler]]
+- [[Ironhide Warthog]]

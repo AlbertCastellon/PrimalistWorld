@@ -24,3 +24,5 @@
 - [[Grassland Antelope]]
 ## Rhinoceros
 - [[Undead Rhinoceros]]
+## Pigs
+- [[Ironhide Warthog]]
