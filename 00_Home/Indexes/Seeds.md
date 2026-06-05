@@ -3,6 +3,7 @@
 ## Copper
 
 - [[Heartvein|Heartvein of Salavarus' Dark Mountain]]
+- [[Frigid Tulip|Frigid Tulip of the Astral Ice Cave]]
 
 ---
 ## Iron

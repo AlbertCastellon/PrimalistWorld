@@ -18,7 +18,6 @@ companion: "[[Cub 2]]"
 ## ✨ Elemental Affinities
 
 - [[Lightning]]
-
 ## 🌱 Seeds
 
 ## 📊 Stats

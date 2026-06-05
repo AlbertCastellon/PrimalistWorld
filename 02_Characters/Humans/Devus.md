@@ -4,14 +4,14 @@ class: "[[Guardian|Guardian]]"
 subclass:
 rank: Mid-Iron
 affinities:
-  - "[[Light|Light]]"
+  - "[[Light]]"
 companion: "[[Cub 1]]"
 ---
 # DEVUS
 
 ## Overview
 
-**Class:** [[Guardian|Guardian]] | **Subclass:**  | **Rank:** 38 (Mid-Iron)
+**Class:** [[Guardian]] | **Subclass:**  | **Rank:** 38 (Mid-Iron)
 ## 🧬 Essence Development
 
 ##  ✨ Elemental Affinities

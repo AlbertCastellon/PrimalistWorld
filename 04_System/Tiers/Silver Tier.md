@@ -18,7 +18,7 @@ The third major progression tier, comes after Iron. In [[Kastal Kingdom]] is see
 | Subtier     | Description               | Ranks   |
 | ----------- | ------------------------- | ------- |
 | Low-Silver  | Early stage of Silver     | 61 - 82 |
-| Mid-Silver  | Intermediate Silver stage | 92 -    |
+| Mid-Silver  | Intermediate Silver stage | 82 -    |
 | High-Silver | Advanced Silver rank      |         |
 | Peak-Silver | Near Gold breakthrough    | 120     |
 

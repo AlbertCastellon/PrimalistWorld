@@ -5,3 +5,6 @@
 - [[One-Horned Imp]]
 - [[Iron-Hide Crag-Bear]]
 - [[Skeleton Knight]]
+- [[Dark Elemental Executioner]]
+- [[Earth Rhinoceros Elemental]]
+- [[Ice Elemental]]

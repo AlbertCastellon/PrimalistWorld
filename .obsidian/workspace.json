@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62ab781a025150e5",
+            "id": "72d6764ecdcfddc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_World/Species/Ironhide Warthog.md",
+                "file": "03_World/Seeds/Petrified Tree Sap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ironhide Warthog"
+              "title": "Petrified Tree Sap"
             }
           }
         ]
@@ -194,43 +194,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62ab781a025150e5",
+  "active": "72d6764ecdcfddc2",
   "lastOpenFiles": [
-    "00_Home/Indexes/Species Categories/By Tier/Iron Beasts.md",
-    "03_World/Species/Undead Rhinoceros.md",
-    "00_Home/Indexes/Species Categories/Biologically/Mammals.md",
-    "00_Home/Indexes/Species Categories/Biologically/Undeads.md",
-    "00_Home/Indexes/Species Categories/By Element/Earth Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Undead Beasts.md",
-    "00_Home/Indexes/Species Categories/By Tier/Silver Beasts.md",
-    "03_World/Species/Skeleton Knight.md",
-    "03_World/Species/Ironhide Warthog.md",
-    "00_Home/Indexes/Species Categories/Biologically/Reptiles.md",
-    "00_Home/Indexes/Species Categories/By Element/Poison Beasts.md",
-    "03_World/Species/Mountain Howler.md",
-    "03_World/Species/Thick-Scaled Desert Snake.md",
-    "03_World/Species/Desert Snake.md",
+    "00_Home/Indexes/Seeds.md",
+    "00_Home/Indexes/Species.md",
     "00_Home/Home.md.md",
-    "02_Characters/Humans/Seth.md",
-    "02_Characters/Humans/Calvin.md",
-    "04_System/Tiers/Diamond Tier.md",
+    "00_Home/Indexes/Species Categories/By Tier/Silver Beasts.md",
+    "00_Home/Indexes/Species Categories/By Tier/Iron Beasts.md",
+    "00_Home/Indexes/Species Categories/By Tier/Copper Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Earth Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Wind Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Fire Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Water Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Lightning Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Light Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Darkness Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Poison Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Undead Beasts.md",
+    "00_Home/Indexes/Species Categories/Biologically/Mammals.md",
+    "00_Home/Indexes/Species Categories/Biologically/Arthropods.md",
+    "00_Home/Indexes/Species Categories/Biologically/Birds.md",
+    "00_Home/Indexes/Species Categories/Biologically/Undeads.md",
+    "00_Home/Indexes/Species Categories/Biologically/Reptiles.md",
+    "00_Home/Indexes/Species Categories/Biologically/Demons.md",
+    "00_Home/Indexes/Species Categories/Biologically/Humanoids.md",
+    "00_Home/Indexes/Species Categories/Biologically/Elementals.md",
+    "00_Home/Indexes/Species Categories/Biologically/Giants.md",
     "00_Home/Indexes/Tiers.md",
-    "02_Characters/Humans/Jenna.md",
-    "04_System/Spells/Spell System.md",
-    "04_System/Tiers/Platinum Tier.md",
-    "03_World/Organizations/Nations/Volantis.md",
-    "00_Home/Indexes/Subclasses.md",
-    "02_Characters/Humans/Devus.md",
-    "02_Characters/Beasts/Cub 1.md",
+    "00_Home/Indexes/Elements.md",
+    "00_Home/Indexes/Spells Categories/By Tier",
+    "00_Home/Indexes/Spells Categories/By Class",
+    "00_Home/Indexes/Spells Categories/By Element",
+    "00_Home/Indexes/Spells Categories",
     "00_Home/Indexes/Species Categories/By Tier",
     "00_Home/Indexes/Beast Categories/By Element 1",
     "00_Home/Indexes/Species Categories/By Element",
     "00_Home/Indexes/Species Categories/Biologically",
     "00_Home/Indexes/Species Categories",
-    "04_System/Tiers",
-    "00_Home/Indexes",
-    "03_World/Organizations/Branches",
-    "03_World/Organizations/Guilds/Class Organizations",
-    "03_World/Organizations/Guilds"
+    "04_System/Tiers"
   ]
 }

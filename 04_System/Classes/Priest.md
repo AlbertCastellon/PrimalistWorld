@@ -18,7 +18,7 @@ Support-oriented class capable of healing, blessings, and light-based magic.
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - [[Cleric]]
 

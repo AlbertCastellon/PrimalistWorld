@@ -1,0 +1,3 @@
+# Ice Beasts
+
+- [[Ice Elemental]]

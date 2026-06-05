@@ -9,7 +9,7 @@ leader: "[[Orwen]]"
 
 ## Overview
 
-Strongest branch in Kastal, with a power comparable to the Twenty Great Houses
+Strongest adventurer branch in Kastal, with a power comparable to the Twenty Great Houses
 
 ---
 

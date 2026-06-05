@@ -4,16 +4,14 @@ tier: Iron
 grade: Unknown
 affinity: "[[Null|Null]]"
 ---
-
 # Petrified Tree Sap
 
-## Initial Identification
-
-### Description
+## Description
 
 The sap of a Petrified Tree that bends and dampens surrounding aether. Within its facets, all elements fade into equilibrium.
 
-### Effects
+---
+## Effects
 
 Unknown
 

@@ -5,7 +5,6 @@ class_category: combat
 
 # Primalist
 
-
 ## Description
 
 Beast-aligned combat class that draws power from nature, instincts, and contracted beasts.
@@ -20,10 +19,15 @@ Beast-aligned combat class that draws power from nature, instincts, and contract
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - [[Beastmaster|Beastmaster]]
 
 ---
 
+## Related Concepts
+- [[Primalist Spells]]
+
+--- 
 ## Notes
+

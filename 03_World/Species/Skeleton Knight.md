@@ -3,7 +3,7 @@ type: species
 species_category: beast
 base_potential: "[[Silver Tier]]"
 affinities:
-  - "[[Undead]]"
+  - "[[03_World/Elements/Undead]]"
 ---
 
 # Skeleton Knight
@@ -20,7 +20,7 @@ Undead
 
 ## Natural Affinities
 
-- [[Undead]]
+- [[03_World/Elements/Undead]]
 
 ---
 

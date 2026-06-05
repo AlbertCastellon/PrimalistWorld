@@ -15,7 +15,7 @@ class_category:
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - 
 

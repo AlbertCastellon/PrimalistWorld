@@ -4,7 +4,6 @@ tier: Copper
 grade: Epic
 affinity: none
 ---
-
 # Heartvein of Salavarus' Dark Mountain
 
 ## Description

@@ -37,14 +37,14 @@ A passive spell from Friora Milleria’s Legacy that strengthens Ice-affinity sp
 
 ## Scaling Effects
 
-| Tier | Effects |
-|---|---|
-| Copper | Increases Arcane Power by 15%. Enhances all Ice-affinity spells by an additional 10% Arcane Power. |
-| Iron | Increases Arcane Power by 20%. Enhances all Ice-affinity spells by an additional 15% Arcane Power. |
-| Silver | Increases Arcane Power by 25%. Enhances all Ice-affinity spells by an additional 20% Arcane Power. |
-| Gold | Increases Arcane Power by 30%. Enhances all Ice-affinity spells by an additional 25% Arcane Power. |
+| Tier     | Effects                                                                                            |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| Copper   | Increases Arcane Power by 15%. Enhances all Ice-affinity spells by an additional 10% Arcane Power. |
+| Iron     | Increases Arcane Power by 20%. Enhances all Ice-affinity spells by an additional 15% Arcane Power. |
+| Silver   | Increases Arcane Power by 25%. Enhances all Ice-affinity spells by an additional 20% Arcane Power. |
+| Gold     | Increases Arcane Power by 30%. Enhances all Ice-affinity spells by an additional 25% Arcane Power. |
 | Platinum | Increases Arcane Power by 35%. Enhances all Ice-affinity spells by an additional 30% Arcane Power. |
-| Diamond | Increases Arcane Power by 40%. Enhances all Ice-affinity spells by an additional 35% Arcane Power. |
+| Diamond  | Increases Arcane Power by 40%. Enhances all Ice-affinity spells by an additional 35% Arcane Power. |
 
 ### Additional Effect
 

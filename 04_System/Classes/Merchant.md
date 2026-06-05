@@ -16,7 +16,7 @@ Economic and trade-oriented class specializing in negotiation, appraisal, and la
 - [[Sericar]]
 
 ---
-## Related Subclasses
+## Known Subclasses
 
 - 
 

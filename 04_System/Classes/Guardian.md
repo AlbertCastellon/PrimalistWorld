@@ -3,8 +3,7 @@ type: class
 class_category: combat
 ---
 
-# Primalist
-
+# Guardian
 
 ## Description
 
@@ -19,7 +18,7 @@ Defensive combat class focused on protection, endurance, and shielding allies.
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - [[Crusader|Crusader]]
 - [[Paladin|Paladin]]

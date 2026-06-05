@@ -4,7 +4,6 @@ tier: Iron
 grade: Epic
 affinity: "[[Darkness|Darkness]]"
 ---
-
 # Drop of Liquified Shadow Crystal
 
 ## Description

@@ -58,7 +58,7 @@ Targets with low pain tolerance may become temporarily paralyzed.
 
 ## Known Users
 
-- [[Seth Elrod]]
+- [[Seth]]
 
 ---
 

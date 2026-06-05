@@ -18,7 +18,7 @@ Arcane combat class specializing in elemental manipulation and ranged magical of
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - [[Battlemancer|Battlemancer]]
 - [[Cryomancer|Cryomancer]]

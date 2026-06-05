@@ -18,7 +18,7 @@ element_type: base
 ---
 ## Known Users
 
-- [[Devus|Devus]]
+- [[Devus]]
 
 ---
 ## Related Skills

@@ -6,11 +6,11 @@ rank: Mid-Iron
 affinities:
 companion:
 ---
-
 # Brandon Surani
 
 ## Overview
 
+**Class:** [[Guardian|Guardian]] | **Subclass:**  | **Rank:** 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities

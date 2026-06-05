@@ -1,0 +1,4 @@
+# Humanoids
+
+- [[Fishlord]]
+- [[Gnoll]]

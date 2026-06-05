@@ -19,7 +19,7 @@ Class specialized in imbuing objects with magical properties and aether effects.
 
 ## Known Users
 
-- 
+- [[Haldrik]]
 
 ---
 

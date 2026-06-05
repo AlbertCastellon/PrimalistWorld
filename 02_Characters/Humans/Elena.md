@@ -20,6 +20,8 @@ companion:
 ## ✨ Elemental Affinities
 
 ## 🌱 Seeds
+### [[Frigid Tulip|Frigid Tulip of the Astral Ice Cave]] | [[Copper Tier|Copper]] ~ Epic |
+#### Integrated Effects  
 
 ## 📊 Stats
 

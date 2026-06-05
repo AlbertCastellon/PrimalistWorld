@@ -1,4 +1,5 @@
 # Earth Beasts
+
 - [[Three-Tailed Giant Scorpion]]
 - [[Obsidian Flame Drake]]
 - [[Two-Tailed Badger]]
@@ -9,3 +10,5 @@
 - [[Thick-Scaled Desert Snake]]
 - [[Mountain Howler]]
 - [[Ironhide Warthog]]
+- [[Earth Elemental]]
+- [[Earth Rhinoceros Elemental]]

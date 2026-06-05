@@ -4,7 +4,6 @@ tier: Iron
 grade: Rare
 affinity: "[[Fire|Fire]]"
 ---
-
 # Phoenix Feather
 
 ## Description

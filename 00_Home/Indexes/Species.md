@@ -7,10 +7,14 @@
 - [[Reptiles]]
 - [[Undeads]]
 - [[Demons]]
+- [[Humanoids]]
+- [[Elementals]]
+- Spirits
+- [[Giants]]
 
 ---
 
-# By Affinity
+## By Affinity
 - [[Earth Beasts]]
 - [[Water Beasts]]
 - [[Fire Beasts]]
@@ -21,10 +25,9 @@
 - [[Poison Beasts]]
 - [[Undead Beasts]]
 
-
 ---
 
-# By Potential Tier
+## By Potential Tier
 - [[Copper Beasts]]
 - [[Iron Beasts]]
 - [[Silver Beasts]]

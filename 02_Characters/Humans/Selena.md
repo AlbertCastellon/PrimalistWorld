@@ -11,11 +11,13 @@ companion: "[[Cub 3]]"
 # Untitled
 
 ## Overview
+**Class:** [[Rogue]] | **Subclass:**  | **Rank:** 
 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities
 
+- [[Wind]]
 ## 🌱Seeds
 
 ## 📊Stats

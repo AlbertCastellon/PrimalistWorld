@@ -20,7 +20,6 @@ companion:
 
 - [[Fire|Fire]]
 - [[Wind|Wind]]
----
 ## 🌱Seeds
 
 ## 📊Stats
@@ -32,5 +31,6 @@ companion:
 ## 🤝 Relationships
 
 - [[Seth|Seth]]: Student and protegé
+- [[Champions of Chaos]]
 
 ## 📝 Notes

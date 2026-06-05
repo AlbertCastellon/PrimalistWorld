@@ -4,7 +4,6 @@ tier: Iron
 grade: Epic
 affinity: "[[Earth|Earth]]"
 ---
-
 # Titan Gem Shard
 
 ## Description

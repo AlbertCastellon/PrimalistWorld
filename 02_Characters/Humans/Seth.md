@@ -24,7 +24,7 @@ companions:
   
 | Category            | Level / Progress |
 | :------------------ | :--------------- |
-| 👁️ **Sensing**     | High-Iron        |
+| 👁️ **Sensing**     | Peak-Iron        |
 | 🌀 **Manipulation** | Peak-Iron        |
 | 🧬 **Talents**      | [RESTRICTED]     |
   
@@ -34,9 +34,9 @@ companions:
   
 | Element                   | Rank       | Notes                                   |
 | :------------------------ | :--------- | :-------------------------------------- |
-| ⚪ [[Null\|Null]]          | Low-Iron   | Innate                                  |
-| 🌑 [[Darkness\|Darkness]] | Peak-Iron  | Synchrony with [[Nightmare\|Nightmare]] |
-| ⛰️ [[Earth\|Earth]]       | High-Iron  | Synchrony with [[Colossus\|Colossus]]   |
+| ⚪ [[Null\|Null]]          | Mid-Iron   | Innate                                  |
+| 🌑 [[Darkness\|Darkness]] | Low-Silver | Synchrony with [[Nightmare\|Nightmare]] |
+| ⛰️ [[Earth\|Earth]]       | Peak-Iron  | Synchrony with [[Colossus\|Colossus]]   |
 | 🧪 [[Poison\|Poison]]     | Mid-Copper | Synchrony with [[Colossus\|Colossus]]   |
   
 ---  
@@ -66,11 +66,11 @@ companions:
   
 | Attribute            |  Value  | Breakdown      |
 | :------------------- | :-----: | :------------- |
-| 💪 **Strength**      | **131** | (112 + 19)     |
-| ✨ **Arcane Power**   | **127** | (101 + 22 + 4) |
+| 💪 **Strength**      | **132** | (113 + 19)     |
+| ✨ **Arcane Power**   | **128** | (102 + 22 + 4) |
 | 🛡️ **Toughness**    | **127** | (101 + 23 + 3) |
 | 🧪 **Well Capacity** | **96**  | (77 + 19)      |
-| ⚡ **Agility**        | **134** | (114 + 20)     |
+| ⚡ **Agility**        | **135** | (115 + 20)     |
 | 🧪 **Regeneration**  | **119** | (80 + 16 + 23) |
   
 ---  
@@ -79,8 +79,8 @@ companions:
   
 | Spell                            | Rank Scale                                            | Mastery  |
 | :------------------------------- | :---------------------------------------------------- | :------- |
-| 🌑 **[[Dusk Scythes]]**          | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Epic+ | Crude    |
-| 🥊 **[[Armored Phantom Fists]]** | [[Iron Tier\|Iron]] 〜 Legendary+                      | Decent   |
+| 🌑 **[[Dusk Scythes]]**          | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Epic+ | Decent   |
+| 🥊 **[[Armored Phantom Fists]]** | [[Iron Tier\|Iron]] 〜 Legendary+                      | Standard |
 | 💢 **[[Beastmaster Rage]]**      | [[Iron Tier\|Iron]] 〜 Epic+                           | Refined  |
 | 🌌 **[[Night Veil]]**            | [[Iron Tier\|Iron]] 〜 Epic                            | Refined  |
 | 🏃 **[[Huntbound Rush]]**        | [[Iron Tier\|Iron]] 〜 Uncommon                        | Flawless |

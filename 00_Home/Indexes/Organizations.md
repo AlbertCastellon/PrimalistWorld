@@ -11,6 +11,7 @@
 
 - [[Adventurer Guild]]
 - [[Crafter Guild]]
+- [[Oracle Guild]]
 
 ---
 

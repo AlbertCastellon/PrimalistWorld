@@ -19,7 +19,6 @@ companion:
 ## ✨ Elemental Affinities
 
 - [[Wind|Wind]]
-
 ## 🌱Seeds
 
 ## 📊Stats
@@ -27,5 +26,6 @@ companion:
 ## 📜 Spells
 
 ## 🤝 Relationships
+- [[Champions of Chaos]]
 
 ## 📝 Notes

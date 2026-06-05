@@ -20,7 +20,7 @@ Combat-focused class specializing in physical strength, weapon mastery, and fron
 
 ---
 
-## Related Subclasses
+## Known Subclasses
 
 - [[Barbarian|Barbarian]]
 - [[Weaponmaster|Weaponmaster]]

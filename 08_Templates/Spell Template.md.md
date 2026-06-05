@@ -1,28 +1,15 @@
 ---
 type: spell
-
-spell_category: passive
+spell_category:
 spell_tags:
-  - scalable
-  - legacy
-  - affinity-enhancing
-
-grade: Epic
-
+grade:
 affinities:
-  - Ice
-
 tier_range:
-  start: Copper
-  end: Mid-Diamond
-
-legacy: "[[Friora Milleria]]"
-
+  start: 
+  end: 
+legacy: 
 restrictions:
-  - "[[Elementalist]]"
-
 evolution_path: false
-
 ---
 
 # <% tp.file.title %>
