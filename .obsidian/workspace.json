@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_World/Seeds/Petrified Tree Sap.md",
+                "file": "04_System/Stats.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Petrified Tree Sap"
+              "title": "Stats"
             }
           }
         ]
@@ -196,9 +196,25 @@
   },
   "active": "72d6764ecdcfddc2",
   "lastOpenFiles": [
+    "03_World/Path.md",
+    "04_System/Progression.md",
+    "04_System/Class.md",
+    "04_System/Tiers/Platinum Tier.md",
+    "00_Home/Indexes/Tiers.md",
+    "04_System/Spells/Light Empowerment.md",
+    "04_System/Spells/Spell System.md",
+    "04_System/Spells/Sun Protection.md",
+    "04_System/Spells/Sun Warcry.md",
+    "00_Home/Indexes/Spells.md",
+    "04_System/Stats.md",
+    "00_Home/Home.md.md",
+    "04_System/Classes/Elementalist.md",
+    "02_Characters/Humans/Seth.md",
+    "04_System/Classes/Warrior.md",
+    "03_World/Aether.md",
+    "03_World/Seeds/Petrified Tree Sap.md",
     "00_Home/Indexes/Seeds.md",
     "00_Home/Indexes/Species.md",
-    "00_Home/Home.md.md",
     "00_Home/Indexes/Species Categories/By Tier/Silver Beasts.md",
     "00_Home/Indexes/Species Categories/By Tier/Iron Beasts.md",
     "00_Home/Indexes/Species Categories/By Tier/Copper Beasts.md",
@@ -206,22 +222,6 @@
     "00_Home/Indexes/Species Categories/By Element/Wind Beasts.md",
     "00_Home/Indexes/Species Categories/By Element/Fire Beasts.md",
     "00_Home/Indexes/Species Categories/By Element/Water Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Lightning Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Light Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Darkness Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Poison Beasts.md",
-    "00_Home/Indexes/Species Categories/By Element/Undead Beasts.md",
-    "00_Home/Indexes/Species Categories/Biologically/Mammals.md",
-    "00_Home/Indexes/Species Categories/Biologically/Arthropods.md",
-    "00_Home/Indexes/Species Categories/Biologically/Birds.md",
-    "00_Home/Indexes/Species Categories/Biologically/Undeads.md",
-    "00_Home/Indexes/Species Categories/Biologically/Reptiles.md",
-    "00_Home/Indexes/Species Categories/Biologically/Demons.md",
-    "00_Home/Indexes/Species Categories/Biologically/Humanoids.md",
-    "00_Home/Indexes/Species Categories/Biologically/Elementals.md",
-    "00_Home/Indexes/Species Categories/Biologically/Giants.md",
-    "00_Home/Indexes/Tiers.md",
-    "00_Home/Indexes/Elements.md",
     "00_Home/Indexes/Spells Categories/By Tier",
     "00_Home/Indexes/Spells Categories/By Class",
     "00_Home/Indexes/Spells Categories/By Element",
