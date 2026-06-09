@@ -120,7 +120,7 @@ For example, a Rift saturated with Ice Aether may contain Ice-affinity beasts, S
 
 ## Relationship with Seeds and Legacies
 
-Seeds and Legacies modify how a wielder interacts with Aether.
+Seeds and [[Legacies]] modify how a wielder interacts with Aether.
 
 Seeds often improve:
 
@@ -129,7 +129,7 @@ Seeds often improve:
 - Attribute growth
 - Affinity specialization
 
-Legacies can fundamentally alter the way Aether is perceived, manipulated, or integrated into a wielder's Path.
+Legacies can fundamentally alter the way Aether is perceived, manipulated, or integrated into a wielder's [[Path]].
 
 Some Legacies grant abilities that would otherwise be impossible through normal spellcasting.
 

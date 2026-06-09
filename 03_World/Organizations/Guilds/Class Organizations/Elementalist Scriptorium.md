@@ -2,7 +2,7 @@
 type: organization
 organization_type: class_organization
 associated_class: "[[Elementalist]]"
-affiliation: "[[Asethka Adventurer Guild]]"
+affiliation: "[[Adventurer Guild]]"
 ---
 
 # Elementalist Scriptorium
@@ -21,7 +21,7 @@ Specialized combat institution affiliated with the Adventurer Guild focused on W
 
 ## Parent Organization
 
-- [[Asethka Adventurer Guild]]
+- [[Adventurer Guild]]
 
 ---
 

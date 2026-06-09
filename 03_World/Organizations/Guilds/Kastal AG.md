@@ -4,10 +4,9 @@ organization_type: national_branch
 parent_organization: "[[Adventurer Guild|Adventurer Guild]]"
 nation: "[[Kastal Kingdom|Kastal Kingdom]]"
 ---
+# Kastal Adventurer Guild
 
-# Asterion Adventurer Guild
-
-## Local Chapters
+## Local Branches
 
 - [[Trogan]]
 - [[Oskon]]

@@ -7,7 +7,8 @@ element_type: unique
 
 ## Properties
 
-- Absorbs aether
+- Absorbs [[Aether]].
+- Creates a void in the ambiental [[Aether]].
 
 ---
 
@@ -23,7 +24,7 @@ element_type: unique
 
 ---
 
-## Related Skills
+## Related Spells
 
 - 
 

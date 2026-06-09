@@ -1,6 +1,6 @@
 ---
 type: seed
-tier: Copper
+tier: "[[Copper Tier]]"
 grade: Epic
 affinity: none
 ---

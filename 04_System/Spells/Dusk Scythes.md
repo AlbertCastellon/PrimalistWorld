@@ -16,9 +16,9 @@ affinities:
   - Darkness
 
 tier_range:
-  start: Iron
-  end: Silver
-
+  start: "[[Iron Tier]]"
+  end: "[[Silver Tier]]"
+  
 legacy:
 
 restrictions:
@@ -31,7 +31,6 @@ restrictions:
 evolution_path: false
 
 ---
-
 # Dusk Scythes
 
 ## Description

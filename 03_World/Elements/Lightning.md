@@ -26,9 +26,10 @@ element_type: base
 
 ---
 
-## Related Skills
+## Related Spells
 
-- 
+- [[Dark Shocking Strike]]
+- [[Shocking Strike]]
 
 ---
 

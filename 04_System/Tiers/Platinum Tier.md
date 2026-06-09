@@ -23,3 +23,4 @@
 
 ---
 ## Related Concepts
+- [[Platinum Spells]]

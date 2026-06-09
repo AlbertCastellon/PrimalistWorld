@@ -2,7 +2,7 @@
 type: organization
 organization_type: class_organization
 associated_class: "[[Warrior]]"
-affiliation: "[[Asethka Adventurer Guild]]"
+affiliation: "[[Adventurer Guild]]"
 ---
 
 # Warrior Arena
@@ -21,7 +21,7 @@ Specialized combat institution affiliated with the Adventurer Guild focused on W
 
 ## Parent Organization
 
-- [[Asethka Adventurer Guild]]
+- [[Adventurer Guild]]
 
 ---
 

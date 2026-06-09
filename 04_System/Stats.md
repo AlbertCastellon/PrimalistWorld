@@ -13,7 +13,7 @@ Represents physical toughness and defensive capabilities. It is directly opposed
 Represents the speed of movements and reactions, which translates in running speed, evasion capacity and technical close-quarters combat by allowing to react and move faster than the opponent. It is particularly important for Rogues though it can also be high in some subclasses of [[Warrior]].
 
 ### Arcane Power
-Represents the potency of a Wielder's spellsIt increases the potency of non-physical spells. It is dominant on [[Elementalist]]s and [[Priest]]s but can also be high for specializations of [[Rogue]]s or [[Warrior]]s.
+Represents the potency of a Wielder's spells. It increases the potency of non-physical spells. It is dominant on [[Elementalist]]s and [[Priest]]s but can also be high for specializations of [[Rogue]]s or [[Warrior]]s.
 
 ### Well Capacity
 Represents the total amount of Aether that a body can contain. It is the only basic stat that with the same value has a difference if the subjects are in different tiers. Because the relationship changes between tiers, Aether is commonly measured using a separate unit known as a unium. It is dominant in caster classes like [[Elementalist]] or [[Priest]] but can also be high in more support oriented [[Guardian]] subclasses.

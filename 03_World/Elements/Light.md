@@ -21,7 +21,7 @@ element_type: base
 - [[Devus]]
 
 ---
-## Related Skills
+## Related Spells
 
 - 
 

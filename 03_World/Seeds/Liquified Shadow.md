@@ -1,6 +1,6 @@
 ---
 type: seed
-tier: Iron
+tier: "[[Iron Tier]]"
 grade: Epic
 affinity: "[[Darkness|Darkness]]"
 ---

@@ -1,6 +1,6 @@
 ---
 type: seed
-tier: Iron
+tier: "[[Iron Tier]]"
 grade: Unknown
 affinity: "[[Null|Null]]"
 ---

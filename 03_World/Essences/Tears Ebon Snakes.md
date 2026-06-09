@@ -1,6 +1,6 @@
 ---
 type: essence
-tier: Iron
+tier: "[[Iron Tier]]"
 grade: Epic
 affinity: "[[Darkness]]"
 ---

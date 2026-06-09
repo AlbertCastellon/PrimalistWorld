@@ -24,3 +24,4 @@ The third major progression tier, comes after Iron. In [[Kastal Kingdom]] is see
 
 ---
 ## Related Concepts
+. [[Silver Spells]]

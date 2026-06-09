@@ -19,11 +19,13 @@
 - [[Iron Spells]]  
 - [[Silver Spells]]  
 - [[Gold Spells]]
+- [[Platinum Spells]]
+- [[Diamond Spells]]
 
 ## By Class
-- [[Warrior Spells]]  
-- [[Guardian Spells]]  
-- [[Rogue Spells]]  
-- [[Elementalist Spells]]  
-- [[Primalist Spells]]  
+- [[Warrior Spells]]
+- [[Guardian Spells]]
+- [[Rogue Spells]]
+- [[Elementalist Spells]]
+- [[Primalist Spells]]
 - [[Priest Spells]]

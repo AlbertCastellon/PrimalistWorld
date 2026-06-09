@@ -24,7 +24,7 @@ element_type: base
 ---
 ## Related Spells
 
-- [[Chains of Darkness|Chains of Darkness]]
+- [[Dusk Scythes]]
 
 ---
 ## Notes

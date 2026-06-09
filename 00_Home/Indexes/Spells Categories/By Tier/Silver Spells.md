@@ -1,3 +1,5 @@
+# Silver Spells
+
 - [[Cold Channel]]
 - [[Dusk Scythes]]
 - [[Sun Warcry]]

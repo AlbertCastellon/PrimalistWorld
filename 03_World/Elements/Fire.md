@@ -22,7 +22,7 @@ element_type: base
 - [[Calvin]]
 
 ---
-## Related Skills
+## Related Spells
 
 - 
 

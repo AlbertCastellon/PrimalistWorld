@@ -1,4 +1,4 @@
-# Gold Spells
+# Platinum Spells
 
 - [[Cold Channel]]
 - [[Sun Warcry]]

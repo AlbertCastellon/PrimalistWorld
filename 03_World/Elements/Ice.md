@@ -26,9 +26,10 @@ components:
 - [[Elena]]
 
 ---
-## Related Skills
+## Related Spells
 
 - [[Blizzard]]
+- [[Cold Channel]]
 
 ---
 ## Notes

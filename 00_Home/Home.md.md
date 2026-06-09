@@ -2,21 +2,21 @@
 
 ## Core Indexes
 
-- [[Classes]]
-- [[Subclasses]]
-- [[Characters]]
-- [[Organizations]]
-- [[Species]]
+- [[Classes Index]]
+- [[Subclasses Index]]
+- [[Characters Index]]
+- [[Organizations Index]]
+- [[Species Index]]
 
 ---
 
 ## Magic & Progression
 
-- [[Elements]]
-- [[Spells]]
-- [[Seeds]]
-- [[Essences]]
-- [[Tiers]]
+- [[Elements Index]]
+- [[Spells Index]]
+- [[Seeds Index]]
+- [[Essences Index]]
+- [[Tiers Index]]
 
 ---
 

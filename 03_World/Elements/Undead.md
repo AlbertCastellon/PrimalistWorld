@@ -23,9 +23,9 @@ element_type: base
 
 ---
 
-## Related Skills
+## Related Spells
 
-- 
+- [[Phantom Punch]]
 
 ---
 

@@ -23,3 +23,4 @@
 
 ---
 ## Related Concepts
+- [[Diamond Spells]]

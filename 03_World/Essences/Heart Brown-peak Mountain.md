@@ -1,6 +1,6 @@
 ---
 type: essence
-tier: Gold
+tier: "[[Gold Tier]]"
 grade: Rare
 affinity: "[[Earth]]"
 ---

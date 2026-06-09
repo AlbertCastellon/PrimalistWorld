@@ -9,13 +9,13 @@ leader: "[[King Theron]]"
 
 ## Overview
 
-Weak kingdom with highly restrictive laws that suppress commoners and hinder awakening opportunities.
+Weak kingdom with highly restrictive laws that suppress commoners and hinder awakening opportunities. Situated in the East continent
 
 ---
 
 ## Leadership
 
-- [[King Theron]]
+- [[King Therion]]
 
 ---
 
@@ -25,6 +25,17 @@ Weak kingdom with highly restrictive laws that suppress commoners and hinder awa
 
 ---
 
+## Major Noble Houses
+- Aureus House
+- Vancaws House
+- [[Surani House]]
+- Chester House
+- Cranner House
+- Crestor House
+- Durengar House
+- Ryehill House
+
+--- 
 ## Major Cities
 
 - [[Oskon]] — Capital City

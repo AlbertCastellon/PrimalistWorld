@@ -5,7 +5,9 @@ spell_tags:
 grade: Uncommon
 affinities:
   - None
-tier_range: start:[[Iron Tier]] end:[[Silver Tier]]
+tier_range:
+  start: "[[Iron Tier]]"
+  end: "[[Silver Tier]]"
 legacy:
 restrictions:
   - "[[Rogue]]"

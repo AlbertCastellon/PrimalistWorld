@@ -24,3 +24,4 @@ The fourth major progression tier, comes after Silver. In [[Kastal Kingdom]] is 
 
 ---
 ## Related Concepts
+- [[Gold Spells]]
