@@ -9,7 +9,6 @@ affinities:
 # Gale Hawk
 
 ## Species Type
-
 Hawk
  
 ---

@@ -9,7 +9,7 @@ affinities:
   - "[[Darkness|Darkness]]"
 contractor: "[[Seth|Seth]]"
 ---
-# NIGHTMARE
+# Nightmare
 
 **Species:** [[Tenebrous Direwolf|Tenebrous Direwolf]]
 **Current Stage:** Young

@@ -12,7 +12,7 @@ companions:
   - "[[Nightmare|Nightmare]]"
   - "[[Colossus|Colossus]]"
 ---
-# SETH ELROD
+# Seth Elrod
 ## Overview
 
 **Class:** [[Primalist|Primalist]] | **Subclass:** [[Beastmaster|Beastmaster]] | **Rank:** 49 (High-Iron)
@@ -67,7 +67,7 @@ companions:
 | Attribute            |  Value  | Breakdown      |
 | :------------------- | :-----: | :------------- |
 | 💪 **Strength**      | **132** | (113 + 19)     |
-| ✨ **Arcane Power**   | **128** | (102 + 22 + 4) |
+| ✨ **Arcane Power**   | **129** | (103 + 22 + 4) |
 | 🛡️ **Toughness**    | **127** | (101 + 23 + 3) |
 | 🧪 **Well Capacity** | **96**  | (77 + 19)      |
 | ⚡ **Agility**        | **135** | (115 + 20)     |
@@ -77,15 +77,16 @@ companions:
   
 ## 📜 Spells  
   
-| Spell                            | Rank Scale                                            | Mastery  |
-| :------------------------------- | :---------------------------------------------------- | :------- |
-| 🌑 **[[Dusk Scythes]]**          | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Epic+ | Decent   |
-| 🥊 **[[Armored Phantom Fists]]** | [[Iron Tier\|Iron]] 〜 Legendary+                      | Standard |
-| 💢 **[[Beastmaster Rage]]**      | [[Iron Tier\|Iron]] 〜 Epic+                           | Refined  |
-| 🌌 **[[Night Veil]]**            | [[Iron Tier\|Iron]] 〜 Epic                            | Refined  |
-| 🏃 **[[Huntbound Rush]]**        | [[Iron Tier\|Iron]] 〜 Uncommon                        | Flawless |
-| 🔍 **[[Intermediate Identify]]** | [[Iron Tier\|Iron]] 〜 Common                          | Standard |
-| ⚡ **[[Dark Shocking Strike]]**   | [[Copper Tier\|Copper]] Rare                          | Standard |
+| Spell                            | Rank Scale                                                | Mastery  |
+| :------------------------------- | :-------------------------------------------------------- | :------- |
+| 🏹 **[[Ravenous Arrow]]**        | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Legendary | Crude    |
+| 🌑 **[[Dusk Scythes]]**          | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Epic+     | Decent   |
+| 🥊 **[[Armored Phantom Fists]]** | [[Iron Tier\|Iron]] 〜 Legendary+                          | Standard |
+| 💢 **[[Beastmaster Rage]]**      | [[Iron Tier\|Iron]] 〜 Epic+                               | Refined  |
+| 🌌 **[[Night Veil]]**            | [[Iron Tier\|Iron]] 〜 Epic                                | Refined  |
+| 🏃 **[[Huntbound Rush]]**        | [[Iron Tier\|Iron]] 〜 Uncommon                            | Flawless |
+| 🔍 **[[Intermediate Identify]]** | [[Iron Tier\|Iron]] 〜 Common                              | Standard |
+| ⚡ **[[Dark Shocking Strike]]**   | [[Copper Tier\|Copper]] Rare                              | Standard |
 
 ---  
   

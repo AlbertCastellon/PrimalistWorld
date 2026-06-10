@@ -1,7 +1,7 @@
 # Essences
 
 ## Overview
-Essences are natural concentrations of elemental Aether that form within Rifts and other locations with exceptionally high Aether density. Unlike [[Seeds]], which are consumed to permanently enhance attributes, Essences serve primarily as cultivation resources that improve a Wielder's connection to [[Aether]] and influence their development over time.
+Essences are natural concentrations of elemental Aether that form within [[Rifts]] and other locations with exceptionally high Aether density. Unlike [[Seeds]], which are consumed to permanently enhance attributes, Essences serve primarily as cultivation resources that improve a Wielder's connection to [[Aether]] and influence their development over time.
 Every known Essence is associated with a specific element. No non-elemental Essences have been documented.
 Essences are often described as natural wellsprings of Aether powerful enough to alter the environment around them.
 
@@ -24,7 +24,7 @@ The primary use of an Essence is cultivation.
 Wielders frequently seek out Essences in order to train near them and expose themselves to their concentrated Aether.
 This process can improve:
 - Sensing
-- Manipulation]
+- Manipulation
 - Affinity
 Because of this, Essences are considered among the most valuable resources for long-term development.
 Unlike Seeds, Essences are not consumed during cultivation and can continue benefiting multiple users over extended periods of time.
@@ -54,16 +54,20 @@ Many organizations, noble families, guilds, and powerful Wielders go to great le
 ## Comparison with Seeds
 Although both are valuable Aetheric resources, Seeds and Essences serve very different purposes.
 
-|Seeds|Essences|
-|---|---|
-|Consumed directly|Used for cultivation|
-|Increase Stats|Improve Sensing, Manipulation, and Affinity|
-|Limited absorption per Tier|No known absorption limit|
-|Effects diminish through Tier breakthroughs|Benefits remain useful throughout progression|
-|Can be elemental or non-elemental|Always elemental|
-|Primarily increase power|Primarily shape development|
+| Seeds                                       | Essences                                      |
+| ------------------------------------------- | --------------------------------------------- |
+| Consumed directly                           | Used for cultivation                          |
+| Increase Stats                              | Improve Sensing, Manipulation, and Affinity   |
+| Limited absorption per Tier                 | No known absorption limit                     |
+| Effects diminish through Tier breakthroughs | Benefits remain useful throughout progression |
+| Can be elemental or non-elemental           | Always elemental                              |
+| Primarily increase power                    | Primarily shape development                   |
 
 ---
 ## Importance
-While Seeds are often used to increase immediate power, Essences are generally regarded as one of the greatest tools for long-term growth.
+While [[Seeds]] are often used to increase immediate power, Essences are generally regarded as one of the greatest tools for long-term growth.
 A powerful Essence can influence the development of Wielders, Arcane Beasts, and even entire regions for generations, making them some of the most coveted and closely guarded resources in existence.
+
+---
+## Notes
+- [[Essences Index]]

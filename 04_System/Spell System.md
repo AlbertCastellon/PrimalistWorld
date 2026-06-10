@@ -14,7 +14,7 @@ Grades are:
 ## Evolution paths
 A spell can be evolved, normally through scrolls but sometimes by carving new grooves, that evolution can change the spell's Tier or its Grade e.g.: [[Shocking Strike]] ([[Copper Tier]] and Uncommon) evolves to [[Dark Shocking Strike]] ([[Copper Tier]] and Rare) or [[Haste]] ([[Copper Tier]] and Uncommon) evolves to [[Huntbound Rush]] ([[Iron Tier]] and Uncommon), this evolution always reduces the user's mastery over the evolved spell compared to the mastery they had over the original one.
 ## Spell Mastery
- A spell can be mastered which makes it slightly more powerful and more efficient, consuming less aether. The mastery is determined by the refinement of the spell's grooves. The levels of mastery are:
+ A spell can be mastered which makes it slightly more powerful and more efficient, consuming less [[Aether]]. The mastery is determined by the refinement of the spell's grooves. The levels of mastery are:
  - Crude
  - Decent
  - Standard

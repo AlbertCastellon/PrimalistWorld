@@ -11,11 +11,17 @@ affinities:
 ## Species Type
 Bear
 
-## Natural Affinity
-- [[Fire]]
+---
 
 ## Base Potential
 [[Iron Tier]]
 
-## Characteristics
+---
 
+## Natural Affinities
+
+- [[Fire]]
+
+---
+
+## Notes

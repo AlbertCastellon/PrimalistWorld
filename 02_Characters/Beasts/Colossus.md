@@ -10,7 +10,7 @@ affinities:
   - "[[Poison|Poison]]"
 contractor: "[[Seth|Seth]]"
 ---
-# COLOSSUS
+# Colossus
 
 **Species:** [[Three-Tailed Giant Scorpion|Three-Tailed Giant Scorpion]]
 **Current Stage:** Young

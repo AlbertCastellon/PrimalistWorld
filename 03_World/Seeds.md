@@ -1,14 +1,14 @@
 # Seeds
 
 ## Overview
-Seeds are naturally occurring concentrations of [[Aether]] found within Rifts. They are formed when a beast corpse, a natural object, or part of the environment absorbs an abnormally high amount of Aether over a long period of time.
+Seeds are naturally occurring concentrations of [[Aether]] found within [[Rifts]]. They are formed when a beast corpse, a natural object, or part of the environment absorbs an abnormally high amount of Aether over a long period of time.
 Examples include stones, flowers, streams of water, beast remains, and other objects that have become saturated with Aether.
 Unlike [[Essences]], which are manifestations of elemental Aether, Seeds can be directly absorbed and permanently integrated into the body of a Wielder or Arcane Beast.
 Their primary purpose is to permanently enhance the attributes of the individual who absorbs them.
 
 ---
 ## Formation
-Seeds are most commonly found inside Rifts, particularly near the Domain Flower.
+Seeds are most commonly found inside [[Rifts]], particularly near the Domain Flower.
 They form when a living creature, corpse, or natural object is exposed to unusually dense concentrations of Aether. Over time, the accumulated energy condenses into a Seed.
 Because of this process, Seeds can vary greatly in appearance depending on their origin.
 
@@ -78,3 +78,7 @@ Because of this requirement, harvesting Seeds is often restricted to prepared Ri
 Seeds are among the most valuable resources found within Rifts.
 Although a single Seed rarely changes the fate of a Wielder, the cumulative effect of multiple high-quality Seeds can create a significant advantage over time.
 For this reason, they are highly sought after by individuals, guilds, noble families, and military organizations alike.
+
+---
+## Notes
+- [[Seeds Index]]

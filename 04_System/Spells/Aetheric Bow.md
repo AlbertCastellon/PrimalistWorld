@@ -14,7 +14,7 @@ restrictions:
   - "[[Elementalist]]"
   - "[[Primalist]]"
   - 95 Arcane Power
-evolution_path: false
+evolution_path: true
 ---
 
 # Aetheric Bow
@@ -45,8 +45,6 @@ Conjures a bow forged entirely from aether, allowing the user to create and fire
 ---
 ## Known Users
 
--   [[Seth]]
-    
 
 ---
 
