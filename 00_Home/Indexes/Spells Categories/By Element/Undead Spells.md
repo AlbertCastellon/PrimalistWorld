@@ -4,3 +4,5 @@
 
 ---
 ## Not Restricted
+- [[Phantom Punch]]
+- [[Armored Phantom Fists]]

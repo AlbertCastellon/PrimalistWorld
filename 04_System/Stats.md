@@ -41,7 +41,7 @@ Together with Sensing, Manipulation is essential for spell alteration, spell evo
 It is represented by a Tier and Subtier, such as Peak Iron.
 
 ### ✨ Affinity
-Affinity represents a Wielder's natural connection and compatibility with a specific element.
+[[Elemental Affinity]] represents a Wielder's natural connection and compatibility with a specific element.
 A higher Affinity improves the effectiveness of spells and abilities associated with that element and may unlock access to elemental spells, subclasses, and other progression paths. This is especially important for [[Elementalist]]s.
 Most Wielders possess one elemental Affinity, while some possess two. Developing an Affinity requires significant effort and resources, making specialization a common strategy. Many Wielders prefer to cultivate a single powerful Affinity rather than divide their resources between multiple weaker ones.
 Like Sensing and Manipulation, Affinity is represented by a Tier and Subtier, such as Peak Iron.

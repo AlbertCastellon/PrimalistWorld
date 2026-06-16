@@ -55,10 +55,10 @@ contractor: "[[Seth|Seth]]"
 | Attribute          |  Value  | Breakdown  |
 | :----------------- | :-----: | :--------- |
 | 💪 Strength        | **128** |            |
-| ✨ **Arcane Power** | **151** | (132 + 19) |
 | 🛡️ Toughness      | **90**  |            |
-| 🧪 Well Capacity   | **77**  |            |
 | ⚡ Agility          | **132** |            |
+| ✨ **Arcane Power** | **151** | (132 + 19) |
+| 🧪 Well Capacity   | **77**  |            |
 | 🧪 Regeneration    | **78**  |            |
 
 ---

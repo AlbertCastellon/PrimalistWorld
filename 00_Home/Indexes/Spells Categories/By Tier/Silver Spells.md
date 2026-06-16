@@ -8,3 +8,4 @@
 - [[Lightning Tribulation]]
 - [[Aetheric Bow]]
 - [[Ground-Splitting Strike]]
+- [[Ravenous Arrow]]

@@ -6,3 +6,4 @@
 - [[Thick-Scaled Desert Snake]]
 ## Draconids
 - [[Obsidian Flame Drake]]
+- [[Obsidian Dread-Drake]]

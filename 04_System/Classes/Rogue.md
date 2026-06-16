@@ -20,7 +20,7 @@ Agility-based combat class excelling in stealth, precision strikes, and mobility
 
 ## Related Subclasses
 
-- [[Dark Assasin]]
+- [[Dark Assassin]]
 - [[Wind Fletcher]]
 - [[Archer]]
 

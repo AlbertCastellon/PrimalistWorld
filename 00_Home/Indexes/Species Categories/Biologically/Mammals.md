@@ -18,6 +18,7 @@
 - [[Saber-Toothed Hare]]
 ## Mustelids
 - [[Two-Tailed Badger]]
+- [[Luminous Otter]]
 ## Horses
 - [[Silver Horse]]
 ## Antelopes

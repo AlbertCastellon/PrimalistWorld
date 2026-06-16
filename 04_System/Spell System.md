@@ -22,7 +22,7 @@ A spell can be evolved, normally through scrolls but sometimes by carving new gr
  - Exceptional
  - Flawless
 ## Spell Alteration
-Wielders can alter already existing spells by changing its grooves though doing it requires a deep knowledge of spell theory or risk losing mastery or even unlearn the spell. Alterations may involve changing a spell's elemental affinity or modifying one of its aspects, for example lengthen the duration of the spell at the cost of explosive power. A great alteration could be the fusion of the grooves of 2 different spells to create a single spell that combines the strengths of both spells
+Wielders can alter already existing spells by changing its grooves though doing it requires a deep knowledge of spell theory or risk losing mastery or even unlearn the spell. Alterations may involve changing a spell's [[Elemental Affinity]] or modifying one of its aspects, for example lengthen the duration of the spell at the cost of explosive power. A great alteration could be the fusion of the grooves of 2 different spells to create a single spell that combines the strengths of both spells
 ## Acquisition Methods
 There are basically 3 methods to get a spell from nothing, the most common being scrolls, single-use consumables that allow a Wielder to learn a spell with a certain level of mastery if the restrictions are met. The scrolls are created by [[Scholar]]s either with a Spellshard as a base or with their own knowledge.
 Spellshards are beaststones that contain an engraved spell alongside a certain mastery level, functioning similarly to scrolls. But Spellshards can also be used by [[Scholar]]s to try and create a different number of scrolls with the risk of getting nothing, in case the [[Scholar]] manages to learn the secret behind that spell they will be able to keep producing scrolls of that spell given the needed materials.
@@ -36,3 +36,6 @@ After the death of a Legacy-bearer, the Core can be extracted through a special 
 A Legacy often grants access to a unique or highly specialized Subclass. However, during the early stages, this Subclass may initially appear as merely a rare or powerful variant until the Wielder reaches higher Tiers.
 Legacies are significantly more beneficial to lower-Tier Wielders, as they allow someone to follow a Path different from their natural one. The stronger a Wielder becomes, the more difficult it is to fully adapt to another [[Path]].
 Additionally, Legacies greatly facilitate breakthroughs through soft caps and Tier caps, since the Wielder is following a Path that has already been successfully walked before.
+
+## Related Concepts
+- [[Spells Index]]

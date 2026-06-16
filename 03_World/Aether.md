@@ -1,7 +1,7 @@
 # Aether
 
 ## Overview
-Aether is the fundamental energy that permeates the world and serves as the foundation of all supernatural phenomena. It exists naturally within the environment, arcane beasts, and wielders, allowing them to manipulate reality through spells, enhance their bodies, and advance along their Paths.
+Aether is the fundamental energy that permeates the world and serves as the foundation of all supernatural phenomena. It exists naturally within the environment, arcane beasts, and wielders, allowing them to manipulate reality through [[Spell System|spells]], enhance their bodies, and advance along their Paths.
 Without Aether, neither magical abilities nor the growth of wielders would be possible.
 
 ---
@@ -44,7 +44,6 @@ Even without directly casting a spell, wielders continuously circulate Aether th
 This is one of the primary reasons why higher-ranked individuals possess superhuman physical capabilities.
 
 ---
-
 ## Affinities
 Aether can be aligned with specific concepts or elements known as **Affinities**.
 Common examples include:
@@ -59,7 +58,6 @@ An Affinity increases a wielder's compatibility with related spells and often im
 Affinities themselves can develop and grow stronger over time.
 
 ---
-
 ## Aether and Advancement
 Aether plays a critical role in Rank [[Progression]].
 As wielders improve their manipulation and sensing abilities, and strengthen their cores, their relationship with Aether deepens.
@@ -68,7 +66,7 @@ This increased control contributes directly to improved attributes and stronger 
 
 ---
 ## Aether in Arcane Beasts
-Arcane beasts possess Aether just as wielders do.
+[[Arcane Beasts]] possess Aether just as wielders do.
 Their bodies naturally absorb and refine it, allowing them to develop:
 
 - Magical abilities
@@ -79,7 +77,6 @@ Their bodies naturally absorb and refine it, allowing them to develop:
 Many beast species develop unique biological adaptations shaped by Aether.
 
 ---
-
 ## Environmental Aether
 Aether is present throughout the world in varying concentrations.
 Areas with unusually dense Aether can give rise to, or be caused by:
@@ -92,7 +89,6 @@ The environmental composition of Aether often influences the Affinities found wi
 For example, a Rift saturated with Ice Aether may contain Ice-affinity beasts, Seeds, and materials.
 
 ---
-
 ## Relationship with Seeds and Legacies
 Seeds and [[Legacies]] modify how a wielder interacts with Aether.
 Seeds often improve:
@@ -106,7 +102,6 @@ Legacies can fundamentally alter the way Aether is perceived, manipulated, or in
 Some Legacies grant abilities that would otherwise be impossible through normal spellcasting.
 
 ---
-
 ## Notes
 
 - Aether is the foundation of all known magical systems.

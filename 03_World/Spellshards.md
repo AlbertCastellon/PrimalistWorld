@@ -2,8 +2,8 @@
 
 ## Overview
 ## Overview
-Spellshards are a special type of [[Beaststones]] that contain the engraved grooves of a spell. They allow Wielders to learn spells directly and are among the most valuable resources obtained from Arcane Beasts.
-They are found more commonly within [[Rifts]] due to the higher concentration of Aether.
+Spellshards are a special type of [[Beaststones]] that contain the engraved grooves of a spell. They allow Wielders to learn spells directly and are among the most valuable resources obtained from [[Arcane Beasts]].
+They are found more commonly within [[Rifts]] due to the higher concentration of [[Aether]].
 ## Formation
 Spellshards appear when beasts learn spells outside their innate ones, these powerful beasts leave the grooves of that spell on their beaststone, making it a spellshard.
 ## Mastery

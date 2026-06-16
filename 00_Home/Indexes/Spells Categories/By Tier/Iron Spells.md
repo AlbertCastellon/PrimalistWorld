@@ -10,3 +10,7 @@
 - [[Lightning Tribulation]]
 - [[Aetheric Bow]]
 - [[Ground-Splitting Strike]]
+- [[Iron Fists]]
+- [[Phantom Punch]]
+- [[Armored Phantom Fists]]
+- [[Ravenous Arrow]]

@@ -16,7 +16,7 @@ As they grow stronger, they gradually reshape the area around them, causing envi
 One of the defining characteristics of an Essence is its ability to affect the surrounding environment.
 Powerful Essences can gradually transform ecosystems, terrain, vegetation, and local Aether circulation.
 These changes vary according to the Essence's element and characteristics.
-Long-term exposure to an Essence may also affect Arcane Beasts and other living creatures inhabiting the area.
+Long-term exposure to an Essence may also affect [[Arcane Beasts]] and other living creatures inhabiting the area.
 
 ---
 ## Cultivation
@@ -25,7 +25,7 @@ Wielders frequently seek out Essences in order to train near them and expose the
 This process can improve:
 - Sensing
 - Manipulation
-- Affinity
+- [[Elemental Affinity]]
 Because of this, Essences are considered among the most valuable resources for long-term development.
 Unlike Seeds, Essences are not consumed during cultivation and can continue benefiting multiple users over extended periods of time.
 

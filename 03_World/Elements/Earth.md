@@ -26,7 +26,7 @@ element_type: base
 ---
 ## Related Spells
 
-- 
+- [[Iron Fists]]
 
 ---
 ## Notes

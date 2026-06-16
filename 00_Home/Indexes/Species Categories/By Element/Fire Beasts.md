@@ -3,3 +3,4 @@
 - [[Obsidian Flame Drake]]
 - [[Inferno Bear]]
 - [[One-Horned Imp]]
+- [[Obsidian Dread-Drake]]

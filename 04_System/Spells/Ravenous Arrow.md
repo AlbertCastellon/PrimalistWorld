@@ -21,7 +21,7 @@ evolution_path: false
 # Ravenous Arrow
 
 ## Description
-Conjures an aether-forged bow in the user's hands, allowing the creation of specialized arrows that consume surrounding Aether upon impact. The spell is particularly effective against barriers and defensive spells.
+Conjures an aether-forged bow in the user's hands, allowing the creation of specialized arrows that consume surrounding [[Aether]] upon impact. The spell is particularly effective against barriers and defensive spells.
 
 ---
 
@@ -36,7 +36,7 @@ Conjures an aether-forged bow in the user's hands, allowing the creation of spec
 ## Restrictions
 
 - [[Elementalist]], [[Primalist]], or [[Rogue]]  
-- Null Affinity  
+- [[Null]] Affinity  
 
 
 ---

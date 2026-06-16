@@ -3,7 +3,7 @@
 ## Overview
 Rifts are isolated pocket dimensions separated from the outside world. They are formed around a special plant known as a [[Domain Flower]], which acts as the anchor maintaining the Rift's existence.
 Rifts are complete ecosystems that may contain forests, mountains, rivers, deserts, beasts, resources, and even settlements.
-They are the primary source of many valuable resources such as [[Seeds]], [[Essences]], [[Spellshards]], and Arcane Beasts.
+They are the primary source of many valuable resources such as [[Seeds]], [[Essences]], [[Spellshards]], and [[Arcane Beasts]].
 
 ---
 ## Domain Flowers
@@ -43,11 +43,10 @@ The number and location of portals vary greatly from one Rift to another.
 ---
 ## Escape
 The most common method of leaving a Rift without collapsing it is through the use of Escape Scrolls.
-These specialized scrolls allow a Wielder to return to the outside world without  harvest the Domain Flower.
+These specialized scrolls allow a Wielder to return to the outside world without harvest the Domain Flower.
 Escape Scrolls are considered essential equipment for most Rift expeditions.
 
 ---
-
 ## Aether Density
 Rifts naturally contain significantly higher concentrations of [[Aether]] than the outside world.
 The higher the Rift's Tier, the greater its Aether density.
@@ -56,12 +55,12 @@ As a result, Rifts are among the best locations for training and progression.
 
 ---
 ## Resources
-Rifts are the primary source of many valuable resources.
-Common resources found within Rifts include:
+Rifts are the primary source of many valuable resources. Especially the unexplored Rifts
+Resources found within Rifts include:
 - [[Seeds]]
 - [[Essences]]
-- Spellshards
-- Beaststones
+- [[Spellshards]]
+- [[Beaststones]]
 - Rare materials
 - Arcane Beasts
 The high concentration of Aether also increases the likelihood of beasts developing and preserving spells within Spellshards.

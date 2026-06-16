@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "decabb1f3c3f373c",
+        "id": "b9c6009a48cc6469",
         "type": "tabs",
         "children": [
           {
-            "id": "72d6764ecdcfddc2",
+            "id": "538f477673f3f680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_World/Spellshards.md",
+                "file": "04_System/Spell System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spellshards"
+              "title": "Spell System"
             }
           }
         ]
@@ -194,34 +194,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72d6764ecdcfddc2",
+  "active": "538f477673f3f680",
   "lastOpenFiles": [
-    "03_World/Beaststones.md",
     "03_World/Spellshards.md",
-    "04_System/Spell System.md",
-    "03_World/Rifts.md",
-    "03_World/Seeds.md",
-    "03_World/Essences.md",
-    "03_World/Path.md",
-    "04_System/Legacies.md",
-    "03_World/Aether.md",
     "04_System/Progression.md",
+    "04_System/Classes.md",
+    "04_System/Stats.md",
+    "04_System/Spell System.md",
+    "03_World/Elemental Affinity.md",
+    "03_World/Seeds.md",
+    "03_World/Rifts.md",
+    "03_World/Path.md",
+    "03_World/Arcane Beasts.md",
+    "03_World/Elemental Affinities.md",
+    "03_World/Essences.md",
+    "03_World/Aether.md",
+    "03_World/Beaststones.md",
+    "00_Home/Indexes/Species Index.md",
+    "03_World/Species.md",
+    "04_System/Legacies.md",
+    "04_System/Subclasses/Rageborn Champion.md",
+    "04_System/Subclasses/Barbarian.md",
+    "04_System/Spells/Aetheric Bow.md",
+    "04_System/Spells/Ravenous Arrow.md",
     "03_World/Elements/Null.md",
+    "04_System/Subclasses/Light Crusader.md",
+    "02_Characters/Beasts/Colossus.md",
     "02_Characters/Humans/Seth.md",
     "02_Characters/Beasts/Nightmare.md",
-    "03_World/Elements/Darkness.md",
-    "03_World/Elements/Earth.md",
-    "03_World/Elements/Fire.md",
-    "03_World/Elements/Ice.md",
-    "03_World/Elements/Undead.md",
-    "03_World/Elements/Poison.md",
-    "03_World/Elements/Lightning.md",
-    "03_World/Elements/Water.md",
-    "03_World/Elements/Wind.md",
-    "00_Home/Indexes/Essences Index.md",
-    "03_World/Species/Inferno Bear.md",
-    "03_World/Species/Ironhide Warthog.md",
-    "03_World/Species/Gnoll.md",
     "00_Home/Indexes/Spells Categories/By Tier",
     "00_Home/Indexes/Spells Categories/By Class",
     "00_Home/Indexes/Spells Categories/By Element",

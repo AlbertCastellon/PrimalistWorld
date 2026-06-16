@@ -1,6 +1,6 @@
 # Progression
 ## Tiers
-The strength of a Wielder or an Arcane beast is mainly shown by their tier. These Tiers represent the overall level of power a being possesses. Advancing within a Tier is generally easier than breaking through to the next one. Higher Tiers contain more Ranks and require significantly greater effort to progress through. The tiers go in the following order:
+The strength of Wielders or [[Arcane Beasts]] is mainly shown by their tier. These Tiers represent the overall level of power a being possesses. Advancing within a Tier is generally easier than breaking through to the next one. Higher Tiers contain more Ranks and require significantly greater effort to progress through. The tiers go in the following order:
 - [[Copper Tier]]
 - [[Iron Tier]]
 - [[Silver Tier]]

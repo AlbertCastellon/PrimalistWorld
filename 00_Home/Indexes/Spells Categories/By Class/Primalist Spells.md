@@ -5,3 +5,6 @@
 - [[Primal Rage]]
 - [[Beastmaster Rage]]
 - [[Aetheric Bow]]
+- [[Iron Fists]]
+- [[Phantom Punch]]
+- [[Armored Phantom Fists]]

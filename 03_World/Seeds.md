@@ -3,7 +3,7 @@
 ## Overview
 Seeds are naturally occurring concentrations of [[Aether]] found within [[Rifts]]. They are formed when a beast corpse, a natural object, or part of the environment absorbs an abnormally high amount of Aether over a long period of time.
 Examples include stones, flowers, streams of water, beast remains, and other objects that have become saturated with Aether.
-Unlike [[Essences]], which are manifestations of elemental Aether, Seeds can be directly absorbed and permanently integrated into the body of a Wielder or Arcane Beast.
+Unlike [[Essences]], which are manifestations of elemental Aether, Seeds can be directly absorbed and permanently integrated into the body of a Wielder or [[Arcane Beasts]].
 Their primary purpose is to permanently enhance the attributes of the individual who absorbs them.
 
 ---
@@ -20,10 +20,9 @@ The effectiveness of this process depends on the user's ability to properly assi
 Once completely consumed, the Seed disappears and its effects become permanently integrated into the recipient.
 
 ---
-
 ## Effects
 The primary effect of a Seed is to increase one or more attributes.
-Lower-grade Seeds generally provide flat bonuses to Stats, while higher-grade Seeds may grant percentage-based enhancements.
+Lower-grade Seeds generally provide flat bonuses to [[Stats]], while higher-grade Seeds may grant percentage-based enhancements.
 Examples include:
 - Increased Strength
 - Increased Toughness
@@ -31,11 +30,10 @@ Examples include:
 - Increased Arcane Power
 - Increased Well Capacity
 - Increased Regeneration
-- Increased power for spells of a certain element affinity
+- Increased power for spells of a certain [[Elemental Affinity]]
 Some rare Seeds may provide more specialized benefits.
 
 ---
-
 ## Grades
 Like many resources, Seeds possess Grades.
 Higher-grade Seeds provide significantly stronger benefits than lower-grade ones.
@@ -43,7 +41,6 @@ While Common and Uncommon Seeds are valuable to weaker Wielders, their effects d
 Rare, Epic, Legendary, and Mythical Seeds remain highly sought-after due to their superior scaling and long-term value.
 
 ---
-
 ## Tier Degradation
 The power of a Seed does not remain constant throughout a Wielder's entire life.
 Whenever a Wielder advances to a higher Tier, part of the Seed's effectiveness is lost.
@@ -51,7 +48,6 @@ As a result, a bonus that represents a significant increase at Copper Tier may b
 Despite this degradation, multiple Seeds accumulated throughout a Wielder's progression can still provide a substantial long-term advantage.
 
 ---
-
 ## Absorption Limits
 A body can only assimilate a limited number of Seeds.
 This limit increases with Tier.
