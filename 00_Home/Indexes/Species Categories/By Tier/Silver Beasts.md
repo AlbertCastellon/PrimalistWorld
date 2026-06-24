@@ -1,4 +1,5 @@
 # Silver Beasts
+
 - [[Tenebrous Direwolf]]
 - [[Galestrike Stalker]]
 - [[Obsidian Flame Drake]]
@@ -8,3 +9,5 @@
 - [[Dark Elemental Executioner]]
 - [[Earth Rhinoceros Elemental]]
 - [[Ice Elemental]]
+- [[Astral Wraith]]
+- [[Glacial Shield-Horntail]]

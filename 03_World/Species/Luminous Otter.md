@@ -5,8 +5,7 @@ base_potential: "[[Gold Tier]]"
 affinities:
   - "[[Light|Light]]"
 ---
-
-# **Luminous Otter**
+# Luminous Otter
 
 ## Species Type
 Otter

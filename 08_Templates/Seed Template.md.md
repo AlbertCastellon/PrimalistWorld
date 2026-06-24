@@ -4,7 +4,6 @@ tier:
 grade:
 affinity:
 ---
-
 # <% tp.file.title %>
 
 ## Description

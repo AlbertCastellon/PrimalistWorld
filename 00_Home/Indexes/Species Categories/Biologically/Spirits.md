@@ -1,0 +1,3 @@
+# Spirits
+
+- [[Astral Wraith]]

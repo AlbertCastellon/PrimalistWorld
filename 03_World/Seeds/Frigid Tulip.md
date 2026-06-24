@@ -16,7 +16,7 @@ A raw tulip that has absorbed a tremendous amount of the coldness of its surroun
 
 - Increases Arcane Power by 5 to 10
 - Increases Arcane Power by 4 to 8%.
-- Reduces the cooldown of Ice spells of the Copper / Iron / Silver Tier by 25%.
+- Reduces the cooldown of [[Ice]] spells of the Copper / Iron / Silver Tier by 25%.
 
 ---
 

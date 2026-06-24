@@ -4,14 +4,11 @@
 
 
 ---
-
 ## Known Characteristics
 
 - Gets a boost of x stat points by reaching it.
 
-
 ---
-
 ## Subtiers  
   
 | Subtier      | Description                | Ranks |
@@ -23,4 +20,6 @@
 
 ---
 ## Related Concepts
+
 - [[Diamond Spells]]
+- [[Progression]]

@@ -7,7 +7,6 @@ affinities:
   - "[[Darkness|Darkness]]"
 companion:
 ---
-
 # Kaelen
 
 ## Overview

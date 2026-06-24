@@ -20,17 +20,13 @@ evolves_into:
   - "[[Dark Shocking Strike]]"
   - "[[Shocking Bolt]]"
 ---
-
 # Shocking Strike
 
 ## Description
-
 Charges a body part or weapon with Lightning aether, unleashing a powerful electrical surge upon impact.
-
 Targets with low pain tolerance may become temporarily paralyzed.
 
 ---
-
 ## Effects
 
 - Enhances melee strikes with Lightning aether.

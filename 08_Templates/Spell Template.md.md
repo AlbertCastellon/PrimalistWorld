@@ -11,7 +11,6 @@ legacy:
 restrictions:
 evolution_path: false
 ---
-
 # <% tp.file.title %>
 
 ## Description

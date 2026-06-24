@@ -5,14 +5,12 @@
 The second major progression tier, comes after Copper. Commonly known as the commoners tier. Surpassing it requires resources or talent therefore is the top tier for plenty of commoners in [[Kastal Kingdom]].
 
 ---
-
 ## Known Characteristics
 
 - Gets a boost of 100 stat points by reaching it.
 - Next [[Silver Tier]]
 
 ---
-
 ## Subtiers  
   
 | Subtier   | Description              | Ranks   |
@@ -28,3 +26,4 @@ The second major progression tier, comes after Copper. Commonly known as the com
 - [[High-Iron]]
 - [[Peak-Iron]]
 - [[Iron Spells]]
+- [[Progression]]

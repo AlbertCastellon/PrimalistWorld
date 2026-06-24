@@ -7,7 +7,7 @@ affinities:
   - "[[Light]]"
 companion: "[[Cub 1]]"
 ---
-# DEVUS
+# Devus
 
 ## Overview
 

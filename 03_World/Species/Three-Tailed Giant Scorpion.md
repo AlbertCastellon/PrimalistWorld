@@ -5,7 +5,6 @@ base_potential: "[[Gold Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Three-Tailed Giant Scorpion
 
 ## Species Type

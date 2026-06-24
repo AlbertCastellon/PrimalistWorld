@@ -28,9 +28,7 @@ evolution_path: true
 A physical enhancement spell that temporarily pushes the Wielder beyond their normal limits at the cost of a period of weakness afterward.
 
 ---
-
 ## Effects
-
 Increases Strength and Agility by 30 for 6 minutes. Decreases Toughness by 35 for 20 minutes afterward. Duration increases according to spell quality. Consumes 120 uniums over the duration. Cooldown: 12 hours. |
 
 ---

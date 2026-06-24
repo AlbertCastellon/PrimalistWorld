@@ -5,7 +5,6 @@
 First true combat tier after awakening.
 
 ---
-
 ## Known Characteristics
 
 - Common among novice adventurers.
@@ -13,7 +12,6 @@ First true combat tier after awakening.
 - Next [[Iron Tier]]
 
 ---
-
 ## Subtiers  
   
 | Subtier     | Description               | Ranks   |
@@ -23,10 +21,10 @@ First true combat tier after awakening.
 | High-Copper | Advanced Copper rank      | 14 - 19 |
 | Peak-Copper | Near Iron breakthrough    | 20      |
 
-
 ---
 ## Related Concepts
 
 - [[High-Copper]]
 - [[Peak-Copper]]
 - [[Copper Spells]]
+- [[Progression]]

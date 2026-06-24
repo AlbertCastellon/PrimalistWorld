@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Mountain Howler
 
 ## Species Type

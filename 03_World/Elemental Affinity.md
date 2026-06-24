@@ -41,7 +41,7 @@ Developing multiple Affinities simultaneously is possible but requires substanti
 
 ---
 ## Arcane Beasts
-Arcane Beasts are often born with natural elemental Affinities related to their species.
+[[Arcane Beasts]] are often born with natural elemental Affinities related to their species.
 
 ---
 ## Related Concepts

@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   - "[[Wind]]"
 ---
-
 # Grassland Antelope
 
 ## Species Type

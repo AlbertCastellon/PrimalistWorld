@@ -2,15 +2,22 @@
 type: beast
 species:
 potential:
-rank:
+rank: Peak-Diamond
 affinities:
 contractor:
 ---
-# <% tp.file.title %>
 
-## Species
+# Shenlong
 
-## Potential Tier
+**Species:** 
+**Current Stage:** 
+
+**Base Species Potential:**
+**Current Potential:** 
+
+**Rank:** Peak-Diamond
+
+**Contractor:**
 
 ## 🧬 Essence Development
 
@@ -21,7 +28,5 @@ contractor:
 ## 📊 Stats
 
 ## 📜 Spells
-
-## Relationship to Contractor
 
 ## Notes

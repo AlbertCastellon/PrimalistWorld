@@ -33,7 +33,6 @@ evolution_path: false
 A Light-affinity enhancement spell from Falcaru Santori’s Legacy.
 
 ---
-
 ## Scaling Effects
 
 | Tier Range | Effects |

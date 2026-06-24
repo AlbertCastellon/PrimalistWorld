@@ -6,7 +6,6 @@ rank: High-Iron
 affinities:
 companion:
 ---
-
 # Henry
 
 ## Overview

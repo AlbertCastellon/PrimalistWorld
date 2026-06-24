@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Earth Rhinoceros Elemental
 
 ## Species Type

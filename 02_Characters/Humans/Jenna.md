@@ -7,7 +7,6 @@ affinities:
   - "[[Lightning|Lightning]]"
 companion: "[[Cub 2]]"
 ---
-
 # Jenna
 
 ## Overview

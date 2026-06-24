@@ -5,7 +5,6 @@ base_potential:
 affinities:
   -
 ---
-
 # <% tp.file.title %>
 
 ## Species Type

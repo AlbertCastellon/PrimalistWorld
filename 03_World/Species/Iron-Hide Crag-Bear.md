@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Iron-Hide Crag-Bear
 
 ## Species Type

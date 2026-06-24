@@ -4,7 +4,6 @@ organization_type:
 location:
 leader:
 ---
-
 # <% tp.file.title %>
 
 ## Overview

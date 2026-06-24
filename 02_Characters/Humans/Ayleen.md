@@ -1,22 +1,20 @@
 ---
 type: character
-class: "[[Rogue]]"
+class:
 subclass:
-rank: Mid-Iron
+rank:
 affinities:
-  - "[[Wind]]"
-companion: "[[Cub 3]]"
+companion:
 ---
-# Selena
+
+# Ayleen Velaryon
 
 ## Overview
-**Class:** [[Rogue]] | **Subclass:**  | **Rank:** 
 
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities
 
-- [[Wind]]
 ## 🌱Seeds
 
 ## 📊Stats

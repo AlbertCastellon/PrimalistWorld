@@ -5,8 +5,7 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Lightning|Lightning]]"
 ---
-
-# Untitled
+# Storm-Eater
 
 ## Species Type
 Tiger

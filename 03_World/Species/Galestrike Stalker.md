@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Wind]]"
 ---
-
 # Galestrike Stalker
 
 ## Species Type

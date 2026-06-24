@@ -5,14 +5,12 @@
 The third major progression tier, comes after Iron. In [[Kastal Kingdom]] is seen as a natural barrier really hard to reach unless you have resources or are really talented.
 
 ---
-
 ## Known Characteristics
 
 - Gets a boost of 300 stat points by reaching it.
 - Next [[Gold Tier]]
 
 ---
-
 ## Subtiers  
   
 | Subtier     | Description               | Ranks   |
@@ -24,4 +22,6 @@ The third major progression tier, comes after Iron. In [[Kastal Kingdom]] is see
 
 ---
 ## Related Concepts
-. [[Silver Spells]]
+
+- [[Silver Spells]]
+- [[Progression]]

@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[03_World/Elements/Undead]]"
 ---
-
 # Skeleton Knight
 
 ## Species Type

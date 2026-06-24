@@ -5,8 +5,7 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Light|Light]]"
 ---
-
-# Untitled
+# Lunar-hide Mole
 
 ## Species Type
 Mole

@@ -28,7 +28,6 @@ evolution_path: true
 Concentrates [[Undead]]-infused [[Aether]] into a devastating punch capable of bypassing defenses and shattering magical protections.
 
 ---
-
 ## Effects
 Increases Strength by 60 for a single punch. Ignores 20% of the target's Toughness. Potency increases by 100% against barriers and shielding spells. Cooldown decreases according to Undead Affinity and spell quality. Consumes 100 uniums.
 

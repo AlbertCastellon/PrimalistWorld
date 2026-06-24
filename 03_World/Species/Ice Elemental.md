@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Ice|Ice]]"
 ---
-
 # Ice Elemental
 
 ## Species Type

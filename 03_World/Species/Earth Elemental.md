@@ -5,8 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
-
 # Earth Elemental
 
 ## Species Type

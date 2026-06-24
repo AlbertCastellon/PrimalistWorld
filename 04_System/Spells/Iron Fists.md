@@ -28,7 +28,6 @@ evolution_path: true
 Shrouds the user's arms in layers of stone, increasing their durability and enhancing the power of physical attacks.  
 
 ---
-
 ## Effects
 Covers the user's arms with rock for 5 minutes. Increases Toughness by 7. Offensive potency scales with Arcane Power, [[Earth]] Affinity, and spell quality. Consumes 25 uniums. No cooldown.
 

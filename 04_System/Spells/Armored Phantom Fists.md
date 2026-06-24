@@ -30,7 +30,7 @@ A fusion spell combining the defensive properties of Iron Fists with the armor-b
 
 ---
 
-## Scaling Effects
+## Effects
 Increases Strength by 40 and ignores 15% of the target's Toughness for 30 seconds. Increases Toughness by 10 + 5%. Potency increases by 100% against barriers and shielding spells. Consumes 120 uniums.
 
 ---

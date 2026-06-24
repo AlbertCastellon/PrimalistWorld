@@ -6,7 +6,6 @@ rank:
 affinities:
 companion:
 ---
-
 # <% tp.file.title %>
 
 ## Overview

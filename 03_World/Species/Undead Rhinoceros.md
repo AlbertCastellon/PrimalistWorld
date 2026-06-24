@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[03_World/Elements/Undead]]"
 ---
-
 # Undead Rhinoceros
 
 ## Species Type

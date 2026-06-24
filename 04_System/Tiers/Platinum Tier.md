@@ -4,14 +4,12 @@
 
 
 ---
-
 ## Known Characteristics
 
 - Gets a boost of x stat points by reaching it.
 - Next [[Diamond Tier]]
 
 ---
-
 ## Subtiers  
   
 | Subtier       | Description                 | Ranks |
@@ -23,4 +21,6 @@
 
 ---
 ## Related Concepts
+
 - [[Platinum Spells]]
+- [[Progression]]

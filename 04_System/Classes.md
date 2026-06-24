@@ -4,7 +4,7 @@
 Classes are a defining aspect of every Wielder that influences their abilities, strengths, and progression. Classes are generally divided into two categories:
 - Combat Classes
 - Non-Combat Classes
-Classes are acquired during Awakening, when a person successfully forms an Aether Well using an Awakening Stone.
+Classes are acquired during Awakening, when a person successfully forms an [[Aether]] Well using an Awakening Stone.
 ### Combat Classes
 Combat classes are classes that allow Wielders to achieve the highest level of combat power for their Rank. Their [[Progression]] is primarily tied to the physical and magical development of the Wielder. With the increase of stats the rank advances and the Wielder becomes more powerful.
 ### Non-Combat Classes

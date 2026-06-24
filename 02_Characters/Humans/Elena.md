@@ -9,7 +9,6 @@ affinities:
   - "[[Ice|Ice]]"
 companion:
 ---
-
 # Elena Surani
 
 ## Overview

@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Ironhide Warthog
 
 ## Species Type

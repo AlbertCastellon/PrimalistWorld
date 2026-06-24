@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Darkness|Darkness]]"
 ---
-
 # Tenebrous Direwolf
 
 ## Species Type

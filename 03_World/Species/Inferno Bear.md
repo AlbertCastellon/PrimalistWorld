@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Fire|Fire]]"
 ---
-
 # Inferno Bear
 
 ## Species Type

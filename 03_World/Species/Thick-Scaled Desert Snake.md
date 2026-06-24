@@ -6,7 +6,6 @@ affinities:
   - "[[Earth|Earth]]"
   - "[[Poison|Poison]]"
 ---
-
 # Thick-Scaled Desert Snake
 
 ## Species Type

@@ -26,7 +26,6 @@ restrictions:
 
 evolution_path: false
 ---
-
 # Sun Warcry
 
 ## Description
@@ -34,7 +33,6 @@ evolution_path: false
 A radiant battle cry originating from the legacy of Falcaru Santori.
 
 ---
-
 ## Scaling Effects
 
 | Tier Range | Effects |

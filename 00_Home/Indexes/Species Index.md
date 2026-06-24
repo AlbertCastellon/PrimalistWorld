@@ -9,7 +9,7 @@
 - [[Demons]]
 - [[Humanoids]]
 - [[Elementals]]
-- Spirits
+- [[Spirits]]
 - [[Giants]]
 
 ---
@@ -24,6 +24,7 @@
 - [[Darkness Beasts]]
 - [[Poison Beasts]]
 - [[Undead Beasts]]
+- [[Ice Beasts]]
 
 ---
 

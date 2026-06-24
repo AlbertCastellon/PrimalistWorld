@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Undead]]"
 ---
-
 # Undead Giant
 
 ## Species Type

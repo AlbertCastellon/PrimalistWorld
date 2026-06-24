@@ -1,20 +1,16 @@
 # Stats
 ## Overview
-Stats are the numerical values perceived through Identify and similar spells. They provide a way to analyze and quantify the strengths, weaknesses, and specializations of Wielders and arcane beasts.
+Stats are the numerical values perceived through Identify and similar spells. They provide a way to analyze and quantify the strengths, weaknesses, and specializations of Wielders and [[Arcane Beasts]].
 ## Basic Stats
 These are the stats revealed to anyone successfully using Identify or a similar spell on a target. Unless they have either an artifact to block the spell or are able to block it by impeding the caster to use it.
-
 ### 💪 Strength
 Represents the physical strength and offensive capabilities. It is directly opposed by Toughness. It is particularly important for [[Warrior]]s but can also be high in very offensive [[Rogue]]s or [[Guardian]]s.
-
 ### 🛡️ Toughness
 Represents physical toughness and defensive capabilities. It is directly opposed by Strength. It is particularly important for [[Guardian]]s but can also be high in defensive or brute-force [[Warrior]] subclasses such as [[Barbarian]]s.
 ### ⚡ Agility
 Represents the speed of movements and reactions, which translates in running speed, evasion capacity and technical close-quarters combat by allowing to react and move faster than the opponent. It is particularly important for [[Rogue]]s though it can also be high in some subclasses of [[Warrior]].
-
 ### ✨ Arcane Power
 Represents the potency of a Wielder's spells. It increases the potency of non-physical spells. It is dominant on [[Elementalist]]s and [[Priest]]s but can also be high for specializations of [[Rogue]]s or [[Warrior]]s.
-
 ### 🧪 Well Capacity
 Represents the total amount of [[Aether]] that a body can contain. It is the only basic stat that with the same value has a difference if the subjects are in different tiers. Because the relationship changes between tiers, Aether is commonly measured using a separate unit known as a unium. It is dominant in caster classes like [[Elementalist]] or [[Priest]] but can also be high in more support oriented [[Guardian]] subclasses.
 

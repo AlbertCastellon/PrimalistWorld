@@ -7,7 +7,6 @@ affinities:
   - "[[Earth|Earth]]"
 companion:
 ---
-
 # Drack
 
 ## Overview

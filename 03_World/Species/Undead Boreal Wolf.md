@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   - "[[03_World/Elements/Undead]]"
 ---
-
 # Undead Boreal Wolf
 
 ## Species Type

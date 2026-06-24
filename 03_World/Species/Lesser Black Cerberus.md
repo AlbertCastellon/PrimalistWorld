@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
-
 # Lesser Black Cerberus
 
 ## Species Type

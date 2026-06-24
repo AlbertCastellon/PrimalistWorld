@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Two-Tailed Badger
 
 ## Species Type

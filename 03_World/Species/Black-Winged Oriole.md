@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
-
 # Black-Winged Oriole
 
 ## Species Type

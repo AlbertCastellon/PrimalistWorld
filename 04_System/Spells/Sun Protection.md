@@ -25,15 +25,12 @@ restrictions:
 
 evolution_path: false
 ---
-
 # Sun Protection
 
 ## Description
-
 A defensive Light-affinity spell inherited from Falcaru Santori’s Legacy.
 
 ---
-
 ## Scaling Effects
 
 | Tier Range | Effects |

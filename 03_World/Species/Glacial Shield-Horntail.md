@@ -1,27 +1,25 @@
 ---
 type: species
 species_category: beast
-base_potential: "[[Iron Tier]]"
+base_potential: "[[Silver Tier]]"
 affinities:
-  - "[[Earth|Earth]]"
-  - "[[Poison|Poison]]"
+  - "[[Ice|Ice]]"
 ---
-# Desert Snake
+# Glacial Shield-Horntail
 
 ## Species Type
-Snake
+
 
 ---
 
 ## Base Potential
-[[Iron Tier]]
+[[Silver Tier]]
 
 ---
 
 ## Natural Affinities
 
-- [[Earth]]
-- [[Poison]]
+- [[Ice]]
 
 ---
 

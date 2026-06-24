@@ -8,7 +8,6 @@ affinities:
   - "[[Fire|Fire]]"
 companion:
 ---
-
 # Calvin Reat
 ## Overview
 

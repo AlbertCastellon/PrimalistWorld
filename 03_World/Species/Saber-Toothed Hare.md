@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
-
 # Saber-Toothed Hare
 
 ## Species Type

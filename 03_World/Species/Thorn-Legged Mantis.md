@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   -
 ---
-
 # Thorn-Legged Mantis
 
 ## Species Type

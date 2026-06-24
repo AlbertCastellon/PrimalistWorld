@@ -1,28 +1,26 @@
 ---
 type: species
 species_category: beast
-base_potential: "[[Iron Tier]]"
+base_potential: "[[Silver Tier]]"
 affinities:
-  - "[[Wind]]"
+  - None
 ---
-# Silver Horse
+# Astral Wraith
 
 ## Species Type
-Horse
+Spirit
 
 ---
-
 ## Base Potential
-[[Iron Tier]]
+[[Silver Tier]]
 
 ---
-
 ## Natural Affinities
 
-- [[Wind]]
+- None
 
 ---
 
 ## Notes
 
-Used for caravans across [[Kastal Kingdom]]
+- Can materialize waepons of aether.

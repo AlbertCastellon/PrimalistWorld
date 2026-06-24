@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   -
 ---
-
 # Silver Wildcat
 
 ## Species Type

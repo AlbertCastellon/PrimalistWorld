@@ -5,7 +5,6 @@ base_potential: "[[Copper Tier]]"
 affinities:
   - "[[Earth|Earth]]"
 ---
-
 # Plain Lion
 
 ## Species Type

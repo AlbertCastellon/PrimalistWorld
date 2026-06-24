@@ -5,7 +5,6 @@ base_potential:
 affinities:
   -
 ---
-
 # Oracle Snake
 
 ## Species Type

@@ -5,14 +5,12 @@
 The fourth major progression tier, comes after Silver. In [[Kastal Kingdom]] is only reached by Geniuses or and people with a lot of resources. People in this rank are seen as powerhouses
 
 ---
-
 ## Known Characteristics
 
 - Gets a boost of x stat points by reaching it.
 - Next [[Platinum Tier]]
 
 ---
-
 ## Subtiers  
   
 | Subtier   | Description                | Ranks |
@@ -24,4 +22,6 @@ The fourth major progression tier, comes after Silver. In [[Kastal Kingdom]] is 
 
 ---
 ## Related Concepts
+
 - [[Gold Spells]]
+- [[Progression]]

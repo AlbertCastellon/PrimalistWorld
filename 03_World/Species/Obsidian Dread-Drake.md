@@ -5,7 +5,6 @@ base_potential: "[[Gold Tier]]"
 affinities:
   - "[[Fire|Fire]]"
 ---
-
 # Obsidian Dread-Drake
 
 ## Species Type

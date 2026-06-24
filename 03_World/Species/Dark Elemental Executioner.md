@@ -5,7 +5,6 @@ base_potential: "[[Silver Tier]]"
 affinities:
   - "[[Darkness|Darkness]]"
 ---
-
 # Dark Elemental Executioner
 
 ## Species Type

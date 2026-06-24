@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - None
 ---
-
 # Gnoll
 
 ## Species Type

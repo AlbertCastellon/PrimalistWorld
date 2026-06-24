@@ -4,7 +4,6 @@ organization_type: class_organization
 associated_class:
 affiliation:
 ---
-
 # <% tp.file.title %>
 
 ## Overview

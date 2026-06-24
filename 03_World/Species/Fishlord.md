@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Water]]"
 ---
-
 # Fishlord
 
 ## Species Type

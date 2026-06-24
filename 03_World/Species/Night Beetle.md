@@ -6,7 +6,6 @@ affinities:
   - "[[Lightning|Lightning]]"
   - "[[Poison|Poison]]"
 ---
-
 # Night Beetle
 
 ## Species Type

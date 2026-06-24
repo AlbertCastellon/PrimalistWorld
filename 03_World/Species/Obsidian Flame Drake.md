@@ -6,8 +6,7 @@ affinities:
   - "[[Fire|Fire]]"
   - "[[Earth|Earth]]"
 ---
-
-# Galestrike Stalker
+# Obsidian Flame Drake
 
 ## Species Type
 Drake

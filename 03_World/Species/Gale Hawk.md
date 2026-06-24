@@ -5,7 +5,6 @@ base_potential: "[[Iron Tier]]"
 affinities:
   - "[[Wind]]"
 ---
-
 # Gale Hawk
 
 ## Species Type

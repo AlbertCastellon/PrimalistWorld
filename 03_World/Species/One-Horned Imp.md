@@ -6,7 +6,6 @@ affinities:
   - "[[Darkness|Darkness]]"
   - "[[Fire|Fire]]"
 ---
-
 # One-Horned Imp
 
 ## Species Type

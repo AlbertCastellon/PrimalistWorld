@@ -24,7 +24,6 @@ evolution_path: false
 Conjures an aether-forged bow in the user's hands, allowing the creation of specialized arrows that consume surrounding [[Aether]] upon impact. The spell is particularly effective against barriers and defensive spells.
 
 ---
-
 ## Scaling Effects
 | Tier   | Effects                                                                                                                                                                                                                                                                                         |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
