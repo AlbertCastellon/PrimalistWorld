@@ -10,21 +10,20 @@ affinities:
 ## Species Type
 
 ---
+## Appearance
 
+---
 ## Base Potential
 
 ---
-
 ## Natural Affinities
 
 - 
 
 ---
-
 ## Known Individuals
 
 - 
 
 ---
-
 ## Notes

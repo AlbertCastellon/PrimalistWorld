@@ -1,15 +1,16 @@
 ---
 type: character
-class:
+class: "[[Guardian]]"
 subclass:
-rank: "[[Diamond Tier]]"
+rank: Peak-Iron
 affinities:
 companion:
 ---
-
-# Ayleen Velaryon
+# Jaz of Ryswell
 
 ## Overview
+
+**Class:** [[Guardian]] | **Subclass:**  | **Rank:** 60 (Peak-Iron)
 
 ## 🧬 Essence Development
 

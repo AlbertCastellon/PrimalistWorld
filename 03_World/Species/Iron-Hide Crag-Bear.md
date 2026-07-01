@@ -11,6 +11,10 @@ affinities:
 Bear
 
 ---
+## Appearance
+The Iron-Hide Crag-Bear is a massive bear-like beast covered in jagged slabs of dark, metallic stone that grow naturally from its hide, forming heavy natural armor. Its immense frame and powerful forelimbs emphasize overwhelming physical strength, while the rocky plating gives it the appearance of a living boulder.
+
+---
 
 ## Base Potential
 [[Silver Tier]]

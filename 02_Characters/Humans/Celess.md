@@ -1,15 +1,16 @@
 ---
 type: character
-class:
+class: "[[Elementalist]]"
 subclass:
-rank: "[[Diamond Tier]]"
+rank: Peak-Iron
 affinities:
 companion:
 ---
-
-# Ayleen Velaryon
+# Celess of Solaria
 
 ## Overview
+
+**Class:** [[Elementalist]] | **Subclass:**  | **Rank:** 60 (Peak-Iron)
 
 ## 🧬 Essence Development
 

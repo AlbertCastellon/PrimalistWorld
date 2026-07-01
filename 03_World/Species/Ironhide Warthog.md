@@ -11,7 +11,10 @@ affinities:
 Pig
 
 ---
+## Appearance
+The Ironhide Warthog is a pony-sized beast covered in thick, dark, iron-like plates instead of fur. It has two curved tusks, small dark eyes, and coarse bristles running along its spine, giving it the appearance of a heavily armored boar.
 
+---
 ## Base Potential
 [[Iron Tier]]
 

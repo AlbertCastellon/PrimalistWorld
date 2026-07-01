@@ -13,7 +13,8 @@ companion:
 
 ## Overview
 
-**Class:** [[Elementalist|Elementalist]] | **Subclass:** [[Ice Weaver|Ice Weaver]] | **Rank:** 38 (Mid-Iron)
+**Class:** [[Elementalist]] | **Subclass:** [[Ice Weaver]] | **Rank:** 38 (Mid-Iron)
+
 ## 🧬 Essence Development
 
 ## ✨ Elemental Affinities

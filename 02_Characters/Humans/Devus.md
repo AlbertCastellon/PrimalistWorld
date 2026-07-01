@@ -12,6 +12,7 @@ companion: "[[Cub 1]]"
 ## Overview
 
 **Class:** [[Guardian]] | **Subclass:**  | **Rank:** 38 (Mid-Iron)
+
 ## 🧬 Essence Development
 
 ##  ✨ Elemental Affinities

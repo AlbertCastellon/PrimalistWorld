@@ -11,7 +11,10 @@ affinities:
 Hawk
  
 ---
+## Appearance
+The Gale Hawk is a large bird with iridescent feathers in shades of forest green and golden yellow. Its amber eyes provide keen vision, while its plumage catches the light with a subtle metallic sheen.
 
+---
 ## Base Potential
 
 - [[Iron Tier]]

@@ -12,22 +12,14 @@ affinities:
 Beetle
 
 ---
-
 ## Base Potential
 [[Iron Tier]]
 
 ---
-
 ## Natural Affinities
 
 - [[Lightning]]
 - [[Poison]]
-
----
-
-## Known Individuals
-
-- 
 
 ---
 

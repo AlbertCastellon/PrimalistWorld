@@ -2,7 +2,7 @@
 type: character
 class: "[[Alchemist]]"
 subclass:
-rank: Platinum
+rank: "[[Diamond Tier]]"
 affinities:
 companion:
 ---

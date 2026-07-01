@@ -1,4 +1,5 @@
 # Primalist Spells
+
 - [[Shocking Strike]]
 - [[Dark Shocking Strike]]
 - [[Dusk Scythes]]

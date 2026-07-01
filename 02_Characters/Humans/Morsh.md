@@ -1,15 +1,16 @@
 ---
 type: character
-class:
+class: "[[Rogue]]"
 subclass:
-rank: "[[Diamond Tier]]"
+rank: Peak-Iron
 affinities:
 companion:
 ---
-
-# Ayleen Velaryon
+# Morsh
 
 ## Overview
+
+**Class:** [[Rogue]] | **Subclass:** | **Rank:** 60 (Peak-Iron)
 
 ## 🧬 Essence Development
 
