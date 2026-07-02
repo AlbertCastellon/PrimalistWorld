@@ -7,6 +7,7 @@ affinities:
 ---
 # Inferno Bear
 
+![[Inferno_Bear.png|400]]
 ## Species Type
 Bear
 

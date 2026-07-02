@@ -4,8 +4,9 @@ organization_type:
 location:
 leader:
 ---
+# Oracle Guild
 
-# Untitled
+![[Oracle_Guild.png]]
 
 ## Overview
 Guild that proves nationalities among other things through reading superficial thoughts. They compromise to not leak information about their readings. Their symbol is an [[Oracle Snake]].
@@ -14,7 +15,7 @@ Guild that proves nationalities among other things through reading superficial t
 
 ## Members
 
-- 
+- Alfred
 
 ---
 

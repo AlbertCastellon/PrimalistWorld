@@ -3,7 +3,7 @@ type: species
 species_category: beast
 base_potential: "[[Iron Tier]]"
 affinities:
-  - "[[03_World/Elements/Undead]]"
+  - "[[Undead]]"
 ---
 # Undead Rhinoceros
 
@@ -19,7 +19,7 @@ Rhinoceros
 
 ## Natural Affinities
 
-- [[03_World/Elements/Undead]]
+- [[Undead]]
 
 ---
 

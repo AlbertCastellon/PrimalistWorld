@@ -8,6 +8,8 @@ affinities:
 ---
 # One-Horned Imp
 
+![[One-Horned_Imp.png|400]]
+
 ## Species Type
 Demon
 

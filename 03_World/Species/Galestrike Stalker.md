@@ -7,6 +7,7 @@ affinities:
 ---
 # Galestrike Stalker
 
+![[Galestrike_Stalker.png|400]]
 ## Species Type
 Jaguar
 

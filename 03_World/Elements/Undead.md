@@ -2,7 +2,6 @@
 type: element
 element_type: base
 ---
-
 # Undead
 
 ## Properties

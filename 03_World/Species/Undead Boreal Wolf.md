@@ -3,7 +3,7 @@ type: species
 species_category: beast
 base_potential: "[[Copper Tier]]"
 affinities:
-  - "[[03_World/Elements/Undead]]"
+  - "[[Undead]]"
 ---
 # Undead Boreal Wolf
 
@@ -19,7 +19,7 @@ Wolf
 
 ## Natural Affinities
 
-- [[03_World/Elements/Undead]]
+- [[Undead]]
 
 
 ---

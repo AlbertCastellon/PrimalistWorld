@@ -19,7 +19,7 @@ Rare class associated with foresight, prophecy, perception, or fate-related abil
 
 ## Known Users
 
-- 
+- Alfred
 
 ---
 

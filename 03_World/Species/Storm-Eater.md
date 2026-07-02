@@ -16,7 +16,6 @@ Tiger
 [[Iron Tier]]
 
 ---
-
 ## Natural Affinities
 
 - [[Lightning]]
