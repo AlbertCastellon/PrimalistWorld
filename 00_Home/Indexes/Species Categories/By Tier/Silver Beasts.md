@@ -11,3 +11,6 @@
 - [[Ice Elemental]]
 - [[Astral Wraith]]
 - [[Glacial Shield-Horntail]]
+- [[Hurricane Eagle]]
+- [[Giant Earth Elemental]]
+- [[One-eyed Giant Elemental]]

@@ -4,3 +4,4 @@
 - [[Gale Hawk]]
 - [[Grassland Antelope]]
 - [[Silver Horse]]
+- [[Hurricane Eagle]]

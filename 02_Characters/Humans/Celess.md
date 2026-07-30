@@ -12,16 +12,16 @@ companion:
 
 **Class:** [[Elementalist]] | **Subclass:**  | **Rank:** 60 (Peak-Iron)
 
-## 🧬 Essence Development
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-
-## 📝 Notes
+---
+## Notes

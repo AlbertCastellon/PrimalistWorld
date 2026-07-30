@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Rogue|Rogue]]"
 ---
-
 # Dark Assassin
 
 ## Requirements

@@ -15,11 +15,10 @@ restrictions:
   - "[[Primalist]]"
 evolution_path: false
 ---
-
 # Beastmaster Rage
 
 ## Description
-An evolved version of Primal Rage that extends its effects to the Wielder's contracted beasts. The spell empowers both master and companions simultaneously, reflecting the Beastmaster Path's focus on shared growth and combat synergy.
+An evolved version of [[Primal Rage]] that extends its effects to the Wielder's contracted beasts. The spell empowers both master and companions simultaneously, reflecting the Beastmaster Path's focus on shared growth and combat synergy.
 
 ---
 
@@ -29,6 +28,7 @@ Increases Strength and Agility of the owner and their beasts by 30 for 7 minutes
 ---
 
 ## Restrictions
+
 - [[Primalist]]
 ---
 

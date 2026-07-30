@@ -49,7 +49,7 @@ Some beasts possess Innate Spells from birth, while others develop new spells th
 
 ---
 ## Beaststones
-Upon death, Arcane Beasts may leave behind a [[Beaststones]].
+Upon death, Arcane Beasts leave behind a [[Beaststones]].
 These crystallized concentrations of Aether are valuable resources used in crafting, artificing, and magical research.
 
 ---

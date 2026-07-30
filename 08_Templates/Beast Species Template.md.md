@@ -1,9 +1,9 @@
 ---
 type: species
 species_category: beast
-base_potential:
+base_potential: 
 affinities:
-  -
+  - 
 ---
 # <% tp.file.title %>
 

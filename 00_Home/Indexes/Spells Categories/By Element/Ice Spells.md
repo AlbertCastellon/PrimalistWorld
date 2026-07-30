@@ -1,6 +1,7 @@
 # Ice Spells
 
 ## Restricted
+- [[Blizzard]]
 
 ---
 ## Not Restrictive

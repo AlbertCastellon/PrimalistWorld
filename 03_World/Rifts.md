@@ -1,7 +1,7 @@
 # Rifts
 
 ## Overview
-Rifts are isolated pocket dimensions separated from the outside world. They are formed around a special plant known as a [[Domain Flower]], which acts as the anchor maintaining the Rift's existence.
+Rifts are isolated pocket dimensions separated from the outside world. They are formed around a special plant known as a Domain Flower, which acts as the anchor maintaining the Rift's existence.
 Rifts are complete ecosystems that may contain forests, mountains, rivers, deserts, beasts, resources, and even settlements.
 They are the primary source of many valuable resources such as [[Seeds]], [[Essences]], [[Spellshards]], and [[Arcane Beasts]].
 

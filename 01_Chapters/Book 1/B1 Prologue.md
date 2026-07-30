@@ -52,7 +52,7 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
 
 ## Locations Mentioned
 
-- [[Kastal]]
+- [[Kastal Kingdom]]
 - [[Bridan Empire]]
 - [[Arthuri]]
 - [[Silver Sky Rift]]

@@ -1,25 +1,41 @@
 ---
-type: character
-class:
+type: Character
+name: 
+species: 
+status: 
+gender: 
+age: 
+occupation:
+affiliation:
+class: 
 subclass:
-rank:
-affinities:
-companion:
+rank: 
+firstAppearance: 
 ---
 # <% tp.file.title %>
 
+> [!abstract] Pages  
+> **Character** • [[|Stats]]
+
+
 ## Overview
 
-## 🧬 Essence Development
 
-## ✨ Elemental Affinities
+---
+## Appearance
 
-## 🌱Seeds
 
-## 📊Stats
+---
+## Personality
 
-## 📜 Spells
 
-## 🤝 Relationships
+---
+## History
 
-## 📝 Notes
+
+---
+## Relationships
+
+
+---
+## Notes

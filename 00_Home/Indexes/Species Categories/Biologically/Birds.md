@@ -1,6 +1,7 @@
 # Birds
 
-## Hawks
-- [[Gale Hawk]]
-## Orioles
-- [[Black-Winged Oriole]]
+## Raptors 
+- [[Gale Hawk]]  
+- [[Hurricane Eagle]] 
+## Songbirds  
+- [[Black-winged Oriole]]

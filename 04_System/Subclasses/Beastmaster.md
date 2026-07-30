@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Primalist|Primalist]]"
 ---
-
 # Beastmaster
 
 ## Requirements
@@ -12,8 +11,9 @@ parent_class: "[[Primalist|Primalist]]"
 
 ---
 
-## Possible Evolutions
+## Related Concepts
 
+- [[Arcane Beasts]]
 
 ---
 

@@ -1,26 +1,33 @@
 ---
-type: character
+type: Character
+name: Ayleen
+species: Human
+status: Alive
+gender: Female
+age:
+occupation:
+affiliation: "[[NEVAK]]"
 class:
 subclass:
-rank: "[[Diamond Tier]]"
-affinities:
-companion:
+rank:
+firstAppearance: B2 Interlude I
 ---
 
 # Ayleen Velaryon
 
 ## Overview
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-
-## 📝 Notes
+---
+## Notes

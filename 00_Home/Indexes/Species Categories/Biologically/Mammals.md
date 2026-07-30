@@ -4,6 +4,7 @@
 - [[White Fox]]
 - [[Lesser Black Cerberus]]
 - [[Undead Boreal Wolf]]
+- [[Duskbound Direwolf]]
 ## Felines
 - [[Galestrike Stalker]]
 - [[Silver Wildcat]]
@@ -12,18 +13,19 @@
 ## Bears
 - [[Inferno Bear]]
 - [[Iron-Hide Crag-Bear]]
-## Rodents
+## Rabbits & Hares
 - [[Brown Cottontail]]
-- [[Lunar-hide Mole]]
 - [[Saber-Toothed Hare]]
 ## Mustelids
 - [[Two-Tailed Badger]]
 - [[Luminous Otter]]
-## Horses
+## Equines
 - [[Silver Horse]]
 ## Antelopes
 - [[Grassland Antelope]]
-## Rhinoceros
+## Rhinoceroses
 - [[Undead Rhinoceros]]
-## Pigs
+## Swine
 - [[Ironhide Warthog]]
+## Moles
+- [[Lunar-hide Mole]]

@@ -12,3 +12,6 @@
 - [[Ironhide Warthog]]
 - [[Earth Elemental]]
 - [[Earth Rhinoceros Elemental]]
+- [[Giant Earth Elemental]]
+- [[One-eyed Giant Elemental]]
+- [[Desert Lizard]]

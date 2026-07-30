@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Primalist]]"
 ---
-
 # Nature Fortifier
 
 ## Requirements

@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Primalist]]"
 ---
-
 # Tamer
 
 ## Requirements
@@ -10,13 +9,11 @@ parent_class: "[[Primalist]]"
 Unknown
 
 ---
-
 ## Related Concepts
 
-- [[Beasts]]
+- [[Arcane Beasts]]
 
 ---
-
 ## Known Users
 
 - 

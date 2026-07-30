@@ -1,9 +1,8 @@
 ---
 type: subclass
-parent_class: "[[Warrior|Warrior]]"
-evolves_from: "[[Barbarian|Barbarian]]"
+parent_class: "[[Warrior]]"
+evolves_from: "[[Barbarian]]"
 ---
-
 # Rageborn Champion
 
 ## Requirements
@@ -14,7 +13,7 @@ Unknown
 
 ## Evolution Path
 
-- Evolves from [[Barbarian|Barbarian]]
+- Evolves from [[Barbarian]]
 
 ---
 

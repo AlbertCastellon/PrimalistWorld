@@ -23,7 +23,5 @@ The second major progression tier, comes after Copper. Commonly known as the com
 ---
 ## Related Concepts
 
-- [[High-Iron]]
-- [[Peak-Iron]]
 - [[Iron Spells]]
 - [[Progression]]

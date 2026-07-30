@@ -13,18 +13,17 @@ companion:
 
 **Class:** [[Warrior|Warrior]] | **Subclass:** [[Spellblade|Spellblade]] | **Rank:** 201 (Low-Platinum)
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-- [[Wind|Wind]]
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-- [[Champions of Chaos]]
-
-## 📝 Notes
+---
+## Notes

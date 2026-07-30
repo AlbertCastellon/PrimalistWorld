@@ -18,7 +18,7 @@ element_type: base
 ---
 ## Known Users
 
-- [[Nightmare|Nightmare]]
+- [[Nightmare]]
 - [[Kaelen]]
 
 ---
@@ -28,3 +28,6 @@ element_type: base
 
 ---
 ## Notes
+
+- [[Darkness Spells]]
+- [[Darkness Beasts]]

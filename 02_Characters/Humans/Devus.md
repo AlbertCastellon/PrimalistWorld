@@ -13,21 +13,20 @@ companion: "[[Cub 1]]"
 
 **Class:** [[Guardian]] | **Subclass:**  | **Rank:** 38 (Mid-Iron)
 
-## 🧬 Essence Development
+---
+## Appearance
 
-##  ✨ Elemental Affinities
+---
+## Personality
 
-- [[Light|Light]]
-## 🌱 Seeds
+---
+## History
 
-## 📊 Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-
-- [[Seth|Seth]]
-- [[Jenna|Jenna]]
-- [[Elena]]
-
-## 📝 Notes
+- [[Seth]] — Best friend
+- [[Elena]] — Friend
+- [[Jenna]] — Friend
+---
+## Notes

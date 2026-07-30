@@ -4,3 +4,4 @@
 - [[One-Horned Imp]]
 - [[Dark Elemental]]
 - [[Dark Elemental Executioner]]
+- [[Duskbound Direwolf]]

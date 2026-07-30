@@ -11,17 +11,18 @@ companion:
 ## Overview
 
 **Class:** [[Guardian|Guardian]] | **Subclass:**  | **Rank:** 
-## 🧬 Essence Development
 
-## ✨ Elemental Affinities
+---
+## Appearance
 
-## 🌱Seeds
+---
+## Personality
 
-## 📊Stats
+---
+## History
 
-## 📜 Spells
+---
+## Relationships  
 
-- [[Lightning Tribulation]]
-## 🤝 Relationships
-
-## 📝 Notes
+---
+## Notes

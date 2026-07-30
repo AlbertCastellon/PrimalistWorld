@@ -49,10 +49,10 @@ Aether can be aligned with specific concepts or elements known as **Affinities**
 Common examples include:
 
 - Earth
-- Ice
+- Fire
 - Darkness
-- Poison
-- Null
+- Lightning
+- Water
 
 An Affinity increases a wielder's compatibility with related spells and often improves the efficiency and potency of Aether used for those effects.
 Affinities themselves can develop and grow stronger over time.

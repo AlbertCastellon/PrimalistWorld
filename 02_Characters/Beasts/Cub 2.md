@@ -2,12 +2,12 @@
 type: beast
 species: "[[Galestrike Stalker]]"
 potential: "[[Silver Tier]]"
+tier: "[[Copper Tier]]"
 rank: Low-Copper
 affinities:
-  - "[[Wind]]"
+  - "[[Wind|Wind]]"
 contractor: "[[Jenna]]"
 ---
-
 # Cub 2
 
 **Species:** [[Galestrike Stalker]]
@@ -19,18 +19,14 @@ contractor: "[[Jenna]]"
 
 **Contractor:** [[Jenna]]
 
-## 🧬 Essence Development
-
-## ✨ Elemental Affinities
-
-[[Wind]]
-
-## 🌱 Seeds
-
-## 📊 Stats
-
-## 📜 Spells
-
-## Relationship to Contractor
-
-## Notes
+## Appearance  
+  
+## Personality  
+  
+## Abilities  
+  
+## History  
+  
+## Relationships  
+  
+## Trivia

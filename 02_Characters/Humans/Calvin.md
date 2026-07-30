@@ -13,23 +13,19 @@ companion:
 
 **Class:** [[Elementalist|Elementalist]] | **Subclass:** [[Battlemancer|Battlemancer]] | **Rank:** 121 (Low-Gold)
 
-## 🧬 Essence Development
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-- [[Fire|Fire]]
-- [[Wind|Wind]]
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
-
-## 📜 Spells
-
-- [[Blazing Fists]]
-
-## 🤝 Relationships
+---
+## Relationships
 
 - [[Seth|Seth]]: Student and protegé
 - [[Champions of Chaos]]
 
-## 📝 Notes
+---
+## Notes

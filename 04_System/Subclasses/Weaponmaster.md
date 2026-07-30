@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Warrior|Warrior]]"
 ---
-
 # Weaponmaster
 
 ## Requirements
@@ -10,13 +9,11 @@ parent_class: "[[Warrior|Warrior]]"
 - 
 
 ---
-
 ## Known Users
 
 - 
 
 ---
-
 ## Notes
 
 - Expert wielding different weapons

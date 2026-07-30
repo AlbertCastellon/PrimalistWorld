@@ -15,33 +15,19 @@ evolution_path: false
 
 ## Description
 
----
-
-## Scaling Effects
-
-| Tier | Effects |
-|---|---|
-| Copper | |
-| Iron | |
-| Silver | |
-| Gold | |
-| Platinum | |
-| Diamond | |
 
 ---
+## Effects
 
+
+---
 ## Restrictions
 
----
-
-## Legacy
 
 ---
-
 ## Known Users
 
 - 
 
 ---
-
 ## Notes

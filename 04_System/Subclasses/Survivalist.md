@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Primalist]]"
 ---
-
 # Survivalist
 
 ## Requirements
@@ -10,20 +9,15 @@ parent_class: "[[Primalist]]"
 Unknown
 
 ---
-
 ## Related Concepts
 
-- [[Nature]]
-- [[Plants]]
 
 ---
-
 ## Known Users
 
 - 
 
 ---
-
 ## Notes
 
 - Nature-oriented Primalist subclass.

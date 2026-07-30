@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c6009a48cc6469",
+        "id": "4e180d01373180e1",
         "type": "tabs",
         "children": [
           {
-            "id": "538f477673f3f680",
+            "id": "cad022b455288c62",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "07_Media/Species/Three-Tailed_Giant_Scorpion.png"
+                "file": "04_System/Spells/Twin Mirages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Three-Tailed_Giant_Scorpion"
+              "icon": "lucide-file",
+              "title": "Twin Mirages"
             }
           }
         ]
@@ -39,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -182,52 +196,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "538f477673f3f680",
+  "active": "cad022b455288c62",
   "lastOpenFiles": [
-    "07_Media/Species/Oracle_Snake.png",
-    "07_Media/Species/One-Horned_Imp.png",
+    "04_System/Spells/Shocking Strike.md",
+    "04_System/Spells/Shadow Step.md",
+    "04_System/Spells/Shadow Bite.md",
+    "04_System/Spells/Scorpion Charge.md",
+    "04_System/Spells/Night Veil.md",
+    "04_System/Spells/Predator Hunt.md",
+    "04_System/Spells/Primal Rage.md",
+    "04_System/Spells/Quartz Armor.md",
+    "04_System/Spells/Sandstorm Dome.md",
+    "04_System/Spells/Mountainborn Exoskeleton.md",
+    "04_System/Spells/Mantle of Terror.md",
+    "04_System/Spells/Light Empowerment.md",
+    "04_System/Spells/Iron Fists.md",
+    "04_System/Spells/Illusory Emptiness.md",
+    "04_System/Spells/Ground-Splitting Strike.md",
+    "04_System/Spells/Gloom Fangs.md",
+    "04_System/Spells/Fog Shroud.md",
+    "04_System/Spells/Explosive Rampart.md",
+    "04_System/Spells/Explosive Bastion.md",
+    "04_System/Spells/Dreadful Shroud.md",
+    "04_System/Spells/Desert Aegis.md",
+    "04_System/Spells/Deathcoil Venom.md",
+    "04_System/Spells/Danger Sense.md",
+    "04_System/Spells/Cold Channel.md",
+    "04_System/Spells/Chitinous Taunt.md",
+    "04_System/Spells/Chains of Darkness.md",
+    "Sin título.canvas",
+    "07_Media/Species/Astral__Wraith.png",
+    "02_Characters/Beasts/Lumi",
+    "02_Characters/Beasts/Colossus",
+    "02_Characters/Beasts/Nightmare",
+    "07_Media/Oracle_Guild.png",
+    "07_Media/Species/Glacial_Shield-Horntail.png",
+    "07_Media/Species/Galestrike_Stalker.png",
     "07_Media/Species/Obsidian_Dread-Drake.png",
     "07_Media/Species/Luminous_Otter.png",
-    "07_Media/Species/Glacial_Shield-Horntail.png",
-    "07_Media/Species/Desert_Snake.png",
-    "07_Media/Species/Galestrike_Stalker.png",
     "07_Media/Species/Inferno_Bear.png",
     "07_Media/Species/Three-Tailed_Giant_Scorpion.png",
-    "03_World/Species/Three-Tailed Giant Scorpion.md",
-    "03_World/Species/Glacial Shield-Horntail.md",
-    "03_World/Organizations/Guilds/Oracle Guild.md",
-    "03_World/Organizations/Branches/Champions of Chaos.md",
-    "03_World/Elemental Affinity.md",
-    "03_World/Essences.md",
-    "03_World/Path.md",
-    "03_World/Rifts.md",
-    "03_World/Seeds.md",
-    "03_World/Spellshards.md",
-    "04_System/Classes.md",
-    "04_System/Legacies.md",
-    "04_System/Progression.md",
-    "04_System/Spell System.md",
-    "04_System/Stats.md",
-    "03_World/Species/Gnoll.md",
-    "03_World/Species/Grassland Antelope.md",
-    "03_World/Species/Green Robber.md",
-    "03_World/Species/Ice Elemental.md",
-    "03_World/Species/Inferno Bear.md",
-    "03_World/Species/Iron-Hide Crag-Bear.md",
-    "03_World/Species/Ironhide Warthog.md",
-    "03_World/Species/Lesser Black Cerberus.md",
-    "03_World/Species/Luminous Otter.md",
-    "03_World/Species/White Fox.md",
-    "07_Media/Oracle_Guild.png",
+    "07_Media/Species/Oracle_Snake.png",
+    "07_Media/Species/One-Horned_Imp.png",
+    "02_Characters/Humans/Seth",
     "07_Media/Species",
     "Sin nombre 8",
     "Sin nombre 7",
     "Sin nombre 6",
     "Sin nombre 5",
-    "Sin nombre 4",
-    "Sin nombre 3",
-    "Sin nombre 2",
-    "Sin nombre 1",
-    "07_Media"
+    "Sin nombre 4"
   ]
 }

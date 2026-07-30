@@ -10,19 +10,20 @@ companion: "[[Cub 3]]"
 # Selena
 
 ## Overview
+
 **Class:** [[Rogue]] | **Subclass:**  | **Rank:** 
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-- [[Wind]]
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-
-## 📝 Notes
+---
+## Notes

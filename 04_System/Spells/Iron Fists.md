@@ -21,7 +21,6 @@ restrictions:
   - Earth affinity
 evolution_path: true
 ---
-
 # Iron Fists
 
 ## Description
@@ -29,7 +28,12 @@ Shrouds the user's arms in layers of stone, increasing their durability and enha
 
 ---
 ## Effects
-Covers the user's arms with rock for 5 minutes. Increases Toughness by 7. Offensive potency scales with Arcane Power, [[Earth]] Affinity, and spell quality. Consumes 25 uniums. No cooldown.
+
+- Covers the user's arms with rock for 5 minutes. 
+- Increases Toughness by 7. 
+- Offensive potency scales with Arcane Power, [[Earth]] Affinity, and spell quality. 
+- Consumes 25 uniums. 
+- No cooldown.
 
 ---
 

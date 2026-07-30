@@ -11,22 +11,25 @@ companion:
 ## Overview
 
 **Class:** [[Alchemist]] | **Subclass:**  | **Rank:**
-## 🧬 Essence Development
 
-## ✨ Elemental Affinities
+---
+## Appearance
 
-## 🌱Seeds
+---
+## Personality
 
-## 📊Stats
+---
+## History
 
-## 📜 Spells
+---
+## Relationships  
 
-## 🤝 Relationships
+- [[Ulric]] — Best friend
+- [[Seth]] — Protege
+- [[Ayleen]]
 
-- [[Ulrich]]: best friend.
-- [[Seth]]: best friend's son, close junior to take care.
-
-## 📝 Notes
+---
+## Notes
 
 - Has a lot of shops and contacts.
-- Has some connection with the NEVAK (most likely a previous higher-up)
+- Has some connection with the [[NEVAK]] (most likely a previous higher-up)

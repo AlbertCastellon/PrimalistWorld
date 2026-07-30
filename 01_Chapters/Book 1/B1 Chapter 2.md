@@ -92,27 +92,6 @@ The Status Window displays Class, Rank, Stats, and known Spells.
 
 Primalists are considered one of the most dangerous Classes because their progression heavily rewards risk-taking and dangerous situations.
 
-## First Status Window
-
-Class: [[Primalist]]
-
-Rank: 4 (Low-Copper)
-
-Strength: 8
-
-Toughness: 6
-
-Agility: 7
-
-Arcane Power: 3
-
-Well Capacity: 5
-
-Regeneration: 8
-
-Spell:
-- [[Identify]]
-
 ## Foreshadowing
 
 - Seth's unusual awakening success with a single stone.

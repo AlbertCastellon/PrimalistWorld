@@ -12,19 +12,19 @@ companion:
 
 **Class:** [[Warrior]] | **Subclass:**  | **Rank:** 50 (High-Iron)
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
+- [[Seth]] — Squad mate and friend
 
-## 🤝 Relationships
-- [[Seth]]
-- [[Eddin]]
-- [[Selena]]
-
-## 📝 Notes
+---
+## Notes

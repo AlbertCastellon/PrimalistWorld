@@ -19,6 +19,7 @@ element_type: base
 ## Known Users
 
 - [[Devus]]
+- [[Lumi]]
 
 ---
 ## Related Spells

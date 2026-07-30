@@ -26,7 +26,6 @@ The Luminous Otter is a small, ethereal beast resembling an otter, its semi-tran
 - [[Light]]
 
 ---
-
 ## Known Individuals
 
 - [[Lumi]]

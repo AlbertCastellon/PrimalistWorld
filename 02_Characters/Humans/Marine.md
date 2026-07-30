@@ -13,17 +13,17 @@ companion:
 
 **Class:** [[Rogue]] | **Subclass:** [[Wind Fletcher]] | **Rank:** 60 (Peak-Iron)
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
-[[Wind]]
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-
-## 📝 Notes
+---
+## Notes

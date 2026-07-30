@@ -21,7 +21,7 @@ A vast concentration of [[Darkness|Darkness]] drawn from Shadow Crystals, conden
 
 ## Known Users
 
-- [[Nightmare|Nightmare]]
+- [[Nightmare]]
 
 ---
 

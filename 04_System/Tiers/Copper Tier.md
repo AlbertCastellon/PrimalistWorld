@@ -24,7 +24,6 @@ First true combat tier after awakening.
 ---
 ## Related Concepts
 
-- [[High-Copper]]
-- [[Peak-Copper]]
+- [[Copper Beasts]]
 - [[Copper Spells]]
 - [[Progression]]

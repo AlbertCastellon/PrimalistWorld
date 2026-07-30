@@ -2,7 +2,6 @@
 type: class
 class_category: combat
 ---
-
 # Primalist
 
 ## Description

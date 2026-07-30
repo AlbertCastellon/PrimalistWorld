@@ -2,6 +2,7 @@
 type: beast
 species: "[[Luminous Otter]]"
 potential: "[[Gold Tier]]"
+tier: "[[Iron Tier]]"
 rank: Low-Iron
 affinities:
   - "[[Light]]"
@@ -9,30 +10,29 @@ contractor:
 ---
 # Lumi
 
+
+> [!abstract] Pages  
+> **Beast** • [[Lumi Stats|Stats]]  
+
+
 **Species:** [[Luminous Otter]]
 **Current Stage:** 
 
 **Base Species Potential:** [[Gold Tier]]
 **Current Potential:** [[Gold Tier]]
 
-**Rank:** 26 (Low-Iron)
+**Rank:** 34 (Low-Iron)
 
 **Contractor:** 
 
----
-
-## 🧬 Essence Development
-
-## ✨ Elemental Affinities
-
-[[Light]]
-
-## 🌱 Seeds
-
-## 📊 Stats
-
-## 📜 Spells
-
-## Relationship to Contractor
-
-## Notes
+## Appearance  
+  
+## Personality  
+  
+## Abilities  
+  
+## History  
+  
+## Relationships  
+  
+## Trivia

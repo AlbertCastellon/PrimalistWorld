@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Guardian|Guardian]]"
 ---
-
 # Light Crusader
 
 ## Requirements

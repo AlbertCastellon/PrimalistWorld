@@ -12,18 +12,16 @@ companion:
 ## Overview
 **Class:** [[Guardian]] | **Subclass:** [[Crusader]] | **Rank:**
 
-## 🧬 Essence Development
+## Appearance
 
-## ✨ Elemental Affinities
-- [[Earth]]
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
-
-## 🤝 Relationships
-- [[Champions of Chaos]]
-
-## 📝 Notes
+---
+## Notes

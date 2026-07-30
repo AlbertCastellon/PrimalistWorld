@@ -4,3 +4,4 @@
 
 ---
 ## Not Restricted
+- [[Fog Shroud]]

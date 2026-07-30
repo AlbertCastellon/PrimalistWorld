@@ -4,3 +4,5 @@
 - [[Sun Protection]]
 - [[Light Empowerment]]
 - [[Lightning Tribulation]]
+- [[Explosive Bastion]]
+- [[Explosive Rampart]]

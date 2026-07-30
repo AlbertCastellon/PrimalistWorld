@@ -14,8 +14,8 @@ A feather that has absorbed a tremendous amount of pure Fire aether over a decad
 
 ## Effects
 
-- Enhances all [[Fire|Fire]]-affinity spells by an additional 5–10% Strength and Arcane Power.
-- Increases Strength and Arcane Power by 2–4%.
+- Enhances all [[Fire|Fire]]-affinity spells by an additional 5 to 10% Strength and Arcane Power.
+- Increases Strength and Arcane Power by 2 to 4%.
 
 ---
 

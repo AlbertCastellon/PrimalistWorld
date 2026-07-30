@@ -21,6 +21,7 @@ Represents the total amount of [[Aether]] that a body can contain. It is the onl
 ### 🧪 Regeneration
 Represents the rate at which [[Aether]] is restored after being consumed. Regeneration is more effective when a Wielder's reserves are low, although it is still primarily determined by this stat. Is dominant on support classes or casters, like [[Priest]]s, [[Elementalist]]s, or some [[Guardian]] subclasses.
 
+---
 ## Advanced Stats
 Advanced Stats are normally visible only to the owner of the Status Window, bonded beings, or individuals with specialized identification abilities.
 Unlike Basic Stats, Advanced Stats are not represented by numerical values. Instead, they are measured using the same Tier and Subtier system used throughout cultivation and progression.

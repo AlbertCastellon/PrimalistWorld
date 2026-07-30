@@ -9,33 +9,24 @@ leader:
 
 ## Overview
 
----
 
+---
 ## Leadership
 
-- 
+---
+## Political Status
 
 ---
+## Major Noble Houses
 
-## Members
-
-- 
-
----
-
-## Affiliations
-
-- 
-
----
-
-## Territory / Headquarters
+--- 
+## Major Cities
 
 - 
 
 ---
 
-## Related Concepts
+## Related Organizations
 
 - 
 

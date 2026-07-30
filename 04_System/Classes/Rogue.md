@@ -10,7 +10,6 @@ class_category: combat
 Agility-based combat class excelling in stealth, precision strikes, and mobility.
 
 ---
-
 ## Known Users
 
 - [[Selena]]

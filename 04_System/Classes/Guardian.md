@@ -17,7 +17,6 @@ Defensive combat class focused on protection, endurance, and shielding allies.
 - [[Drack]]
 
 ---
-
 ## Known Subclasses
 
 - [[Crusader|Crusader]]

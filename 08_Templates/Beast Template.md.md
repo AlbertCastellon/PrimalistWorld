@@ -2,26 +2,26 @@
 type: beast
 species:
 potential:
+tier:
 rank:
 affinities:
 contractor:
 ---
 # <% tp.file.title %>
 
-## Species
-
-## Potential Tier
-
-## 🧬 Essence Development
-
-## ✨ Elemental Affinities
-
-## 🌱 Seeds
-
-## 📊 Stats
-
-## 📜 Spells
-
-## Relationship to Contractor
-
-## Notes
+> [!abstract] Pages  
+> **Beast** • [[|Stats]]  
+  
+## Overview  
+  
+## Appearance  
+  
+## Personality  
+  
+## Abilities  
+  
+## History  
+  
+## Relationships  
+  
+## Trivia

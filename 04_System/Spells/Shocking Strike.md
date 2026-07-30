@@ -29,11 +29,11 @@ Targets with low pain tolerance may become temporarily paralyzed.
 ---
 ## Effects
 
-- Enhances melee strikes with Lightning aether.
+- Enhances melee strikes with Lightning [[Aether]].
 - Chance to paralyze the target.
 - Potency scales with:
   - Arcane Power
-  - Lightning Affinity
+  - [[Lightning]] Affinity
   - Spell Quality
   - Spell Mastery
 

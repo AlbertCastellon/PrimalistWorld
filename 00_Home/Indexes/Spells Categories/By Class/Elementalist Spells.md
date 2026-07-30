@@ -5,3 +5,6 @@
 - [[Aetheric Bow]]
 - [[Iron Fists]]
 - [[Ravenous Arrow]]
+- [[Blizzard]]
+- [[Night Veil]]
+- [[Fog Shroud]]

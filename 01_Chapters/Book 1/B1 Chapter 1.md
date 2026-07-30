@@ -38,8 +38,6 @@ Returning to Sunatown, Seth witnesses the worsening conditions of the population
 - Rick
 - [[Marcus]]
 - Vandric
-- John
-- Elna
 
 ### Mentioned
 

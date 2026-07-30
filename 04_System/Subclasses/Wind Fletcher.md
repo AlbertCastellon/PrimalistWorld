@@ -1,8 +1,7 @@
 ---
 type: subclass
-parent_class: "[[Rogue|Rogue.md]]"
+parent_class: "[[Rogue]]"
 ---
-
 # Wind Fletcher
 
 ## Requirements
@@ -10,21 +9,18 @@ parent_class: "[[Rogue|Rogue.md]]"
 - Possibly [[Wind|Wind]] affinity
 
 ---
-
 ## Related Concepts
 
 - [[Archer]]
 - [[Wind|Wind]]
 
 ---
-
 ## Known Users
 
 - [[Marine]]
 
 ---
-
 ## Notes
 
 - Wind-oriented ranged subclass.
-- Creates arrow with wind.
+- Creates arrows with wind.

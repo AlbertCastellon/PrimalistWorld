@@ -14,8 +14,8 @@ A raw metal element that absorbed the hardness of its surroundings within the Da
 
 ## Effects
 
-- Increases Toughness by 5–10.
-- Increases Toughness by 3–6%.
+- Increases Toughness by 5 to 10.
+- Increases Toughness by 3 to 6%.
 - Reduces duration of Copper and Iron immobilizing spells by 60%.
 
 ---

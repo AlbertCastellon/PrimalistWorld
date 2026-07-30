@@ -1,10 +1,18 @@
 ---
-type: character
+type: Character
+name: Morsh
+species: Human
+status: Dead
+gender: Male
+age: 19
+occupation:
+  - Adventurer
+  - Soldier
+affiliation: "[[Bridan Empire]]"
 class: "[[Rogue]]"
-subclass:
+subclass: ""
 rank: Peak-Iron
-affinities:
-companion:
+firstAppearance: B3 Chapter 26
 ---
 # Morsh
 
@@ -12,16 +20,19 @@ companion:
 
 **Class:** [[Rogue]] | **Subclass:** | **Rank:** 60 (Peak-Iron)
 
-## 🧬 Essence Development
+---
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships  
 
-## 📜 Spells
+---
+## Notes
 
-## 🤝 Relationships
-
-## 📝 Notes
+- [[Darkness]] affinity

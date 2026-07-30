@@ -8,7 +8,6 @@ affinities:
 # Lesser Black Cerberus
 
 ## Species Type
-
 Dog
 
 ---

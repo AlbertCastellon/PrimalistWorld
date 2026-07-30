@@ -12,3 +12,4 @@
 - [[Grassland Antelope]]
 - [[Plain Lion]]
 - [[Saber-Toothed Hare]]
+- [[Desert Lizard]]

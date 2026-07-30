@@ -28,7 +28,7 @@ Prolonged exposure can:
 ---
 ## Known Locations
 
-- [[Seth|Seth]]'s necklace, [[Nightmare|Nightmare]] drop
+- [[Seth|Seth]]'s necklace, [[Nightmare]] drop
  ---
 ## Known Users
 
@@ -39,7 +39,7 @@ Prolonged exposure can:
 ## Related Concepts
 
 - [[Darkness]]
-- [[Nightmare]]
+- [[Nightmare Stats]]
 
 ---
 

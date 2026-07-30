@@ -2,7 +2,6 @@
 type: subclass
 parent_class: "[[Elementalist|Elementalist]]"
 ---
-
 # Ice Weaver
 
 ## Requirements

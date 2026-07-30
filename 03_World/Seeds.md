@@ -23,14 +23,9 @@ Once completely consumed, the Seed disappears and its effects become permanently
 ## Effects
 The primary effect of a Seed is to increase one or more attributes.
 Lower-grade Seeds generally provide flat bonuses to [[Stats]], while higher-grade Seeds may grant percentage-based enhancements.
-Examples include:
-- Increased Strength
-- Increased Toughness
-- Increased Agility
-- Increased Arcane Power
-- Increased Well Capacity
-- Increased Regeneration
-- Increased power for spells of a certain [[Elemental Affinity]]
+The most common effects are:
+- Increase a Stat
+- Increase the power for spells of a certain [[Elemental Affinity]] in proportion of a Stat's value
 Some rare Seeds may provide more specialized benefits.
 
 ---

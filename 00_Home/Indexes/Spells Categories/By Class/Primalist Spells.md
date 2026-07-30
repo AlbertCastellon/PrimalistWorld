@@ -9,3 +9,5 @@
 - [[Iron Fists]]
 - [[Phantom Punch]]
 - [[Armored Phantom Fists]]
+- [[Night Veil]]
+- [[Fog Shroud]]

@@ -13,18 +13,18 @@ companion:
 
 **Class:** [[Rogue]] | **Subclass:** [[Dark Assassin]] | **Rank:** 60 (Peak-Iron)
 
-## 🧬 Essence Development
+## Appearance
 
-## ✨ Elemental Affinities
-[[Darkness]]
+---
+## Personality
 
-## 🌱Seeds
+---
+## History
 
-## 📊Stats
+---
+## Relationships 
 
-## 📜 Spells
+- Floria: Sister
 
-## 🤝 Relationships
-- [[Floria]]
-
-## 📝 Notes
+---
+## Notes

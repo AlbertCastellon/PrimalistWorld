@@ -20,7 +20,6 @@ restrictions:
   - 70 Toughness
 evolution_path: true
 ---
-
 # Primal Rage
 
 ## Description
@@ -29,7 +28,7 @@ A physical enhancement spell that temporarily pushes the Wielder beyond their no
 
 ---
 ## Effects
-Increases Strength and Agility by 30 for 6 minutes. Decreases Toughness by 35 for 20 minutes afterward. Duration increases according to spell quality. Consumes 120 uniums over the duration. Cooldown: 12 hours. |
+Increases Strength and Agility by 30 for 6 minutes. Decreases Toughness by 35 for 20 minutes afterward. Duration increases according to spell quality. Consumes 120 uniums over the duration. Cooldown: 12 hours. 
 
 ---
 

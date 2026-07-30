@@ -7,6 +7,7 @@ affinities:
 ---
 # Astral Wraith
 
+![[Astral__Wraith.png|400]]
 ## Species Type
 Spirit
 

@@ -26,7 +26,6 @@ restrictions:
 
 evolution_path: false
 ---
-
 # Cold Channel
 
 ## Description
@@ -34,7 +33,6 @@ evolution_path: false
 A passive spell from Friora Milleria’s Legacy that strengthens Ice-affinity spellcasting while suppressing incompatible affinities.
 
 ---
-
 ## Scaling Effects
 
 | Tier     | Effects                                                                                            |
@@ -51,25 +49,21 @@ A passive spell from Friora Milleria’s Legacy that strengthens Ice-affinity sp
 - Weakens all non-Ice-affinity spells by 20% Arcane Power.
 
 ---
-
 ## Restrictions
 
 - [[Elementalist]]
 
 ---
-
 ## Legacy
 
 Part of [[Friora Milleria]]'s Legacy.
 
 ---
-
 ## Known Users
 
 -  [[Elena]]
 
 ---
-
 ## Notes
 
 - Passive scalable spell.

@@ -27,3 +27,4 @@ Arcane combat class specializing in elemental manipulation and ranged magical of
 ---
 
 ## Notes
+- [[Elementalist Spells]]

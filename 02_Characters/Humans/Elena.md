@@ -15,22 +15,25 @@ companion:
 
 **Class:** [[Elementalist]] | **Subclass:** [[Ice Weaver]] | **Rank:** 38 (Mid-Iron)
 
-## 🧬 Essence Development
+## Appearance
 
-## ✨ Elemental Affinities
+---
+## Personality
 
-## 🌱 Seeds
-### [[Frigid Tulip|Frigid Tulip of the Astral Ice Cave]] | [[Copper Tier|Copper]] ~ Epic |
-#### Integrated Effects  
+---
+## History
 
-## 📊 Stats
-
-## 📜 Spells
-
-- [[Cold Channel]]
-
-## 🤝 Relationships
+---
+## Relationships 
 
 - Member of [[Surani House]] 
+- [[Seth]] — Friend and love interest
+- [[Brandon]] — Brother
+- [[Leonard]] — Father
+- [[Jenna]] — Best friend
+- [[Devus]] — Friend
 
-## 📝 Notes
+---
+## Notes
+### Seeds
+- [[Frigid Tulip|Frigid Tulip of the Astral Ice Cave]] | [[Copper Tier|Copper]] ~ Epic |

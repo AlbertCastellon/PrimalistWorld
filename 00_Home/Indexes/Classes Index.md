@@ -10,7 +10,6 @@
 - [[Primalist]]
 
 ---
-
 ## Non-Combat Classes
 
 - [[Blacksmith]]

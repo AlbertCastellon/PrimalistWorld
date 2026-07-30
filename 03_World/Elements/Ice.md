@@ -5,7 +5,6 @@ components:
   - "[[Water|Water]]"
   - "[[Wind|Wind]]"
 ---
-
 # Ice
 
 ## Properties

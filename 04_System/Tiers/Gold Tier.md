@@ -1,4 +1,4 @@
-# Silver Tier 
+# Gold Tier 
 
 ## Overview
 
@@ -25,3 +25,4 @@ The fourth major progression tier, comes after Silver. In [[Kastal Kingdom]] is 
 
 - [[Gold Spells]]
 - [[Progression]]
+- [[Gold Beasts]]
