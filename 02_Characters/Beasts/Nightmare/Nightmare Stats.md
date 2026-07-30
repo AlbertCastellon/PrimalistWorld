@@ -86,4 +86,3 @@ tags:
 
 ## 📝 Notes
 
-- Nightmare exceeded normal species potential after absorbing [[Liquified Shadow|Drop of Liquified Shadow Crystal]].
