@@ -11,7 +11,6 @@ affinity: "[[Darkness|Darkness]]"
 A scale of the Mythical Night Serpent, who has absorbed a tremendous amount of the darkness before its death.
 
 ---
-
 ## Effects
 
 - Increases Toughness by 5 to 10.

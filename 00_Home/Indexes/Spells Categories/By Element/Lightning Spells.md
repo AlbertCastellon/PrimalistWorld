@@ -6,3 +6,4 @@
 ## Not Restricted
 - [[Shocking Strike]]
 - [[Dark Shocking Strike]]
+- [[Lightning Tribulation]]

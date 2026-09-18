@@ -33,7 +33,6 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
     
 
 ---
-
 ## Characters Introduced
 
 - [[Leonard]]
@@ -43,13 +42,12 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
 - [[Black Reaper]]
 
 ---
-
 ## Organizations Introduced
 
 - [[Black Reapers]]
 - [[Ryehill House]]
----
 
+---
 ## Locations Mentioned
 
 - [[Kastal Kingdom]]
@@ -60,7 +58,6 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
 - [[Draeria]]
 
 ---
-
 ## Concepts Introduced
 
 - [[Soul Contract]]
@@ -69,7 +66,6 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
 - [[Platinum Tier]]
 
 ---
-
 ## Foreshadowing
 
 - Investigation of the mysterious Draerian warrior.
@@ -79,7 +75,6 @@ During the meeting, a Black Reaper assassin appears and offers to investigate th
 - The significance of the Draerian warrior's beast.
 
 ---
-
 ## Notes
 
 - First mention of Draeria and its reputation.

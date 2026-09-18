@@ -11,7 +11,6 @@ affinity: none
 A raw metal element that absorbed the hardness of its surroundings within the Dark Mountain of Salavarus.
 
 ---
-
 ## Effects
 
 - Increases Toughness by 5 to 10.

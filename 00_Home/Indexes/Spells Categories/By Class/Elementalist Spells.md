@@ -8,3 +8,4 @@
 - [[Blizzard]]
 - [[Night Veil]]
 - [[Fog Shroud]]
+- Frigid Orb

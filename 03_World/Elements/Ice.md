@@ -23,12 +23,14 @@ components:
 ## Known Users
 
 - [[Elena]]
+- Professor Storm
 
 ---
 ## Related Spells
 
 - [[Blizzard]]
 - [[Cold Channel]]
+- Frigid Orb
 
 ---
 ## Notes

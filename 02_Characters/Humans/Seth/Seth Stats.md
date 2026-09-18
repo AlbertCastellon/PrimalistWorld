@@ -24,32 +24,29 @@ companions:
 | :----------- | :---------------- |
 | **Class**    | [[Primalist]]     |
 | **Subclass** | [[Beastmaster]]   |
-| **Rank**     | 58 (high-Iron)    |
+| **Rank**     | 59 (High-Iron)    |
 | **Core**     | Predator Instinct |
 
 ---  
-  
 ## 🧬 Essence Development  
   
 | Category            | Level / Progress |
 | :------------------ | :--------------- |
 | 👁️ **Sensing**     | Peak-Iron        |
 | 🌀 **Manipulation** | Peak-Iron        |
-| 🧬 **Talents**      | [RESTRICTED]     |
-  
+
 ---  
-  
 ## ✨ Elemental Affinities  
   
 | Element                   | Rank       | Notes                                 |
 | :------------------------ | :--------- | :------------------------------------ |
-| ⚪ [[Null\|Null]]          | High-Iron  | Innate                                |
+| ⚪ [[Null\|Null]]          | Peak-Iron  | Innate                                |
 | 🌑 [[Darkness\|Darkness]] | Low-Silver | Synchrony with [[Nightmare]]          |
 | ⛰️ [[Earth\|Earth]]       | Peak-Iron  | Synchrony with [[Colossus\|Colossus]] |
 | ☠️ [[Poison\|Poison]]     | Low-Iron   | Synchrony with [[Colossus\|Colossus]] |
   
 ---  
-## Talents
+## 🧬 Talents
 
 ### Will of the Defiers
 Allows to improve the Wielder spells' quality faster, and evolve them beyond their normal limits.
@@ -60,7 +57,13 @@ Allows the Wielder to benefit from the seeds their contracted beasts absorb, get
 
 ---
 ## 🌱 Seeds (Integrated Effects)  
-  
+
+### [[Claw of the Primal Tiger]] | [[Copper Tier|Copper]] ~ Legendary+ |
+
+- Increases Agility by 7%.
+- Increases Strength by 8%.
+- Reduces the cooldown of Rage-type spells by 85% and boosts their effects by 25%, but amplifies the aftermath penalties by 20%.
+
 ### [[Petrified Tree Sap|Petrified Tree Sap]] | [[Iron Tier|Iron]] ~ ??? |
   
 - Reduces damage from elemental-affinity spells by 25%.  
@@ -84,24 +87,24 @@ Allows the Wielder to benefit from the seeds their contracted beasts absorb, get
 - Grants 15% resistance to immobilizing, stunning, or slowing effects.  
   
 ---  
-  
 ## 📊 Stats  
   
 | Attribute            |  Value  | Breakdown       |
 | :------------------- | :-----: | :-------------- |
-| 💪 **Strength**      | **150** | (126 + 23 + 1)  |
-| 🛡️ **Toughness**    | **149** | (117 + 27 + 5)  |
-| ⚡ **Agility**        | **169** | (136 + 23 + 10) |
-| ✨ **Arcane Power**   | **151** | (118 + 25 + 8)  |
+| 💪 **Strength**      | **162** | (128 + 23 + 11) |
+| 🛡️ **Toughness**    | **150** | (118 + 27 + 5)  |
+| ⚡ **Agility**        | **181** | (138 + 23 + 20) |
+| ✨ **Arcane Power**   | **152** | (119 + 25 + 8)  |
 | 🌌 **Well Capacity** | **109** | (88 + 21)       |
-| 🧪 **Regeneration**  | **136** | (92 + 18 + 26)  |
+| 🧪 **Regeneration**  | **137** | (93 + 18 + 26)  |
   
 ---  
-  
-## 📜 Spells  
+## 📜 Spells
   
 | Spell                             | Rank Scale                                                | Mastery     |
 | :-------------------------------- | :-------------------------------------------------------- | :---------- |
+| **[[Link]]**                      | ??? 〜 ???                                                 | ???         |
+| **[[Share]]**                     | ??? 〜 ???                                                 | ???         |
 | **[[Aura of Insatiable Hunger]]** | ??? 〜 ???                                                 | Unique      |
 | 🏹 **[[Ravenous Arrow]]**         | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Legendary | Crude       |
 | 🌑 **[[Dusk Scythes]]**           | [[Iron Tier\|Iron]] / [[Silver Tier\|Silver]] 〜 Epic+     | Standard    |

@@ -22,3 +22,6 @@ Legacy for Elemetalists, it originates from a powerful but unknown [[Elementalis
 Known user: [[Elena]]
 ### Falcaru Santori's Legacy
 Legacy for Guardians and Warriors, originated from a [[Light Crusader]] that governed the Bridan Empire for almost a century and half-stepped into godhood, there are 6 known spellshards.
+### Lacion Serry's Legacy
+Legacy for Guardians and Warriors, related to the use of [[Lightning]]. It is called **Unstoppable Lighting**
+Previous user: [[Jaz]]

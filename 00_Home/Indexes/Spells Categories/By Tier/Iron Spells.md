@@ -23,3 +23,4 @@
 - [[Scorpion Charge]]
 - [[Explosive Rampart]]
 - [[Explosive Bastion]]
+- Frigid Orb

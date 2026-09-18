@@ -12,7 +12,7 @@ subclass:
 rank: Platinum(at least)
 firstAppearance:
 ---
-# Ulric
+# Ulric Elrod
 
 > [!abstract] Pages  
 > **Character** • [[|Stats]]

@@ -11,7 +11,6 @@ affinity: "[[Fire|Fire]]"
 A feather that has absorbed a tremendous amount of pure Fire aether over a decade.
 
 ---
-
 ## Effects
 
 - Enhances all [[Fire|Fire]]-affinity spells by an additional 5 to 10% Strength and Arcane Power.

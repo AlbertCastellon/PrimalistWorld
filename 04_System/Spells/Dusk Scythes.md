@@ -41,9 +41,9 @@ Summons blades of condensed darkness around the user's forearms, forming lethal 
 
 ## Scaling Effects
 
-| Tier | Effects |
-|---|---|
-| Iron | Summons shadow blades for 30 seconds. Ignores 20 Toughness + 15% of the target's Toughness. Consumes 150 uniums. |
+| Tier   | Effects                                                                                                                   |
+| ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Iron   | Summons shadow blades for 30 seconds. Ignores 20 Toughness + 15% of the target's Toughness. Consumes 150 uniums.          |
 | Silver | Summons stronger shadow blades for 30 seconds. Ignores 50 Toughness + 15% of the target's Toughness. Consumes 350 uniums. |
 
 ### Additional Scaling

@@ -24,12 +24,6 @@ element_type: base
 
 - [[Jenna]]
 
----
-
-## Related Spells
-
-- [[Dark Shocking Strike]]
-- [[Shocking Strike]]
 
 ---
 

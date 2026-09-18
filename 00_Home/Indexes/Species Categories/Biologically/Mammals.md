@@ -10,6 +10,7 @@
 - [[Silver Wildcat]]
 - [[Plain Lion]]
 - [[Storm-Eater]]
+- [[Storm Mountain Puma]]
 ## Bears
 - [[Inferno Bear]]
 - [[Iron-Hide Crag-Bear]]

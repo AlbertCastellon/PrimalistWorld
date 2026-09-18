@@ -2,3 +2,4 @@
 
 - [[Night Beetle]]
 - [[Storm-Eater]]
+- [[Storm Mountain Puma]]

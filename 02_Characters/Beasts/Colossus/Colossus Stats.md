@@ -40,7 +40,7 @@ tags:
   
 #### Integrated Seed Effects
 
-- Increases potency of all [[Earth|Earth]]-affinity spells by 7% Toughness.
+- Increases potency of all [[Earth]]-affinity spells by 7% Toughness.
 - Boosts Toughness by 12%.
 - Grants 60% resistance to immobilizing, stunning, or slowing effects.
 

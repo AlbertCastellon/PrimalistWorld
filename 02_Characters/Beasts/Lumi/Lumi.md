@@ -10,7 +10,6 @@ contractor:
 ---
 # Lumi
 
-
 > [!abstract] Pages  
 > **Beast** • [[Lumi Stats|Stats]]  
 

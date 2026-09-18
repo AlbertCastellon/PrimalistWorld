@@ -2,6 +2,7 @@
 
 ## Restricted
 - [[Blizzard]]
+- Frigid Orb
 
 ---
 ## Not Restrictive

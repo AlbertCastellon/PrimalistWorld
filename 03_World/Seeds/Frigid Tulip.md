@@ -11,7 +11,6 @@ affinity: "[[Ice]]"
 A raw tulip that has absorbed a tremendous amount of the coldness of its surroundings.
 
 ---
-
 ## Effects
 
 - Increases Arcane Power by 5 to 10

@@ -30,6 +30,7 @@ Increases Strength and Agility of the owner and their beasts by 30 for 7 minutes
 ## Restrictions
 
 - [[Primalist]]
+
 ---
 
 ## Legacy

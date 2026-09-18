@@ -11,7 +11,6 @@ affinity: "[[Earth|Earth]]"
 A fragment of the Titan Gem inside the Cave of Elements.
 
 ---
-
 ## Effects
 
 - Increases potency of all [[Earth|Earth]]-affinity spells by 5–6% Toughness.

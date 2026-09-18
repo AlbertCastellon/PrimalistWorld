@@ -38,7 +38,7 @@ Summons two tangible shadow doppelgängers that fight alongside the caster. Thou
 ---
 ## Known Users
 
-- 
+- [[Nightmare]]
 
 ---
 ## Notes

@@ -11,7 +11,6 @@ affinity: "[[Darkness|Darkness]]"
 A vast concentration of [[Darkness|Darkness]] drawn from Shadow Crystals, condensed into a single drop.
 
 ---
-
 ## Effects
 
 - Increases potency of all [[Darkness|Darkness]]-affinity spells by 10–15% Arcane Power.

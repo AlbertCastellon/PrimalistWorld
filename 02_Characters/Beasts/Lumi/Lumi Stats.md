@@ -10,7 +10,7 @@ affinities:
 tags:
   - beast-stats
 ---
-# Nightmare Stats
+# Lumi Stats
   
 > [!abstract] Pages  
 > [[Lumi|Beast]] • **Stats**
