@@ -10,10 +10,10 @@ affinities:
 tags:
   - beast-stats
 ---
-# Nightmare Stats
+# Nightmare/Stats
   
 > [!abstract] Pages  
-> [[Nightmare|Beast]] • **Stats**
+> [[Nightmare|Beast]] • **Stats** • [[Nightmare Progression|Progression]]
 
 ## Basic Information
 
@@ -38,9 +38,9 @@ tags:
 ### [[Scale of the Night Serpent]] | [[Copper Tier|Copper]] ~ Epic |
 #### Integrated Effects  
 
-- Increases Toughness by 8.
-- Increases Strength by 5%.
-- Increases Agility by 5%.
+- Increases **Toughness** by 8.
+- Increases **Strength** by 5%.
+- Increases **Agility** by 5%.
 - Reduces the cooldown of Dark spells by 28%.
 
 ### [[Liquified Shadow|Drop of Liquified Shadow Crystal]] | [[Iron Tier|Iron]] ~ Epic |
@@ -71,16 +71,16 @@ tags:
 ---
 ## 📜 Spells
 
-| Spell                                             | Rank Scale                      | Mastery     |
-| :------------------------------------------------ | :------------------------------ | :---------- |
-| 👥 **[[Twin Mirages]]**                           | [[Gold Tier\|Gold]] 〜 Legendary | Crude       |
-| 👻 **[[Dreadful Shroud]]**                        | [[Silver Tier\|Silver]] 〜 Epic+ | Crude       |
-| 🌫️ **[[Illusory Emptiness]]**                    | [[Silver Tier\|Silver]] 〜 Epic  | Standard    |
-| 👣 **[[Shadow Step]]**                            | [[Silver Tier\|Silver]] 〜 Epic  | Standard    |
-| 🐺 **[[Predator Hunt]]**                          | [[Silver Tier\|Silver]] 〜 Epic  | Standard    |
-| ⚠️ **[[Danger Sense]]**                           | [[Silver Tier\|Silver]] 〜 Rare  | Refined     |
-| 🦷 **[[Gloom Fangs]]**                            | [[Silver Tier\|Silver]] 〜 Rare  | Standard    |
-| ⛓️ **[[Chains of Darkness\|Chains of Darkness]]** | [[Iron Tier\|Iron]] 〜 Epic      | Exceptional |
+| Spell                                             | Rank Scale                      | Mastery  |
+| :------------------------------------------------ | :------------------------------ | :------- |
+| 👥 **[[Twin Mirages]]**                           | [[Gold Tier\|Gold]] 〜 Legendary | Crude    |
+| 👻 **[[Dreadful Shroud]]**                        | [[Silver Tier\|Silver]] 〜 Epic+ | Decent   |
+| 🌫️ **[[Illusory Emptiness]]**                    | [[Silver Tier\|Silver]] 〜 Epic  | Standard |
+| 👣 **[[Shadow Step]]**                            | [[Silver Tier\|Silver]] 〜 Epic  | Standard |
+| 🐺 **[[Predator Hunt]]**                          | [[Silver Tier\|Silver]] 〜 Epic  | Standard |
+| ⚠️ **[[Danger Sense]]**                           | [[Silver Tier\|Silver]] 〜 Rare  | Refined  |
+| 🦷 **[[Gloom Fangs]]**                            | [[Silver Tier\|Silver]] 〜 Rare  | Refined  |
+| ⛓️ **[[Chains of Darkness\|Chains of Darkness]]** | [[Iron Tier\|Iron]] 〜 Epic      | Flawless |
 
 ---
 

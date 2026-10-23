@@ -1,7 +1,7 @@
 # Aether
 
 ## Overview
-Aether is the fundamental energy that permeates the world and serves as the foundation of all supernatural phenomena. It exists naturally within the environment, arcane beasts, and wielders, allowing them to manipulate reality through [[Spell System|spells]], enhance their bodies, and advance along their Paths.
+Aether is the fundamental energy that permeates the world and serves as the foundation of all supernatural phenomena. It exists naturally within the environment, arcane beasts, and wielders, allowing them to manipulate reality through [[Spell System|spells]], enhance their bodies, use [[Scrolls]] and [[Artifacts]], and advance along their Paths.
 Without Aether, neither magical abilities nor the growth of wielders would be possible.
 
 ---

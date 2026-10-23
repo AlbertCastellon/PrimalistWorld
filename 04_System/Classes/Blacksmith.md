@@ -2,7 +2,6 @@
 type: class
 class_category: non-combat
 ---
-
 # Blacksmith
 
 ## Description
@@ -10,14 +9,12 @@ class_category: non-combat
 Crafting-oriented class specialized in forging weapons, armor, and combat equipment.
 
 ---
-
 ## Known Subclasses
 
 - [[Weaponsmith]]
 - [[Armorsmith]]
 
 ---
-
 ## Known Users
 
 - [[Renwal]]

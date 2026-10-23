@@ -11,7 +11,7 @@ contractor: "[[Seth|Seth]]"
 # Nightmare
 
 > [!abstract] Pages  
-> **Beast** • [[Nightmare Stats|Stats]]  
+> **Beast** • [[Nightmare Stats|Stats]] • [[Nightmare Progression|Progression]]
   
 ## Overview 
 

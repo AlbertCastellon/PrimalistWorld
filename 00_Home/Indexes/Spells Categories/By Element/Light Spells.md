@@ -1,6 +1,5 @@
 # Light Spells
-
-## Resricted
+## Restricted
 
 ---
 ## Not Restricted

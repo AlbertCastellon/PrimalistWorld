@@ -4,3 +4,4 @@
 - [[Inferno Bear]]
 - [[One-Horned Imp]]
 - [[Obsidian Dread-Drake]]
+- [[Heavenfire Phoenix]]

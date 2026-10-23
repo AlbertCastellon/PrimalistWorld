@@ -4,4 +4,6 @@
 - [[Gale Hawk]]  
 - [[Hurricane Eagle]] 
 ## Songbirds  
-- [[Black-winged Oriole]]
+- [[Black-Winged Oriole]]
+## Phoenixes
+- [[Heavenfire Phoenix]]

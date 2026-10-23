@@ -29,3 +29,6 @@ element_type: base
 ---
 
 ## Notes
+
+- [[Undead Spells]]
+- [[Undead Beasts]]

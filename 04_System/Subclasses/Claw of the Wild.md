@@ -12,7 +12,7 @@ Unknown
 
 ## Related Concepts
 
-- [[Beasts]]
+- 
 
 ---
 

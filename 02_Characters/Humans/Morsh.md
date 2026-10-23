@@ -36,3 +36,4 @@ firstAppearance: B3 Chapter 26
 ## Notes
 
 - [[Darkness]] affinity
+- Has a [[Hurricane Eagle]] as a contracted beast

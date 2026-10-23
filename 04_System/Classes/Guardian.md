@@ -2,7 +2,6 @@
 type: class
 class_category: combat
 ---
-
 # Guardian
 
 ## Description
@@ -10,7 +9,6 @@ class_category: combat
 Defensive combat class focused on protection, endurance, and shielding allies.
 
 ---
-
 ## Known Users
 
 - [[Devus|Devus]]

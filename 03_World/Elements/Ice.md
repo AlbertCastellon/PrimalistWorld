@@ -34,3 +34,6 @@ components:
 
 ---
 ## Notes
+
+- [[Ice Spells]]
+- [[Ice Beasts]]

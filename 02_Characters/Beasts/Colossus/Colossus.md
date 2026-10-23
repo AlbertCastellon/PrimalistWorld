@@ -12,7 +12,7 @@ contractor: "[[Seth|Seth]]"
 # Colossus
 
 > [!abstract] Pages  
-> **Beast** • [[Colossus Stats|Stats]]  
+> **Beast** • [[Colossus Stats|Stats]] • [[Colossus Progression|Progression]]
   
 ## Overview 
 
@@ -20,9 +20,9 @@ contractor: "[[Seth|Seth]]"
 **Current Stage:** Young
 
 **Base Species Potential:** [[Gold Tier]]
-**Current Potential:** [[Gold Tier]]
+**Current Potential:** [[Gold Tier|Gold]] + Tier
 
-**Rank:** 57 (High-Iron)
+**Rank:** 60 (High-Iron)
 
 **Contractor:** [[Seth|Seth]]
 

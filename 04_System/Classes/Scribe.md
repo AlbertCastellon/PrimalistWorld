@@ -2,21 +2,18 @@
 type: class
 class_category: non-combat
 ---
-
 # Scribe
 
 ## Description
 
-Class associated with writing, recording, documentation, and possibly magical inscription.
+Class associated with writing, recording, documentation, and magical inscription.
 
 ---
-
 ## Known Subclasses
 
 - 
 
 ---
-
 ## Known Users
 
 - 

@@ -4,3 +4,4 @@
 - [[Luminous Otter]]
 - [[Obsidian Dread-Drake]]
 - [[Duskbound Direwolf]]
+- [[Boulder-strewn Golem]]

@@ -30,3 +30,6 @@ element_type: base
 
 ---
 ## Notes
+
+- [[Earth Spells]]
+- [[Earth Beasts]]

@@ -7,5 +7,6 @@
 ## Draconids
 - [[Obsidian Flame Drake]]
 - [[Obsidian Dread-Drake]]
+- [[Volcanic Mountain Drake]]
 ## Lizards
 - [[Desert Lizard]]

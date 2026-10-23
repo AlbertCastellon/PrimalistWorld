@@ -1,6 +1,6 @@
 # Lightning Spells
-
 ## Restricted
+- [[Lightning Protection]]
 
 ---
 ## Not Restricted

@@ -21,7 +21,7 @@ Unknown
 
 - Reduces damage from elemental-affinity spells by 25%.
 - Increases potency of all [[Null]]-affinity spells by 20%.
-- Boosts Regeneration by 30%.
+- Boosts **Regeneration** by 30%.
 
 ---
 

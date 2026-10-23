@@ -2,7 +2,6 @@
 type: class
 class_category: combat
 ---
-
 # Elementalist
 
 ## Description
@@ -10,14 +9,12 @@ class_category: combat
 Arcane combat class specializing in elemental manipulation and ranged magical offense.
 
 ---
-
 ## Known Users
 
 - [[Elena]]
 - [[Calvin|Calvin]]
 
 ---
-
 ## Known Subclasses
 
 - [[Battlemancer|Battlemancer]]

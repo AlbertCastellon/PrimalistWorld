@@ -2,21 +2,18 @@
 type: class
 class_category: non-combat
 ---
-
 # Artificer
 
 ## Description
 
-Technical crafting class focused on complex creations and advanced crafted systems.
+Technical crafting class focused on the creation of [[Artifacts]].
 
 ---
-
 ## Known Subclasses
 
 - 
 
 ---
-
 ## Known Users
 
 - [[Toren]]

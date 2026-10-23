@@ -15,3 +15,5 @@
 - [[Giant Earth Elemental]]
 - [[One-eyed Giant Elemental]]
 - [[Desert Lizard]]
+- [[Boulder-strewn Golem]]
+- [[Iron-mantle Bear]]

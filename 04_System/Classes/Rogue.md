@@ -2,7 +2,6 @@
 type: class
 class_category: combat
 ---
-
 # Rogue
 
 ## Description
@@ -16,7 +15,6 @@ Agility-based combat class excelling in stealth, precision strikes, and mobility
 - [[Kaelen]]
 
 ---
-
 ## Related Subclasses
 
 - [[Dark Assassin]]

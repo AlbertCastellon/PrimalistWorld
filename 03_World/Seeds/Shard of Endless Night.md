@@ -12,8 +12,8 @@ A shard that has absorbed a tremendous amount of the darkness inside the Endless
 ---
 ## Effects
 
-- Increases Agility by 15 to 21%.
-- Increases Arcane Power by 15 to 20%.
+- Increases **Agility** by 15 to 21%.
+- Increases **Arcane Power** by 15 to 20%.
 - Grant a 25% chance of resetting the cooldown of any Darkness spell on cast.
 
 ---

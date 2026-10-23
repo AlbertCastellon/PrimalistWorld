@@ -12,9 +12,9 @@ The largest feather of the Storm Roc, which absorbed a tremendous amount of the 
 ---
 ## Effects
 
-- Increases Toughness by 4 to 8.
-- Increases Agility by 3 to 6%.
-- Increases Arcane Power by 2 to 4%.
+- Increases **Toughness** by 4 to 8.
+- Increases **Agility** by 3 to 6%.
+- Increases **Arcane Power** by 2 to 4%.
 - Increase the effectiveness of Lightning spells by 12%.
 
 ---

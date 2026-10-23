@@ -10,10 +10,10 @@ affinities:
 tags:
   - beast-stats
 ---
-# Lumi Stats
+# Lumi/Stats
   
 > [!abstract] Pages  
-> [[Lumi|Beast]] • **Stats**
+> [[Lumi|Beast]] • **Stats** • [[Lumi Progression|Progression]]
 
 ## Basic Information
 
@@ -43,12 +43,12 @@ tags:
 
 | Attribute        | Value | Breakdown |
 | :--------------- | :---: | :-------- |
-| 💪 Strength      |  20   |           |
-| 🛡️ Toughness    |  42   |           |
-| ⚡ Agility        |  74   |           |
-| ✨ Arcane Power   |  76   |           |
-| 🌌 Well Capacity |  101  |           |
-| 🧪 Regeneration  |  123  |           |
+| 💪 Strength      |  26   |           |
+| 🛡️ Toughness    |  50   |           |
+| ⚡ Agility        |  85   |           |
+| ✨ Arcane Power   |  86   |           |
+| 🌌 Well Capacity |  115  |           |
+| 🧪 Regeneration  |  138  |           |
 
 ---
 ## 📜 Spells

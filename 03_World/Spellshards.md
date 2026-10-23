@@ -18,7 +18,7 @@ Higher-quality Spellshards may grant spells with greater initial mastery, reduci
 ### Learn Spells
 Can be used to learn the spell directly
 ### Scholars
-Can be given to a [[Scholar]]. Scholars are able to use them to create a number of scrolls, though they may also end up with nothing.
+Can be given to a [[Scholar]]. Scholars are able to use them to create a number of [[Scrolls]], though they may also end up with nothing.
 The number of scrolls produced, as well as the probability of failure, is influenced more by luck than by the Scholar's ability.
 These scrolls can teach a Wielder the spell just like the original Spellshard.
 Scholars may also uncover some of the spell's mysteries, eventually allowing them to create scrolls of that spell without requiring a Spellshard, provided they possess the necessary materials.

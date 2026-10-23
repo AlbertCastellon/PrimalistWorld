@@ -1,5 +1,4 @@
 # Ice Spells
-
 ## Restricted
 - [[Blizzard]]
 - Frigid Orb

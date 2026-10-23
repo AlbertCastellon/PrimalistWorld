@@ -42,7 +42,7 @@ The number and location of portals vary greatly from one Rift to another.
 
 ---
 ## Escape
-The most common method of leaving a Rift without collapsing it is through the use of Escape Scrolls.
+The most common method of leaving a Rift without collapsing it is through the use of Escape [[Scrolls]].
 These specialized scrolls allow a Wielder to return to the outside world without harvest the Domain Flower.
 Escape Scrolls are considered essential equipment for most Rift expeditions.
 

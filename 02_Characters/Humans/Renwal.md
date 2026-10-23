@@ -7,7 +7,7 @@ gender: Male
 age:
 occupation:
   - Blacksmith
-affiliation:
+affiliation: Crafters Guild
 class: "[[Blacksmith]]"
 subclass:
 rank: Mid-Copper

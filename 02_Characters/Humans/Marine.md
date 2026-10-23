@@ -15,6 +15,7 @@ companion:
 
 ---
 ## Appearance
+Marine is a young woman with light brown, wavy hair framing a small, radiant face and striking blue eyes beneath thin, dark eyebrows. Her soft features give her an elegant, almost angelic appearance.
 
 ---
 ## Personality

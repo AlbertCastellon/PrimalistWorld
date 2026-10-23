@@ -2,7 +2,7 @@
 type: Character
 name: Theron
 species: Human
-status: Alive
+status: Dead
 gender: Male
 age:
 occupation:
@@ -37,7 +37,7 @@ firstAppearance:
 ---
 ## Relationships
 
-- [[Jaxar]] Linster
+- [[Jaxar]] Linster — Grandson
 
 ---
 ## Notes

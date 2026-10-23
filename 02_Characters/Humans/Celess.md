@@ -16,6 +16,7 @@ companion:
 
 ---
 ## Personality
+Arrogant and conceited, but coward when endangered
 
 ---
 ## History
@@ -25,3 +26,5 @@ companion:
 
 ---
 ## Notes
+
+- Has a [[Boulder-strewn Golem]] as a contracted beast.

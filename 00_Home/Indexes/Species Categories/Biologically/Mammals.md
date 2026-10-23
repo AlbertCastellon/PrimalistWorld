@@ -11,9 +11,11 @@
 - [[Plain Lion]]
 - [[Storm-Eater]]
 - [[Storm Mountain Puma]]
+- [[Stormfang Sabertooth]]
 ## Bears
 - [[Inferno Bear]]
 - [[Iron-Hide Crag-Bear]]
+- [[Iron-mantle Bear]]
 ## Rabbits & Hares
 - [[Brown Cottontail]]
 - [[Saber-Toothed Hare]]

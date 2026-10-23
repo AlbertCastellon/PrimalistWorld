@@ -21,7 +21,7 @@ element_type: base
 
 ## Known Users
 
-- [[Colossus|Colossus]]
+- [[Colossus]]
 
 ---
 
@@ -32,3 +32,6 @@ element_type: base
 ---
 
 ## Notes
+
+- [[Poison Spells]]
+- [[Poison Beasts]]

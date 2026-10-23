@@ -27,7 +27,7 @@ Examples:
 - [[Inferno Bear]] → Iron Potential
 - [[Tenebrous Direwolf]] → Silver Potential
 
-Some exceptional individuals may exceed their species' natural potential through special circumstances.
+Some exceptional individuals may exceed their species' natural potential through special circumstances. And in some cases even evolve becoming a different species with a greater potential. 
 
 ---
 ## Affinities

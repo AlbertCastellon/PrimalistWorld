@@ -11,7 +11,7 @@ contractor:
 # Lumi
 
 > [!abstract] Pages  
-> **Beast** • [[Lumi Stats|Stats]]  
+> **Beast** • [[Lumi Stats|Stats]] • [[Lumi Progression|Progression]]
 
 
 **Species:** [[Luminous Otter]]
@@ -20,7 +20,7 @@ contractor:
 **Base Species Potential:** [[Gold Tier]]
 **Current Potential:** [[Gold Tier]]
 
-**Rank:** 34 (Low-Iron)
+**Rank:** 40 (Low-Iron)
 
 **Contractor:** 
 

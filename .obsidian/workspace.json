@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e180d01373180e1",
+        "id": "d452ee40f3a30024",
         "type": "tabs",
         "children": [
           {
-            "id": "e02ad9f43e551e87",
+            "id": "7c2c52b1e1dcc385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_System/Spells/Lightning Protection.md",
+                "file": "04_System/Stats.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lightning Protection"
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "aa5e95a8e1b27c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Characters/Humans/Seth/Seth Progression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seth Progression"
             }
           }
         ]
@@ -90,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "87fd7968437254c9",
@@ -196,54 +210,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e02ad9f43e551e87",
+  "active": "7c2c52b1e1dcc385",
   "lastOpenFiles": [
-    "04_System/Spells/Light Empowerment.md",
-    "04_System/Spells/Lightning Protection.md",
-    "04_System/Spells/Mantle of Terror.md",
+    "04_System/Tiers/Silver Tier.md",
+    "02_Characters/Humans/Seth/Seth Progression.md",
+    "02_Characters/Humans/Elena/Elena Progression.md",
+    "03_World/Spellshards.md",
+    "03_World/Aether.md",
+    "03_World/Essences.md",
+    "03_World/Elemental Affinity.md",
+    "03_World/Beaststones.md",
+    "03_World/Artifacts.md",
+    "03_World/Seeds.md",
+    "03_World/Scrolls.md",
+    "02_Characters/Humans/Seth/Seth Stats.md",
+    "02_Characters/Humans/Elena/Elena.md",
+    "08_Templates/Progression Template.md.md",
+    "02_Characters/Humans/Seth/Seth.md",
+    "02_Characters/Humans/Elena",
+    "00_Home/Indexes/Classes Index.md",
+    "04_System/Classes/Scribe.md",
+    "04_System/Classes/Scholar.md",
+    "04_System/Classes/Enchanter.md",
+    "04_System/Classes/Artificer.md",
+    "03_World/Rifts.md",
+    "04_System/Spell System.md",
+    "04_System/Stats.md",
+    "03_World/Arcane Beasts.md",
+    "04_System/Progression.md",
     "04_System/Legacies.md",
-    "00_Home/Indexes/Seeds Index.md",
-    "03_World/Seeds/Shard of the Molten Heaven.md",
-    "03_World/Seeds/Scale of the Emerald Leviathan.md",
-    "03_World/Seeds/Storm Roc's Primary Feather.md",
-    "03_World/Seeds/Titan Gem Shard.md",
-    "03_World/Seeds/Shard of Endless Night.md",
-    "03_World/Seeds/Scale of the Night Serpent.md",
-    "03_World/Seeds/Phoenix Feather.md",
-    "03_World/Seeds/Petrified Tree Sap.md",
-    "03_World/Seeds/Liquified Shadow.md",
-    "03_World/Seeds/Heartvein.md",
-    "03_World/Seeds/Frigid Tulip.md",
-    "03_World/Seeds/Claw of the Primal Tiger.md",
-    "02_Characters/Beasts/Nightmare/Nightmare.md",
-    "02_Characters/Beasts/Colossus/Colossus.md",
-    "02_Characters/Beasts/Colossus/Colossus Stats.md",
-    "02_Characters/Humans/Jenna.md",
-    "02_Characters/Beasts/Cub 2.md",
-    "02_Characters/Humans/Celess.md",
-    "02_Characters/Humans/Calvin.md",
-    "02_Characters/Humans/Brandon.md",
-    "02_Characters/Humans/Ayleen.md",
-    "Sin título.canvas",
-    "07_Media/Species/Astral__Wraith.png",
-    "02_Characters/Beasts/Lumi",
-    "02_Characters/Beasts/Colossus",
-    "02_Characters/Beasts/Nightmare",
     "07_Media/Oracle_Guild.png",
-    "07_Media/Species/Glacial_Shield-Horntail.png",
     "07_Media/Species/Galestrike_Stalker.png",
-    "07_Media/Species/Obsidian_Dread-Drake.png",
-    "07_Media/Species/Luminous_Otter.png",
-    "07_Media/Species/Inferno_Bear.png",
+    "03_World/Species/Humanoid Races",
+    "03_World/Species/Arcane Beasts",
     "07_Media/Species/Three-Tailed_Giant_Scorpion.png",
     "07_Media/Species/Oracle_Snake.png",
     "07_Media/Species/One-Horned_Imp.png",
+    "07_Media/Species/Obsidian_Dread-Drake.png",
+    "07_Media/Species/Luminous_Otter.png",
+    "07_Media/Species/Inferno_Bear.png",
+    "07_Media/Species/Glacial_Shield-Horntail.png",
+    "07_Media/Species/Desert_Snake.png",
+    "Sin título.canvas",
+    "02_Characters/Beasts/Lumi",
+    "02_Characters/Beasts/Colossus",
+    "02_Characters/Beasts/Nightmare",
     "02_Characters/Humans/Seth",
     "07_Media/Species",
     "Sin nombre 8",
-    "Sin nombre 7",
-    "Sin nombre 6",
-    "Sin nombre 5",
-    "Sin nombre 4"
+    "Sin nombre 7"
   ]
 }

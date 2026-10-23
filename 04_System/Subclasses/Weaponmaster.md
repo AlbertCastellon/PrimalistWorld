@@ -1,6 +1,6 @@
 ---
 type: subclass
-parent_class: "[[Warrior|Warrior]]"
+parent_class: "[[Warrior]]"
 ---
 # Weaponmaster
 

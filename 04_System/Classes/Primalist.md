@@ -9,7 +9,6 @@ class_category: combat
 Beast-aligned combat class that draws power from nature, instincts, and contracted beasts.
 
 ---
-
 ## Known Users
 
 - [[Seth|Seth]]
@@ -17,7 +16,6 @@ Beast-aligned combat class that draws power from nature, instincts, and contract
 - [[Hector]]
 
 ---
-
 ## Known Subclasses
 
 - [[Beastmaster|Beastmaster]]

@@ -13,7 +13,7 @@ parent_class: "[[Warrior|Warrior]]"
 
 ## Possible Evolutions
 
-- [[Rageborn Champion|Rageborn Champion]]
+- [[Rageborn Champion]]
 
 ---
 

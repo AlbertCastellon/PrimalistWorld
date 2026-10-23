@@ -21,3 +21,4 @@
 - [[Explosive Rampart]]
 - [[Explosive Bastion]]
 - [[Dreadful Shroud]]
+- [[Lightning Protection]]

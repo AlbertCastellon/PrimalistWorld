@@ -2,14 +2,15 @@
 type: Character
 name: Ulrich
 species: Human
-status: Unknown
+status: Alive
 gender: Male
 age:
 occupation:
+  - Prisoner
 affiliation: Draeria(formerly)
 class: "[[Primalist|Primalist]]"
 subclass:
-rank: Platinum(at least)
+rank: Diamond
 firstAppearance:
 ---
 # Ulric Elrod
@@ -19,6 +20,8 @@ firstAppearance:
 
 
 ## Overview
+
+**The Voice of the Wild**
 
 **Class:** [[Primalist]] | **Subclass:**  | **Rank:**
 
@@ -39,6 +42,7 @@ firstAppearance:
 
 - [[Seth]] — Son
 - [[Marcus]] — Best friend
+- [[Vorath]] — Contracted Beast  
 ---
 ## Notes
 

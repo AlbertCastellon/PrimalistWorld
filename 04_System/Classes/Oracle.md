@@ -2,7 +2,6 @@
 type: class
 class_category: non-combat
 ---
-
 # Oracle
 
 ## Description
@@ -10,13 +9,11 @@ class_category: non-combat
 Rare class associated with foresight, prophecy, perception, or fate-related abilities.
 
 ---
-
 ## Known Subclasses
 
 - 
 
 ---
-
 ## Known Users
 
 - Alfred

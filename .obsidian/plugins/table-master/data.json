@@ -1,0 +1,8 @@
+{
+  "outputFormat": "html",
+  "showFloatingToolbar": true,
+  "floatingToolbarPosition": "on-click",
+  "enableTabNavigation": true,
+  "defaultAlign": "none",
+  "language": "auto"
+}

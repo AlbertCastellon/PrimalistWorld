@@ -2,7 +2,6 @@
 type: class
 class_category: combat
 ---
-
 # Priest
 
 ## Description
@@ -10,14 +9,12 @@ class_category: combat
 Support-oriented class capable of healing, blessings, and light-based magic.
 
 ---
-
 ## Known Users
 
 - [[Vandric]]
 - [[Krystel]]
 
 ---
-
 ## Known Subclasses
 
 - [[Cleric]]

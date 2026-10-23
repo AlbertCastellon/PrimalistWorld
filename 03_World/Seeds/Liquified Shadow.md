@@ -14,7 +14,7 @@ A vast concentration of [[Darkness|Darkness]] drawn from Shadow Crystals, conden
 ## Effects
 
 - Increases potency of all [[Darkness|Darkness]]-affinity spells by 10–15% Arcane Power.
-- Boosts Arcane Power by 6–12%.
+- Boosts **Arcane Power** by 6–12%.
 
 ---
 

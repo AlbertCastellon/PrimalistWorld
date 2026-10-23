@@ -9,7 +9,6 @@ leader:
 
 ## Overview
 
-
 ---
 ## Leadership
 

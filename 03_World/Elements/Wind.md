@@ -34,3 +34,6 @@ element_type: base
 ---
 
 ## Notes
+
+- [[Wind Spells]]
+- [[Wind Beasts]]

@@ -2,7 +2,6 @@
 type: class
 class_category: non-combat
 ---
-
 # Alchemist
 
 ## Description
@@ -10,13 +9,11 @@ class_category: non-combat
 Crafting class focused on potions, mixtures, reagents, and transformation processes.
 
 ---
-
 ## Known Subclasses
 
 - 
 
 ---
-
 ## Known Users
 
 - [[Marcus]]

@@ -25,3 +25,7 @@ companion:
 
 ---
 ## Notes
+
+- Has a [[Iron-mantle Bear]] as a contracted beast.
+- He is a Legacy-bearer.
+- His [[Legacies|Legacy]] originates from **Lacion Serry**

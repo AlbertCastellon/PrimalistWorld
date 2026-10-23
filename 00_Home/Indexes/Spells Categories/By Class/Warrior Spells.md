@@ -4,3 +4,4 @@
 - [[Sun Warcry]]
 - [[Primal Rage]]
 - [[Iron Fists]]
+- [[Lightning Protection]]

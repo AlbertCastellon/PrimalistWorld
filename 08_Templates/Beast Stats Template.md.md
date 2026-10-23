@@ -8,7 +8,7 @@ affinities: []
 tags:
   - beast-stats
 ---
-# <% tp.file.title %>
+# <% tp.file.title %>/Stats
 
 ## Basic information
 

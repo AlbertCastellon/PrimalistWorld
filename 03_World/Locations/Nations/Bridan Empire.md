@@ -2,7 +2,7 @@
 type: organization
 organization_type: nation
 capital:
-leader: "[[Empress]]"
+leader: "[[Freydis]]"
 ---
 # Bridan Empire
 ## Overview

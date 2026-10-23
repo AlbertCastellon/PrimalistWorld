@@ -12,10 +12,10 @@ One of the claws of the Primal Tiger, which has absorbed a tremendous amount of 
 ---
 ## Effects
 
-- Increases **Agility by 3–6%**.
-- Increases **Strength by 3–6%**.
-- Reduces the **cooldown of Rage-type spells by 60%**.
-- Increases the **effects of Rage-type spells by 15%**.
+- Increases **Agility** by 3–6%.
+- Increases **Strength** by 3–6%.
+- Reduces the cooldown of Rage-type spells by 60%.
+- Increases the effects of Rage-type spells by 15%.
 
 ---
 ## Known Users

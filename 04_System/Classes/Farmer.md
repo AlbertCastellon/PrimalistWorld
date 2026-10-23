@@ -2,7 +2,6 @@
 type: class
 class_category: non-combat
 ---
-
 # Farmer
 
 ## Description
@@ -10,13 +9,11 @@ class_category: non-combat
 Agricultural class focused on cultivation, harvesting, and resource production.
 
 ---
-
 ## Known Subclasses
 
 - 
 
 ---
-
 ## Known Users
 
 - 

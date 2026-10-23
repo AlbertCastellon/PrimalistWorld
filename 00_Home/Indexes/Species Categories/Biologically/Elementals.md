@@ -5,6 +5,7 @@
 - [[Earth Rhinoceros Elemental]]
 - [[Giant Earth Elemental]]
 - [[One-eyed Giant Elemental]]
+- [[Boulder-strewn Golem]]
 ## Darkness
 - [[Dark Elemental]]
 - [[Dark Elemental Executioner]]

@@ -24,7 +24,7 @@ companion:
 ---
 ## Relationships
 
-- [[Seth|Seth]]: Student and protegé
+- [[Seth]] — Student and protegé
 - [[Champions of Chaos]]
 
 ---

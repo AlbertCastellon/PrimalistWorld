@@ -5,6 +5,7 @@ subclass: "[[Spellblade|Spellblade]]"
 rank: Low-Platinum
 affinities:
   - "[[Wind|Wind]]"
+  - "[[Lightning|Lightning]]"
 companion:
 ---
 # Orwen Silvermane

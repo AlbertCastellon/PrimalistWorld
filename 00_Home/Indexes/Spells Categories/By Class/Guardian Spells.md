@@ -6,3 +6,4 @@
 - [[Lightning Tribulation]]
 - [[Explosive Bastion]]
 - [[Explosive Rampart]]
+- [[Lightning Protection]]

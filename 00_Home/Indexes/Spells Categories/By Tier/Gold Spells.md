@@ -7,3 +7,4 @@
 - [[Sandstorm Dome]]
 - [[Mountainborn Exoskeleton]]
 - [[Twin Mirages]]
+- [[Lightning Protection]]

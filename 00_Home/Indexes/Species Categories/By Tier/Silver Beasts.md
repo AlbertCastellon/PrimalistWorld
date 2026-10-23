@@ -15,3 +15,4 @@
 - [[Giant Earth Elemental]]
 - [[One-eyed Giant Elemental]]
 - [[Storm Mountain Puma]]
+- [[Iron-mantle Bear]]

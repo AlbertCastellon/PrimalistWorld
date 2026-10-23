@@ -13,9 +13,9 @@ A scale of the Mythical Night Serpent, who has absorbed a tremendous amount of t
 ---
 ## Effects
 
-- Increases Toughness by 5 to 10.
-- Increases Strength by 3 to 6%.
-- Increases Agility by 3 to 6%.
+- Increases **Toughness** by 5 to 10.
+- Increases **Strength** by 3 to 6%.
+- Increases **Agility** by 3 to 6%.
 - Reduces the cooldown of Dark spells by 25%.
 
 ---

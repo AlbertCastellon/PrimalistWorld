@@ -13,9 +13,10 @@ companion:
 
 ## Overview
 
-**Class:** [[Elementalist]] | **Subclass:** [[Ice Weaver]] | **Rank:** 38 (Mid-Iron)
+**Class:** [[Elementalist]] | **Subclass:** [[Ice Weaver]] | **Rank:** 46 (Mid-Iron)
 
 ## Appearance
+Elena is a strikingly beautiful young woman with a delicate, angular face, high cheekbones, full lips, and sparkling green eyes. Her long crimson hair cascades around her shoulders, resembling flowing flames as it moves. 
 
 ---
 ## Personality

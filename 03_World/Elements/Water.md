@@ -32,3 +32,6 @@ element_type: base
 ---
 
 ## Notes
+
+- [[Water Spells]]
+- [[Water Beasts]]

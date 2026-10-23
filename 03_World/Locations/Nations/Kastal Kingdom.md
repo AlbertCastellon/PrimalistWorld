@@ -13,7 +13,7 @@ Weak kingdom with highly restrictive laws that suppress commoners and hinder awa
 ---
 ## Leadership
 
-It is ruled by [[King Therion]]
+It is ruled by [[King Theron]]
 
 ---
 ## Political Status

@@ -31,3 +31,5 @@ element_type: unique
 ---
 
 ## Notes
+
+- [[Null Spells]]

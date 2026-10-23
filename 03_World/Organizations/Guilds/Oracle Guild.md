@@ -16,6 +16,7 @@ Guild that proves nationalities among other things through reading superficial t
 ## Members
 
 - Alfred
+- Lurs Stackspear
 
 ---
 

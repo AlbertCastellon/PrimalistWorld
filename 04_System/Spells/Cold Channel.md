@@ -1,29 +1,21 @@
 ---
 type: spell
-
 spell_category: passive
 spell_type: passive
-
 spell_tags:
   - scalable
   - legacy
   - affinity-enhancing
   - specialization
-
 grade: Epic
-
 affinities:
-  - Ice
-
+  - "[[Ice|Ice]]"
 tier_range:
   start: Copper
   end: Mid-Diamond
-
 legacy: "[[Friora Milleria]]"
-
 restrictions:
   - "[[Elementalist]]"
-
 evolution_path: false
 ---
 # Cold Channel
@@ -54,7 +46,6 @@ A passive spell from Friora Milleria’s Legacy that strengthens Ice-affinity sp
 - [[Elementalist]]
 
 ---
-## Legacy
 
 Part of [[Friora Milleria]]'s Legacy.
 
@@ -68,4 +59,4 @@ Part of [[Friora Milleria]]'s Legacy.
 
 - Passive scalable spell.
 - Strongly rewards elemental specialization.
-- Legacy spell.
+- Part of [[Friora Milleria]]'s [[Legacies|Legacy]].

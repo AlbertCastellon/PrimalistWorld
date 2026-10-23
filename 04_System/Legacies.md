@@ -5,7 +5,7 @@ A Legacy is a special inheritance left behind by an exceptionally powerful Wield
 
 ---
 ## Origin
-Legacies are formed when extremely powerful Wielders die (not specified the exact level needed). From their bodies are obtained a number of spellshards that each give a different spell from the Wielder. This allows more than one person to be able to obtain a Legacy from the same person.
+Legacies are formed when extremely powerful Wielders die (not specified the exact level needed). From their bodies are obtained a number of [[Spellshards]] that each give a different spell from the Wielder. This allows more than one person to be able to obtain a Legacy from the same person.
 
 ---
 ## Advantages

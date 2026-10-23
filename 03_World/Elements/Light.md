@@ -29,3 +29,6 @@ element_type: base
 ---
 
 ## Notes
+
+- [[Light Spells]]
+- [[Light Beasts]]

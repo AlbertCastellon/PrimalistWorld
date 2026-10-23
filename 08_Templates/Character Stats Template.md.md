@@ -6,7 +6,7 @@ rank:
 affinities:
 companions:
 ---
-# <% tp.file.title %>
+# <% tp.file.title %>/Stats
 
 > [!abstract] Pages  
 > [[|Character]] • **Stats**

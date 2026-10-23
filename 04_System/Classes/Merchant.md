@@ -2,7 +2,6 @@
 type: class
 class_category: non-combat
 ---
-
 # Merchant
 
 ## Description
@@ -10,7 +9,6 @@ class_category: non-combat
 Economic and trade-oriented class specializing in negotiation, appraisal, and large-scale commerce.
 
 ---
-
 ## Known Users
 
 - [[Sericar]]

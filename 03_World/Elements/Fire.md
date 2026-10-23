@@ -28,3 +28,6 @@ element_type: base
 
 ---
 ## Notes
+
+- [[Fire Spells]]
+- [[Fire Beasts]]

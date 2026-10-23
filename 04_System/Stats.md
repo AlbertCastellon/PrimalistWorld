@@ -10,14 +10,15 @@ Represents physical toughness and defensive capabilities. It is directly opposed
 ### ⚡ Agility
 Represents the speed of movements and reactions, which translates in running speed, evasion capacity and technical close-quarters combat by allowing to react and move faster than the opponent. It is particularly important for [[Rogue]]s though it can also be high in some subclasses of [[Warrior]].
 ### ✨ Arcane Power
-Represents the potency of a Wielder's spells. It increases the potency of non-physical spells. It is dominant on [[Elementalist]]s and [[Priest]]s but can also be high for specializations of [[Rogue]]s or [[Warrior]]s.
+Represents the potency of a Wielder's spells. It increases the potency of non-physical spells. It is dominant on [[Elementalist]]s and [[Priest]]s but can also be high for specializations of [[Rogue]] or [[Warrior]].
 ### 🧪 Well Capacity
-Represents the total amount of [[Aether]] that a body can contain. It is the only basic stat that with the same value has a difference if the subjects are in different tiers. Because the relationship changes between tiers, Aether is commonly measured using a separate unit known as a unium. It is dominant in caster classes like [[Elementalist]] or [[Priest]] but can also be high in more support oriented [[Guardian]] subclasses.
+Represents the total amount of [[Aether]] that a body can contain. It is the only basic stat that with the same value has a difference if the subjects are in different tiers. Because the relationship changes between tiers, Aether is commonly measured using a separate unit known as a **unium**. It is dominant in caster classes like [[Elementalist]] or [[Priest]] but can also be high in more support oriented [[Guardian]] subclasses.
 
 | Tier            | Well Capacity | Uniums |
 | :-------------- | :------------ | :----- |
 | [[Copper Tier]] | 1             | 4      |
 | [[Iron Tier]]   | 1             | 6      |
+| [[Silver Tier]] | 1             |        |
 ### 🧪 Regeneration
 Represents the rate at which [[Aether]] is restored after being consumed. Regeneration is more effective when a Wielder's reserves are low, although it is still primarily determined by this stat. Is dominant on support classes or casters, like [[Priest]]s, [[Elementalist]]s, or some [[Guardian]] subclasses.
 
@@ -36,7 +37,6 @@ Represents a Wielder's ability to control and shape [[Aether]].
 Higher Manipulation allows for more efficient spellcasting, finer control over Aether, and a greater understanding of its mechanics. It also makes it easier to interfere with enemy spellcasting and harder for opponents to disrupt the user's own spells, although doing so generally requires a significantly higher level than the target.
 Together with Sensing, Manipulation is essential for spell alteration, spell evolution, and the creation of new spells. Every Tier breakthrough also requires a minimum level of Manipulation.
 It is represented by a Tier and Subtier, such as Peak Iron.
-
 ### ✨ Affinity
 [[Elemental Affinity]] represents a Wielder's natural connection and compatibility with a specific element.
 A higher Affinity improves the effectiveness of spells and abilities associated with that element and may unlock access to elemental spells, subclasses, and other progression paths. This is especially important for [[Elementalist]]s.

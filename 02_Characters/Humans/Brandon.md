@@ -4,6 +4,7 @@ class: "[[Guardian|Guardian]]"
 subclass:
 rank: Mid-Iron
 affinities:
+  - "[[Lightning|Lightning]]"
 companion:
 ---
 # Brandon Surani
@@ -23,6 +24,10 @@ companion:
 
 ---
 ## Relationships  
+
+- [[Elena]] — Sister
+- [[Leonard]] — Father
+- [[Jenna]] — Childhood friend
 
 ---
 ## Notes

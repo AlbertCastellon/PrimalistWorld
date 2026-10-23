@@ -24,3 +24,4 @@
 - [[Explosive Rampart]]
 - [[Explosive Bastion]]
 - Frigid Orb
+- [[Lightning Protection]]
