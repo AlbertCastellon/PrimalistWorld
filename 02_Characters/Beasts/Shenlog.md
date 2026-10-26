@@ -9,24 +9,26 @@ contractor:
 
 # Shenlong
 
-**Species:** 
-**Current Stage:** 
+## Overview  
+Ruler of Asethka, one of the oldest and biggest city [[Rifts]].
+## Appearance  
+Shenlong is an enormous serpentine dragon with a long body and prominent claws and long whiskers extending from either side of its snout.
 
-**Base Species Potential:**
-**Current Potential:** 
+---
+## Personality  
 
-**Rank:** Peak-Diamond
 
-**Contractor:**
+---
+## Abilities  
 
-## 🧬 Essence Development
 
-## ✨ Elemental Affinities
+---
+## History  
 
-## 🌱 Seeds
 
-## 📊 Stats
+---
+## Relationships  
 
-## 📜 Spells
 
-## Notes
+---
+## Trivia

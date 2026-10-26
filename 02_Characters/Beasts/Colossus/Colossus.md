@@ -24,16 +24,26 @@ contractor: "[[Seth|Seth]]"
 
 **Rank:** 60 (High-Iron)
 
-**Contractor:** [[Seth|Seth]]
+**Contractor:** [[Seth]]
 
 ## Appearance  
-  
-## Personality  
-  
+Colossus is a massive scorpion-like beast with eight thick, powerful legs, two enormous claws, and multi-jointed mandibles. Its body is covered in smooth, seamless plates of dark armor that appear impossibly dense, replacing the jagged, stone-like plates of its earlier form. Intricate runes pulse beneath its carapace, casting a faint glow. Three segmented tails arch over its back, each ending in a dark stinger.
+
+---
+## Personality
+
+
+---  
 ## Abilities  
-  
-## History  
-  
-## Relationships  
-  
+
+
+---
+## History
+
+
+---  
+## Relationships
+
+
+---  
 ## Trivia

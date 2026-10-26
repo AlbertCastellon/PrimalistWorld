@@ -17,7 +17,6 @@ companions:
 > [!abstract] Pages  
 > [[Seth|Character]] • **Stats** • [[Seth Progression|Progression]]
 
-
 ## Basic Information
 
 | Property     | Value             |

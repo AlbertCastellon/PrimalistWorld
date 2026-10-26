@@ -43,7 +43,7 @@ Despite his reckless nature, Seth is not driven solely by ambition. His experien
 ## Relationships  
   
 - [[Nightmare]] — Contracted Beast  
-- [[Colossus|Colossus]] — Contracted Beast  
+- [[Colossus]] — Contracted Beast  
 - [[Devus]] — Best friend
 - [[Elena]] — Friend and love interest
 - [[Jenna]] — Friend

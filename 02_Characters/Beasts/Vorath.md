@@ -20,11 +20,19 @@ A colossal wyvern with a massive, scarred body covered in hardened scales. Two o
 
 ---
 ## Personality  
-  
+
+
+---
 ## Abilities  
-  
+
+
+---
 ## History  
-  
+
+
+---
 ## Relationships  
-  
+
+
+---
 ## Trivia

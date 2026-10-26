@@ -12,16 +12,28 @@ contractor:
 > [!abstract] Pages  
 > **Beast** • [[|Stats]]  
   
-## Overview  
-  
+## Overview
+
+
+---  
 ## Appearance  
-  
+
+
+---
 ## Personality  
-  
+
+
+---
 ## Abilities  
-  
+
+
+---
 ## History  
-  
+
+
+---
 ## Relationships  
-  
+
+
+---
 ## Trivia

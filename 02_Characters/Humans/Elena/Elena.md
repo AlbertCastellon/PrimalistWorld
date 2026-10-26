@@ -11,6 +11,9 @@ companion:
 ---
 # Elena Surani
 
+> [!abstract] Pages  
+> **Character**  • [[Elena Progression|Progression]]
+
 ## Overview
 
 **Class:** [[Elementalist]] | **Subclass:** [[Ice Weaver]] | **Rank:** 46 (Mid-Iron)
