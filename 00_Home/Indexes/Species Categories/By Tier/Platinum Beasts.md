@@ -1,0 +1,3 @@
+# Platinum Beasts
+
+- [[Luna Moth]]

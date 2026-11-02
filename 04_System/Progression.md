@@ -19,7 +19,7 @@ A Rank is determined by the total amount of Stats a being possesses. For every 1
 ## Subclasses
 Upon reaching Iron Tier, Wielders may acquire a Subclass. A Subclass is obtained by fulfilling specific requirements and obtaining an appropriate catalyst. Every Subclass grants a unique spell known as a Revelation.
 A Revelation is a spell perfectly suited to its owner and reflects both the nature of the Subclass and the Wielder's [[Path]].
-While some Subclasses tend to grant Revelations of specific Grades or themes, the exact spell is ultimately influenced by the [[Path]] followed by the Wielder. A Revelation is granted when the Subclass is first acquired and additional Revelations are gained whenever the Wielder reaches a new Tier. [[Arcane Beasts]] also recieve revelations each tier.
+While some Subclasses tend to grant Revelations of specific Grades or themes, the exact spell is ultimately influenced by the [[Path]] followed by the Wielder. A Revelation is granted when the Subclass is first acquired and additional Revelations are gained whenever the Wielder reaches a new Tier. [[Arcane Beasts]] also receive revelations each tier.
 
 ---
 ## Breakthroughs

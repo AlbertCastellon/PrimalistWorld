@@ -15,7 +15,7 @@ firstAppearance:
 # <% tp.file.title %>
 
 > [!abstract] Pages  
-> **Character** • [[|Stats]]
+> **Character** • [[|Stats]] • **Progession**
 
 
 ## Overview

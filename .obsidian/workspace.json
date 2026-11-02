@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "2922dd4f182b2475",
+    "id": "b39d20a6972cc0bf",
     "type": "split",
     "children": [
       {
-        "id": "c3edfc0192efe78f",
+        "id": "3e83c43879df06da",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b2f7e81acc5891",
+            "id": "c93bfcfd4f29212b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Characters/Beasts/Colossus/Colossus.md",
+                "file": "03_World/Species/Arcane Beasts/Luna Moth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Colossus"
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Luna Moth"
             }
           }
         ]
@@ -41,21 +37,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93238ed2cadd389f",
+    "id": "ecd41e0e5b2c52ea",
     "type": "split",
     "children": [
       {
-        "id": "8ee3500c1e3854d2",
+        "id": "27599b964807ec2b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0313468cfcb288",
+            "id": "7bd7c97fc0f36e8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "1f98bc37c6cf9ca9",
+            "id": "c7e8980a5e34a5a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,11 +77,14 @@
             }
           },
           {
-            "id": "f87d60707dc22069",
+            "id": "02b7e139b7c03652",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -94,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
-    "id": "87fd7968437254c9",
+    "id": "b19eb15d0d6fe651",
     "type": "split",
     "children": [
       {
-        "id": "a14a7f00be0f821b",
+        "id": "eab5eb219b96df8d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c0c7c1b4d6410a",
+            "id": "ff73820b74291709",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "file": "00_Home/Indexes/Subclasses Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Tenebrous Direwolf.md"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "fdd9444ae6840183",
+            "id": "4aaa374e7bd69c40",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "file": "00_Home/Indexes/Subclasses Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tenebrous Direwolf.md"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "33528667621727a9",
+            "id": "a253c8975e6146e8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +152,7 @@
             }
           },
           {
-            "id": "0fc7b44ff4917293",
+            "id": "ad07e42f35fe9006",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,18 +166,18 @@
             }
           },
           {
-            "id": "de236e49d49d4248",
+            "id": "bd78b4566fea7e07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_World/Species/Tenebrous Direwolf.md.md",
+                "file": "00_Home/Indexes/Subclasses Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Tenebrous Direwolf.md"
+              "title": "Esquema"
             }
           }
         ]
@@ -200,69 +199,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1b2f7e81acc5891",
+  "active": "c93bfcfd4f29212b",
   "lastOpenFiles": [
-    "02_Characters/Humans/Seth/Seth Progression.md",
-    "04_System/Subclasses/Bearman.md",
-    "04_System/Subclasses/Battlemancer.md",
-    "02_Characters/Humans/Seth/Seth.md",
-    "04_System/Stats.md",
-    "04_System/Tiers/Silver Tier.md",
-    "02_Characters/Humans/Elena/Elena Progression.md",
-    "02_Characters/Beasts/Colossus/Colossus Progression.md",
-    "02_Characters/Beasts/Lumi/Lumi Progression.md",
-    "02_Characters/Beasts/Nightmare/Nightmare Progression.md",
-    "02_Characters/Humans/Elena/Elena.md",
-    "03_World/Seeds/Frigid Tulip.md",
-    "02_Characters/Beasts/Nightmare/Nightmare Stats.md",
-    "04_System/Spells/Cold Channel.md",
-    "02_Characters/Beasts/Colossus/Colossus Stats.md",
-    "02_Characters/Beasts/Shenlog.md",
-    "02_Characters/Beasts/Vorath.md",
-    "08_Templates/Beast Template.md.md",
-    "02_Characters/Beasts/Cub 1.md",
-    "02_Characters/Beasts/Lumi/Lumi.md",
-    "02_Characters/Beasts/Colossus/Colossus.md",
-    "02_Characters/Beasts/Nightmare/Nightmare.md",
-    "02_Characters/Humans/Seth/Seth.md",
-    "02_Characters/Humans/Seth/Seth Stats.md",
-    "02_Characters/Humans/Ayleen.md",
-    "03_World/Species/Humanoid Races/Beastkin.md",
-    "03_World/Species/Humanoid Races/Northmen.md",
-    "03_World/Species/Humanoid Races/Elves.md",
-    "03_World/Species/Humanoid Races/Dwarves.md",
-    "03_World/Species/Arcane Beasts/Stormfang Sabertooth.md",
-    "04_System/Classes/Farmer.md",
-    "02_Characters/Humans/Elena",
-    "08_Templates/Progression Template.md.md",
-    "02_Characters/Humans/Elena",
-    "00_Home/Indexes/Classes Index.md",
-    "04_System/Classes/Scribe.md",
-    "04_System/Classes/Scholar.md",
-    "04_System/Classes/Enchanter.md",
-    "04_System/Classes/Artificer.md",
-    "03_World/Rifts.md",
-    "04_System/Spell System.md",
+    "00_Home/Indexes/Species Categories/By Tier/Platinum Beasts.md",
+    "00_Home/Indexes/Species Categories/By Tier/Iron Beasts.md",
+    "00_Home/Indexes/Species Categories/By Element/Undead Beasts.md",
+    "00_Home/Indexes/Species Categories/Biologically/Arthropods.md",
+    "03_World/Species/Arcane Beasts/Luna Moth.md",
+    "02_Characters/Humans/Sylvaren.md",
+    "02_Characters/Humans/Zakar.md",
+    "03_World/Elemental Affinity.md",
     "03_World/Arcane Beasts.md",
-    "07_Media/Oracle_Guild.png",
-    "07_Media/Species/Galestrike_Stalker.png",
-    "03_World/Species/Humanoid Races",
-    "03_World/Species/Arcane Beasts",
-    "07_Media/Species/Three-Tailed_Giant_Scorpion.png",
-    "07_Media/Species/Oracle_Snake.png",
-    "07_Media/Species/One-Horned_Imp.png",
-    "07_Media/Species/Obsidian_Dread-Drake.png",
-    "07_Media/Species/Luminous_Otter.png",
-    "07_Media/Species/Inferno_Bear.png",
-    "07_Media/Species/Glacial_Shield-Horntail.png",
-    "07_Media/Species/Desert_Snake.png",
-    "Sin título.canvas",
-    "02_Characters/Beasts/Lumi",
-    "02_Characters/Beasts/Colossus",
-    "02_Characters/Beasts/Nightmare",
-    "02_Characters/Humans/Seth",
-    "07_Media/Species",
-    "Sin nombre 8",
-    "Sin nombre 7"
+    "03_World/Artifacts.md",
+    "03_World/Aether.md",
+    "03_World/Species/Humanoid Races/Dark Elves.md",
+    "03_World/Species/Humanoid Races/Dwarves.md",
+    "03_World/Species/Humanoid Races/Elves.md",
+    "03_World/Species/Humanoid Races/Humans.md",
+    "03_World/Species/Humanoid Races/Northmen.md",
+    "03_World/Species/Humanoid Races/Skaari.md",
+    "04_System/Stats.md",
+    "04_System/Spell System.md",
+    "04_System/Progression.md",
+    "08_Templates/Character Template.md.md",
+    "02_Characters/Beasts/Lumi/Lumi Progression.md",
+    "03_World/Species/Humanoid Races/Beastkin.md",
+    "02_Characters/Beasts/Colossus/Colossus Progression.md",
+    "02_Characters/Beasts/Colossus/Colossus Stats.md",
+    "00_Home/Indexes/Spells Index.md"
   ]
 }

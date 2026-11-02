@@ -8,7 +8,6 @@
 - [[Rageborn Champion]]
 
 ---
-
 ## Guardian
 
 - [[Paladin]]
@@ -16,7 +15,6 @@
 - [[Light Crusader]]
 
 ---
-
 ## Rogue
 
 - [[Archer]]
@@ -24,7 +22,6 @@
 - [[Dark Assassin]]
 
 ---
-
 ## Elementalist
 
 - [[Cryomancer]]
@@ -32,7 +29,6 @@
 - [[Ice Weaver]]
 
 ---
-
 ## Primalist
 
 - [[Druid]]
@@ -44,9 +40,9 @@
 - [[Stormcaller]]
 - [[Nature Fortifier]]
 - [[Beastmaster]]
+- [[Bearman]]
 
 ---
-
 ## Blacksmith
 
 - [[Weaponsmith]]

@@ -5,3 +5,4 @@
 - [[Undead Rhinoceros]]
 - [[Skeleton Knight]]
 - [[Undead Giant]]
+- [[Luna Moth]]

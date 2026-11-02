@@ -6,3 +6,6 @@
 - [[Night Beetle]]
 ## Mantis
 - [[Thorn-Legged Mantis]]
+
+## Moths
+- [[Luna Moth]]
